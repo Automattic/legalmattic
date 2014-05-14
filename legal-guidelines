@@ -1,0 +1,90 @@
+<!--
+ These are the Legal Guidelines that appear at http://transparency.automattic.com/legal-guidelines/
+ You can also find me at http://github.com/automattic/legalmattic
+ -->
+
+These guidelines are intended for lawyers or government officials who seek information about a WordPress.com user or action against a resource hosted on our network.
+
+<h4>What User Information Does WordPress.com Track?</h4>
+
+WordPress.com collects certain information from users and commenters. Our <a href="http://automattic.com/privacy/">Privacy Policy </a>describes the information that we collect in more detail.
+
+The information we collect is:
+<ul>
+	<li>First name, last name, and phone number (if a user elects to provide this information).</li>
+	<li>The email address that is currently assigned to a site owner.</li>
+	<li>The IP address from which a site was created.</li>
+	<li>The date and time (UTC) at which a site was created.</li>
+	<li>Address (if user has registered a custom domain through WordPress.com).</li>
+	<li>The PayPal transaction information for any upgrades that are purchased for a site (this does not include credit card or bank account information, but may include country code or postal code).</li>
+	<li>IP address and user-agent for any post or revision on a site.</li>
+	<li>Email address and IP address for any comment posted on a site.</li>
+</ul>
+
+<strong>Before revealing any of this information to a party that is not the owner of the account, we require either a validly issued subpoena, warrant, or court order that specifically requests it. </strong>More information on our requirements for releasing private user information can be found below.
+
+<h4>Data Retention Information</h4>
+
+WordPress.com retains various information, including posts and comments made to a site, for various lengths of time based on the type of information and the user’s actions.
+
+<h4>Requesting Private Information of WordPress.com Users</h4>
+
+Safeguarding our users' private information is a vital aspect of the trust our users place in our service to keep them safe and in some cases, anonymous.
+
+It is our policy to turn over private user information only upon receipt of either (1) an order, specifically naming Automattic as a party, that has been validly issued by a United States court or (2) a subpoena that complies with Rule 45 of the Federal Rules of Civil Procedure and/or the California Discovery Act. For legal requests from outside the United States, we ask that the request be served via a United States court or enforcement agency under the procedures of an applicable mutual assistance legal treaty or letter rogatory.
+
+Please note that we charge an administrative fee of USD $125/hour for compliance with validly issued and served civil subpoenas. We will bill for and collect this fee prior to furnishing information in response to a subpoena.
+
+We require a warrant before disclosing content of user communications to government agencies/law enforcement. We also require a warrant before providing any non-public content information (such as private or draft post content, or pending comments).
+
+To request information for a blog hosted on WordPress.com, the blog URL must be specifically included in the request. To obtain information for a specific post or comment, the URL of that post or comment must be included in the request.
+
+WordPress.com profile information can contain various information such as names. Other than the email address that is associated with an account, this information is unverified and is provided at the user’s discretion.
+
+If we receive information indicating that someone is using our services to engage in crime where we are the victim, we will not inspect a user’s private content ourselves. Instead, we may refer the matter to law enforcement.
+
+<h4>Notification to WordPress.com Users and Transparency</h4>
+
+We aim for total transparency with our users when requests are made for their personal information or that affect their blogs or accounts. It is our policy to notify users and provide them with a copy of any civil or government legal process regarding their account or site (including requests for private information), unless we are prohibited by law or court order from doing so.
+
+If a request for information is valid, we will preserve the necessary information before informing the user. Upon notification to the user, that user will be provided with either 7 days or the amount of time before the information is due, whichever is later, during which time the user may attempt to quash or legally challenge the request. If, prior to the deadline, we receive notice from user that he or she intends to challenge a request, no information will be delivered until that process concludes. We also review the information requests receive, and may lodge our own challenge to the scope or validity of legal process received, on behalf of a user, whether or not the user pursues his/her own legal challenge.
+
+<h4>Preservation Requests for WordPress.com Blogs</h4>
+
+Requests for the preservation of information must originate from a law enforcement agency.
+
+<h4>Enforcing Protection Orders Against WordPress.com Users</h4>
+
+WordPress.com is not responsible for enforcing protection orders that apply to users on our service. If you represent a client with an active protection order that may apply to a WordPress.com blog, please contact the appropriate court or law enforcement agency for assistance.
+
+<h4>Who Is Liable for Blogs Hosted on WordPress.com?</h4>
+
+WordPress.com is located in the United States, as are all of our servers. We will respond only in compliance with US law and in reply to valid legal process as stated in our policies.
+
+WordPress.com, as a United States-based internet service provider, is protected by the safe harbor provisions of §230(c) of the United States Communications Decency Act, which states that internet service providers cannot be held liable for the contents (including allegedly harassing, defamatory, inaccurate, or offensive content) posted to our service by our users.
+
+WordPress.com does not and will not exercise editorial oversight on the millions of blogs hosted on our service, nor are we considered the author, editor, or publisher of that content in any way.
+
+<h4>Requests for Takedown of Copyrighted Content</h4>
+
+WordPress.com complies with properly formatted notices sent in accordance with the Digital Millennium Copyright Act. More information about our DMCA process can be found <a href="http://automattic.com/dmca/">here</a>.
+
+<h4>Serving Process on WordPress.com and Making Inquires</h4>
+
+Any request for user information must include:
+<ul>
+	<li>The URL of the blog in question.</li>
+	<li>If post or comment information is requested, you must provide the specific URLs of this information and its relationship to the claim in question. We are unable to process overly broad or vague requests.</li>
+	<li>A valid email address for us to return the information or any questions. WordPress.com communicates only via email.</li>
+</ul>
+
+Legal process can be served by mail to:
+
+<blockquote>Automattic Inc.
+132 Hawthorne St.
+San Francisco, CA 94107
+Attn: General Counsel</blockquote>
+
+Where permitted, we also accept service via email to court-orders@wordpress.com.
+
+General inquiries regarding our policies can be sent via email to court-orders@wordpress.com.
