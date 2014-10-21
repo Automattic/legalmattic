@@ -1,0 +1,13 @@
+Thank you for your report.
+
+The content that you have specified is served through WordPress.com's servers by our Photon service, which is a caching service that proxies third-party images through our own servers. So, we act as cacher only with respect to these images. 
+
+The original location of the content is shown below:
+
+XXXXXXXXXXXXXXXXXXX
+
+If you would like to request removal of these images under the DMCA, please file a DMCA notice with the owners of the originating websites.
+
+Following that, we are happy to remove the image files from our cache, upon receipt of a notice that the originating site has removed or disabled the images and/or a court order mandating that the images be removed from our cache or access to the materials on the originating site be disabled.
+
+Please let me know if we can be of any additional assistance.

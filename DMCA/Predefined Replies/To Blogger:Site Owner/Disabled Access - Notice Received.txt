@@ -1,0 +1,20 @@
+Hi there,
+
+We've received the DMCA notice (http://chillingeffects.org/dmca512/faq.cgi#QID130) below regarding material published on your WordPress.com site, which means the complainant is asserting ownership of this material and claiming that your use of it is not permitted by him/her or the law. As required by the DMCA, we have disabled public access to the material. Please note that republishing the material without permission from the copyright holder will result in the permanent suspension of your WordPress.com site and/or account.
+
+Repeated incidents of copyright infringement will also lead to the permanent suspension of your WordPress.com site. We certainly don't want that to happen, so please delete any other material you may have uploaded for which you don't have the necessary rights and and refrain from uploading additional material that you do not have permission to upload. Although we can't provide legal advice, we're happy to point you to copyright law resources that might help you make this determination.
+
+Alternatively, if you believe that this notice was received in error, or if you believe your usage of this material would be considered fair use, it's important that you submit a formal DMCA counter-notice to ensure that your WordPress.com site remains operational. A valid counter-notice will result in the material being returned to your site in 10 business days if the complainant does not reply with legal action.
+
+Please refer to the following pages for more information:
+
+http://en.support.wordpress.com/counter-notice/
+http://automattic.com/dmca/dmca-counter-notice/
+
+Thank you.
+
+
+--- BEGIN NOTICE ---
+
+
+--- END NOTICE ---
