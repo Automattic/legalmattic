@@ -1,6 +1,6 @@
 Hi there,
 
-We have received a DMCA notice (http://chillingeffects.org/dmca512/faq.cgi#QID130) for material published on your WordPress.com site. Normally this would mean that we would have to disable access to the material in question. However, because we believe this to fall under fair use protections, we will not be removing it at this time. 
+We have received a DMCA notice (https://www.eff.org/issues/bloggers/legal/liability/IP#dmca) for material published on your WordPress.com site. Normally this would mean that we would have to disable access to the material in question. However, because we believe this to fall under fair use protections, we will not be removing it at this time. 
 
 Section 107 of the copyright law identifies various purposes for which the reproduction of a particular work may be considered fair, such as criticism, comment, news reporting, teaching, scholarship, and research. You can learn more here:
 
