@@ -1,0 +1,18 @@
+Hi there,
+
+We have received the below DMCA Takedown Notice (https://www.eff.org/issues/bloggers/legal/liability/IP#dmca) for material published on your WordPress.com site.
+
+We have disabled public access to the material as required by the DMCA.
+
+As mentioned in our previous emails, repeated receipt of DMCA takedown notices for your WordPress.com site will lead to its suspension. Because we have received several DMCA notices against your site that have not been countered, we will suspend your site pursuant to our repeat infringer policy in 10 business days unless you submit a valid counter-notice as described here: 
+
+http://en.support.wordpress.com/counter-notice/
+http://automattic.com/dmca/dmca-counter-notice/
+
+If you believe that this notice was received in error, it is important that you formally challenge this notice to ensure that your WordPress.com site remains operational.
+
+Thank you.
+
+— BEGIN NOTICE —
+
+— END NOTICE —
