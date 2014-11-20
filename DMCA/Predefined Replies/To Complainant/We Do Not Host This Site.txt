@@ -1,0 +1,12 @@
+Hi there,
+
+I'm sorry, but the web site that you have reported is not hosted at WordPress.com. As such, we are unable to provide any direct assistance in this manner.
+
+The fact that the site was built using WordPress, or may mention 'Powered by WordPress' (or something similar) simply means it is using the WordPress.org software, which may be downloaded and installed on any web host. Please refer to http://en.support.wordpress.com/com-vs-org/ for the further differences between WordPress.com and WordPress.org.
+
+If you need assistance in determining a web site's host, we recommend reviewing the following articles:
+
+http://www.plagiarismtoday.com/stopping-internet-plagiarism/3-finding-the-host/
+http://www.plagiarismtoday.com/2009/07/16/6-steps-to-find-a-hosts-dmca-contact/
+
+Thank you for your report, and we're sorry we couldn't help.
