@@ -11,7 +11,7 @@ WordPress.com is a publishing platform where bloggers often use copyrighted mate
 Please follow these steps to file a notice:
 
 1. **Verify that the blog in question is hosted by Automattic.** We have no control over blogs that say "Powered by WordPress." Those blogs use the open source WordPress software and are not hosted by us. Please contact the appropriate web host with complaints. We only host blogs that have "wordpress.com" in their URL or that say "Blog at WordPress.**com**" on the site.
-2. **Contact the blogger directly. **Go to the blog post in question and leave a comment with your complaint to see if the matter can be resolved directly between you and the blogger.
+2. **Contact the blogger directly.** Go to the blog post in question and leave a comment with your complaint to see if the matter can be resolved directly between you and the blogger.
 3. **Send your complaint to our designated agent via the form below**, if the issue cannot be resolved directly with the blogger.
 
 As required by the DMCA, we have a policy to terminate users and/or sites that we consider to be repeat infringers. Although we won’t share the specifics of our repeat infringer policy (we don't want anyone to game the system, after all), we believe that it strikes the right balance of protecting the rights of copyright owners as well as protecting legitimate users from wrongful termination. Please note that notices that are successfully countered, rejected on fair use grounds, or deemed to be fraudulent are not counted against a user or site.
