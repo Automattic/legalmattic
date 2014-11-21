@@ -8,7 +8,7 @@
 
 서비스 약관에 위배된다고 생각되는 WordPress.com 사이트가 있는 경우에는 [분쟁 해결 및 신고 페이지를 방문하세요](http://en.support.wordpress.com/disputes/).
 
-[![Creative Commons License](http://creativecommons.org/images/public/somerights20)](http://creativecommons.org/licenses/by-sa/3.0/) (**Creative Commons Sharealike** 라이선스 하에 아래의 서비스 약관을 제공하기로 했습니다. 얼마든지 가져가서 원하는 대로 용도에 맞게 변경하셔도 좋습니다. Wordpress가 참조된 부분을 적절하게 모두 변경하세요. 원하실 경우 사이트에 WordPress.com 링크를 넣어 주시기 바랍니다. 아래 서비스 약관을 작성하는 데 적지 않은 돈과 시간이 들었지만 다른 사람도 굳이 같은 과정을 거쳐야 할 필요는 없습니다.)
+[Creative Commons License](http://creativecommons.org/licenses/by-sa/3.0/): (**Creative Commons Sharealike** 라이선스 하에 아래의 서비스 약관을 제공하기로 했습니다. 얼마든지 가져가서 원하는 대로 용도에 맞게 변경하셔도 좋습니다. Wordpress가 참조된 부분을 적절하게 모두 변경하세요. 원하실 경우 사이트에 WordPress.com 링크를 넣어 주시기 바랍니다. 아래 서비스 약관을 작성하는 데 적지 않은 돈과 시간이 들었지만 다른 사람도 굳이 같은 과정을 거쳐야 할 필요는 없습니다.)
 
 #### 서비스 약관:
 
