@@ -8,7 +8,7 @@ Per informazioni sui tipi di sito graditi o non graditi nel nostro servizio, con
 
 Se accedi a un sito WordPress.com che viola i nostri Termini di servizio, [visita la pagina sulla segnalazione e la risoluzione delle controversie](http://en.support.wordpress.com/disputes/).
 
-[![Licenza Creative Commons](http://creativecommons.org/images/public/somerights20)](http://creativecommons.org/licenses/by-sa/3.0/) (Nota: abbiamo deciso di rendere disponibili i seguenti Termini di servizio ai sensi di una licenza **Creative Commons Sharealike** (Condividi allo stesso modo), ossia puoi sfruttare e riutilizzare liberamente il contenuto per uso personale accertandoti solo di sostituire i nostri riferimenti con i tuoi riferimenti personali e, se desideri, inserendo un link a WordPress.com in un'area del tuo sito. La redazione di questo contenuto ci ha richiesto tempo e denaro e non è necessario che altri utenti ripetano la stessa operazione.
+[Creative Commons License](http://creativecommons.org/licenses/by-sa/3.0/): (Nota: abbiamo deciso di rendere disponibili i seguenti Termini di servizio ai sensi di una licenza **Creative Commons Sharealike** (Condividi allo stesso modo), ossia puoi sfruttare e riutilizzare liberamente il contenuto per uso personale accertandoti solo di sostituire i nostri riferimenti con i tuoi riferimenti personali e, se desideri, inserendo un link a WordPress.com in un'area del tuo sito. La redazione di questo contenuto ci ha richiesto tempo e denaro e non è necessario che altri utenti ripetano la stessa operazione.
 
 #### Termini di servizio:
 
