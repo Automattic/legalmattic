@@ -38,17 +38,17 @@ Baca Perjanjian ini secara saksama sebelum mengakses atau menggunakan Situs web.
     Tanpa membatasi representasi atau jaminan tersebut, berdasarkan kebijakan internal, Automattic memiliki hak (namun tidak tanggung jawab) untuk (i) menolak atau menghapus konten, berdasarkan opini logis dari Automattic, melanggar kebijakan Automattic, atau dengan cara yang berbahaya atau tidak dibenarkan, atau (ii) menghentikan atau menolak akses dan penggunaan Situs web kepada individu atau entitas untuk alasan apa pun, berdasarkan kebijakan Automattic. Automattic tidak bertanggung jawab untuk memberikan pengembalian dana dengan nilai tertentu yang dibayarkan sebelumnya.
 3.  **Pembayaran dan Perpanjangan.**
 
-   *   **Ketentuan Umum. **
+   *   **Ketentuan Umum.**
 
         Layanan berbayar opsional, seperti penyimpanan ekstra atau pembelian domain, tersedia di Situs web (layanan tersebut, "Upgrade"). Dengan memilih Upgrade, berarti Anda setuju untuk membayar Automattic biaya langganan bulanan atau tahunan yang ditunjukkan pada layanan tersebut. Pembayaran akan dibebankan dengan basis prabayar pada tanggal saat Anda mendaftarkan diri dalam program Upgrade dan akan mencakup penggunaan layanan untuk periode langganan bulanan atau tahunan sebagaimana ditunjukkan. Biaya Upgrade tidak dapat dikembalikan.
    
-*   **Perpanjangan Otomatis. **
+   *   **Perpanjangan Otomatis.**
 
         Jika Anda tidak memberi tahu Automattic sebelum berakhirnya periode langganan yang berlaku dengan Upgrade yang ingin Anda batalkan, maka langganan Upgrade Anda akan diperpanjang secara otomatis dan Anda memberi otorisasi kepada kami untuk menarik biaya berlangganan tahunan atau bulanan untuk Upgrade tersebut (termasuk pajak) dengan menggunakan kartu kredit atau mekanisme pembayaran Anda lainnya yang kami miliki dalam catatan. Upgrade dapat dibatalkan kapan saja di bagian Upgrade pada dasbor situs Anda.
 
 4.  **Layanan VIP.**
 
-    * **Layanan Hosting, Layanan Pendukung.** Layanan VIP Hosting/Support dan VIP Support disediakan oleh Automattic berdasarkan syarat dan ketentuan untuk setiap layanan tersebut, yang masing-masing bisa dibaca di [vip.wordpress.com/hosting-tos](http://vip.wordpress.com/hosting-tos/) dan [vip.wordpress.com/support-tos](http://vip.wordpress.com/support-tos/). Dengan mendaftar akun layanan VIP Hosting/Support dan VIP Support, berarti Anda setuju untuk menaati syarat dan ketentuan tersebut.
+   * **Layanan Hosting, Layanan Pendukung.** Layanan VIP Hosting/Support dan VIP Support disediakan oleh Automattic berdasarkan syarat dan ketentuan untuk setiap layanan tersebut, yang masing-masing bisa dibaca di [vip.wordpress.com/hosting-tos](http://vip.wordpress.com/hosting-tos/) dan [vip.wordpress.com/support-tos](http://vip.wordpress.com/support-tos/). Dengan mendaftar akun layanan VIP Hosting/Support dan VIP Support, berarti Anda setuju untuk menaati syarat dan ketentuan tersebut.
 
 5.  **Firehose.**
 
