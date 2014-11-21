@@ -8,7 +8,7 @@ Verifique esta [página sobre tipos de blogs](http://wordpress.com/types-of-blog
 
 Caso você encontre um site no WordPress.com que pareça estar violando nossos termos de serviço, [acesse nossa página de relatório e solução de controvérsias](http://en.support.wordpress.com/disputes/).
 
-[![Licença Creative Commons](http://creativecommons.org/images/public/somerights20)](http://creativecommons.org/licenses/by-sa/3.0/) (Observe que os Termos de Serviço abaixo estão disponíveis sob licença "Creative Commons Atribuição - Compartilhamento pela mesma licença". Isto significa que você pode se apropriar deste conteúdo e utilizá-lo com outro propósito, lembrando de substituir as referências a nós por referências a você. Se você puder, adicione em seu site um link para o WordPress.com com créditos pela licença. Investimos muito tempo e dinheiro elaborando este documento. Outras pessoas não precisam fazer o mesmo!)
+[Creative Commons License](http://creativecommons.org/licenses/by-sa/3.0/): (Observe que os Termos de Serviço abaixo estão disponíveis sob licença "Creative Commons Atribuição - Compartilhamento pela mesma licença". Isto significa que você pode se apropriar deste conteúdo e utilizá-lo com outro propósito, lembrando de substituir as referências a nós por referências a você. Se você puder, adicione em seu site um link para o WordPress.com com créditos pela licença. Investimos muito tempo e dinheiro elaborando este documento. Outras pessoas não precisam fazer o mesmo!)
 
 #### Termos de Serviço:
 
