@@ -19,7 +19,7 @@ WordPress.com has certain information from users and commenters:
 *   Email address and IP address for a comment posted on a site.
 Our [Privacy Policy](http://automattic.com/privacy/) describes the information that we collect in more detail.
 
-**Before revealing any of this information to a party that is not the owner of the account, we require either a validly issued subpoena, warrant, or court order that specifically requests it. **More information on our requirements for releasing private user information can be found below.
+**Before revealing any of this information to a party that is not the owner of the account, we require either a validly issued subpoena, warrant, or court order that specifically requests it.** More information on our requirements for releasing private user information can be found below.
 
 #### Data Retention Information
 
