@@ -8,7 +8,7 @@ Anda dapat memeriksa [halaman kami terkait jenis blog](http://wordpress.com/type
 
 Jika Anda mendapati sebuah situs WordPress.com yang Anda percayai telah melanggar syarat layanan kami, harap [kunjungi halaman pelaporan &amp; penyelesaian perselisihan](http://en.support.wordpress.com/disputes/).
 
-[![Lisensi Creative Commons](http://creativecommons.org/images/public/somerights20)](http://creativecommons.org/licenses/by-sa/3.0/) (Penting untuk diketahui bahwa kami memutuskan untuk menyediakan Ketentuan Layanan di bawah berdasarkan lisensi **Creative Commons Sharealike**, yang berarti Anda sangat diperbolehkan untuk menggunakannya dan memanfaatkannya untuk Anda gunakan sendiri, cukup pastikan untuk mengganti rujukan kepada kami dalam rujukan Anda, dan jika Anda menghendaki, kami sangat mengapresiasi tautan ke WordPress.com, di mana pun pada situs Anda. Kami berkorban banyak dana dan waktu, dan orang lain tidak harus melakukan hal yang sama.)
+[Creative Commons License](http://creativecommons.org/licenses/by-sa/3.0/): (Penting untuk diketahui bahwa kami memutuskan untuk menyediakan Ketentuan Layanan di bawah berdasarkan lisensi **Creative Commons Sharealike**, yang berarti Anda sangat diperbolehkan untuk menggunakannya dan memanfaatkannya untuk Anda gunakan sendiri, cukup pastikan untuk mengganti rujukan kepada kami dalam rujukan Anda, dan jika Anda menghendaki, kami sangat mengapresiasi tautan ke WordPress.com, di mana pun pada situs Anda. Kami berkorban banyak dana dan waktu, dan orang lain tidak harus melakukan hal yang sama.)
 
 #### Syarat Layanan:
 
