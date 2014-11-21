@@ -8,7 +8,7 @@ Je kunt [onze pagina over typen blogs](http://wordpress.com/types-of-blogs/) bek
 
 Als je een WordPress.com site ontdekt waarvan je denkt dat deze in strijd is met onze servicevoorwaarden, nodigen we je uit [naar onze pagina voor het oplossen en rapporteren van geschillen te gaan](http://en.support.wordpress.com/disputes/).
 
-[![Creative Commons-licentie](http://creativecommons.org/images/public/somerights20)](http://creativecommons.org/licenses/by-sa/3.0/) (Opmerking: We hebben besloten de onderstaande Servicevoorwaarden beschikbaar te stellen onder een **Creative Commons-GelijkDelen**-licentie. Dat betekent dat we je van harte uitnodigen de voorwaarden te kopiëren en voor eigen gebruik aan te passen. Let er wel op dat je verwijzingen naar ons vervangt door die naar jou. En we zouden het waarderen als je ergens op je site een link naar WordPress.com plaatst. We hebben veel geld en tijd aan het onderstaande besteed en vinden dat anderen dat niet ook hoeven te doen.)
+[Creative Commons License](http://creativecommons.org/licenses/by-sa/3.0/): (Opmerking: We hebben besloten de onderstaande Servicevoorwaarden beschikbaar te stellen onder een **Creative Commons-GelijkDelen**-licentie. Dat betekent dat we je van harte uitnodigen de voorwaarden te kopiëren en voor eigen gebruik aan te passen. Let er wel op dat je verwijzingen naar ons vervangt door die naar jou. En we zouden het waarderen als je ergens op je site een link naar WordPress.com plaatst. We hebben veel geld en tijd aan het onderstaande besteed en vinden dat anderen dat niet ook hoeven te doen.)
 
 #### Servicevoorwaarden:
 
