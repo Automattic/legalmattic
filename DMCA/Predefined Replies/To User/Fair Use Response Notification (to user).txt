@@ -2,15 +2,14 @@ Hi there,
 
 We have received a DMCA notice (https://www.eff.org/issues/bloggers/legal/liability/IP#dmca) for material published on your WordPress.com site. 
 
-Normally this would mean that access to the material would need to be disabled. However, because we believe that it falls under fair use protections in this instance, we will not be removing it at this time. 
+Normally this would mean that we'd have to disable access to the material. However, because we believe that this instance falls under fair use protections, we will not be removing it at this time. 
 
-Section 107 of the (US) copyright law identifies various purposes for which the reproduction of a particular work may be considered fair, such as criticism, comment, news reporting, teaching, scholarship, and research. You can learn more about that here:
+Section 107 of US copyright law identifies various purposes for which the reproduction of a particular work may be considered fair, such as criticism, comment, news reporting, teaching, scholarship, and research. You can learn more about that here:
 
-http://www.copyright.gov/title17/
-
+http://www.copyright.gov/title17
 http://www.copyright.gov/fls/fl102.html
 
-Whilst we believe that your use of the material is protected (and have fought for our users in similar cases in the past - http://en.blog.wordpress.com/2013/11/21/striking-back-against-censorship/ ), the complainant may choose to pursue this matter directly. If you would prefer, you are still able to delete the content from your site yourself.
+While we believe that your use of the material is protected (we have fought for our users in similar cases in the past - http://en.blog.wordpress.com/2013/11/21/striking-back-against-censorship/), please keep in mind that the complainant may choose to continue to pursue this matter, perhaps directly with you. If you would prefer, you are still able to delete the content from your site yourself.
 
 The notice we received from the complainant follows.
 
