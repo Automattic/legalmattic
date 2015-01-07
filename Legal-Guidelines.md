@@ -69,6 +69,10 @@ If a request for information is valid, we will preserve the necessary informatio
 
 Requests for the preservation of information must originate from a law enforcement agency.
 
+Our notification policy with regards to preservation requests is meant to protect user privacy and promote transparency, while also avoiding interference with legitimate investigations of criminal activity.
+
+When law enforcement requests that a preservation request remain confidential, we keep it confidential for 45 days, with the expectation that they will be serving a valid US subpoena or search warrant that includes the required certification (2705(b)) or court-ordered non-disclosure provision. If the certification or court order is obtained, we will keep the preservation request secret under the same conditions as the subpoena/warrant. If, after 45 days law enforcement has not served a subpoena or search warrant or has served one without the required certification or secrecy order, we inform the user of the request.
+
 #### Enforcing Protection Orders Against WordPress.com Users
 
 WordPress.com is not responsible for enforcing protection orders that apply to users on our service. If you represent a client with an active protection order that may apply to a WordPress.com site, please contact the appropriate court or law enforcement agency for assistance.
