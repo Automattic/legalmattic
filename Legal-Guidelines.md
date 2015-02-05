@@ -51,7 +51,7 @@ We require a warrant before disclosing content of user communications to governm
 
 **_Emergency Requests from Government Agencies/Law Enforcement_**
 
-As permitted by US law, we may disclose user information to the government or law enforcement, without a subpoena or warrant if we have a good faith belief that an emergency (danger of death or serious physical injury) requires disclosure of information related to the emergency without delay. We require emergency requests to be made in writing and include all the information available so that we may evaluate the urgency of the request.
+As permitted by US law, we may disclose user information to the government or law enforcement, without a subpoena or warrant if we have a good faith belief that an emergency (danger of death or serious physical injury) requires disclosure of information related to the emergency without delay. We require emergency requests to be made in writing and include all the information available so that we may evaluate the urgency of the request. Additionally, we may ask for a subpoena, search warrant, or court order after the disclosure.
 
 In these circumstances our policy is still to notify users and provide them with a copy of any legal process regarding their account or site unless we are prohibited by law or court order from doing so. However, in some circumstances, notification may come after the information has been disclosed.
 
