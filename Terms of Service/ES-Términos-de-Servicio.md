@@ -8,7 +8,7 @@ Puedes consultar [nuestra página acerca de los tipos de blogs](http://wordpres
 
 Si encuentras un sitio de WordPress.com que creas que infringe nuestras condiciones de servicio, [visita nuestra página de informe y resolución de conflictos](http://en.support.wordpress.com/disputes/).
 
-[Creative Commons License](http://creativecommons.org/licenses/by-sa/3.0/): (Hemos decidido poner a disposición de los usuarios las siguientes condiciones de servicio con una licencia **Creative Commons Sharealike**, lo que significa que no hay ningún problema si copias el contenido y lo reformulas para tu propio uso; solo tienes que asegurarte de reemplazar las referencias que se hagan a nosotros con las tuyas y, si te parece bien, nos encantaría que incluyeras un enlace a WordPress.com en algún lugar de tu sitio. Hemos dedicado mucho tiempo y dinero para crear lo que viene a continuación y no es necesario que otros hagan lo mismo.)
+[Creative Commons License](http://creativecommons.org/licenses/by-sa/4.0/): (Hemos decidido poner a disposición de los usuarios las siguientes condiciones de servicio con una licencia **Creative Commons Sharealike**, lo que significa que no hay ningún problema si copias el contenido y lo reformulas para tu propio uso; solo tienes que asegurarte de reemplazar las referencias que se hagan a nosotros con las tuyas y, si te parece bien, nos encantaría que incluyeras un enlace a WordPress.com en algún lugar de tu sitio. Hemos dedicado mucho tiempo y dinero para crear lo que viene a continuación y no es necesario que otros hagan lo mismo.)
 
 #### Condiciones de servicio:
 
