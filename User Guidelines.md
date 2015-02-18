@@ -13,11 +13,9 @@ To be transparent about what is and isn't allowed on your site, we’ve put tog
 
 **Illegal content and conduct.**
 
-<dl>
-
 <dd>Self-explanatory.</dd>
 
-<dt>**Intellectual property infringement.**</dt>
+**Intellectual property infringement.**
 
 <dd>WordPress.com is a publishing, rather than a file sharing platform, so we recognize that copyrighted materials are often used in [fair use](http://en.support.wordpress.com/fair-use/) context. We strongly support this and urge copyright holders to take this into consideration before submitting complaints. If you're not sure, a good rule of thumb is to always ask the rights holder for permission before republishing their content.</dd>
 
@@ -46,8 +44,6 @@ To be transparent about what is and isn't allowed on your site, we’ve put tog
 <dt>**Spam or machine-generated content.**</dt>
 
 <dd>You know what this is, but in general, sites such as those primarily dedicated to drive traffic to third party sites, boost SEO, phish, spoof, or promote affiliate marketing aren’t cool. We don’t want you to pollute the web outside of WordPress.com either, so we ask you to please avoid sending unwanted or unsolicited promotions or emails about your site, even if it’s not on WordPress.com.</dd>
-
-</dl>
 
 * * *
 
