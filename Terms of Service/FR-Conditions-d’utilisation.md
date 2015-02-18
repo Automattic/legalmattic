@@ -8,7 +8,7 @@ Vous pouvez consulter [notre page sur les types de blogs](http://wordpress.com/t
 
 Si vous trouvez un site WordPress.com qui, selon vous, est contraire aux conditions d’utilisation, [rendez-vous sur notre page de résolution des conflits et de signalement](http://en.support.wordpress.com/disputes/).
 
-[Creative Commons License](http://creativecommons.org/licenses/by-sa/3.0/): (Veuillez noter que nous avons décidé de mettre les conditions d’utilisation suivantes à disposition dans le cadre d’une licence **Creative Commons de partage des conditions initiales à l’identique**. En d’autres termes, vous pouvez les copier et les réutiliser. N’oubliez cependant pas de remplacer toute référence à nous par une référence à vous et, si possible, de bien vouloir inclure un lien vers WordPress.com sur votre site. Nous avons consacré beaucoup de temps et d’argent à leur rédaction et pensons qu’il est inutile que vous soyez contraint d’en faire autant.)
+[Creative Commons License](http://creativecommons.org/licenses/by-sa/4.0/): (Veuillez noter que nous avons décidé de mettre les conditions d’utilisation suivantes à disposition dans le cadre d’une licence **Creative Commons de partage des conditions initiales à l’identique**. En d’autres termes, vous pouvez les copier et les réutiliser. N’oubliez cependant pas de remplacer toute référence à nous par une référence à vous et, si possible, de bien vouloir inclure un lien vers WordPress.com sur votre site. Nous avons consacré beaucoup de temps et d’argent à leur rédaction et pensons qu’il est inutile que vous soyez contraint d’en faire autant.)
 
 #### Conditions d’utilisation :
 
