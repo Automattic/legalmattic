@@ -15,7 +15,7 @@ To be transparent about what is and isn't allowed on your site, we’ve put tog
 
 <dd>Self-explanatory.</dd>
 
-**Intellectual property infringement.**
+<dt>**Intellectual property infringement.**</dt>
 
 <dd>WordPress.com is a publishing, rather than a file sharing platform, so we recognize that copyrighted materials are often used in [fair use](http://en.support.wordpress.com/fair-use/) context. We strongly support this and urge copyright holders to take this into consideration before submitting complaints. If you're not sure, a good rule of thumb is to always ask the rights holder for permission before republishing their content.</dd>
 
@@ -25,9 +25,15 @@ To be transparent about what is and isn't allowed on your site, we’ve put tog
 
 <dt>**Technologically harmful content.**</dt>
 
-<dd>Please don’t upload or link to malware, spyware, adware, or other malicious or destructive code.</dd><dt>**Impersonation.**</dt><dd>Don’t claim to be a person or organization you’re not. (Parody and satire are ok though!)</dd>
+<dd>Please don’t upload or link to malware, spyware, adware, or other malicious or destructive code.</dd>
 
-<dt>**Directly threatening material.**</dt><dd>We don’t tolerate direct and realistic threats of violence. (This doesn't mean that we'll remove all hyperbole or offensive language.)</dd>
+<dt>**Impersonation.**</dt>
+
+<dd>Don’t claim to be a person or organization you’re not. (Parody and satire are ok though!)</dd>
+
+<dt>**Directly threatening material.**</dt>
+
+<dd>We don’t tolerate direct and realistic threats of violence. (This doesn't mean that we'll remove all hyperbole or offensive language.)</dd>
 
 <dt>**Posting private information.**</dt>
 
