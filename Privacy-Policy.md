@@ -11,7 +11,7 @@ Your privacy is critically important to us. At Automattic we have a few fundamen
 *   We don't share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
 *   We don't store personal information on our servers unless required for the on-going operation of one of our services.
 *   In our blogging products, we aim to make it as simple as possible for you to control what's visible to the public, seen by search engines, kept private, and permanently deleted.
-Below is our privacy policy which incorporates these goals: (Note, we've decided to make this privacy policy available under a [Creative Commons Sharealike](http://creativecommons.org/licenses/by-sa/2.5/) license, which means you're more than welcome to steal it and repurpose it for your own use, just make sure to replace references to us with ones to you, and if you want we'd appreciate a link to Automattic.com somewhere on your site. We spent a lot of money and time on the below, and other people shouldn't need to do the same.)
+Below is our privacy policy which incorporates these goals: (Note, we've decided to make this privacy policy available under a [Creative Commons Sharealike](http://creativecommons.org/licenses/by-sa/4.0/) license, which means you're more than welcome to steal it and repurpose it for your own use, just make sure to replace references to us with ones to you, and if you want we'd appreciate a link to Automattic.com somewhere on your site. We spent a lot of money and time on the below, and other people shouldn't need to do the same.)
 
 If you have questions about deleting or correcting your personal data please contact our [support team](http://en.support.wordpress.com/).
 
@@ -63,3 +63,4 @@ Although most changes are likely to be minor, Automattic may change its Privacy 
 *   _July 1, 2010:_ Revised paragraph about IP addresses to explain when they are collected and that commenter IPs are visible to blog administrators
 *   _October 29, 2009:_ Added Comments paragraph to explain Akismet comment storage policy
 *   _March 10, 2009:_ Added Ads paragraph to alert users that ads from third parties may use cookies
+*   _February 18, 2015:_ Updated Creative Commons license from 2.5 to 4.0
