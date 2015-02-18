@@ -10,4 +10,4 @@ Since these documents are licensed under a Creative Commons license (see below f
 If you notice any typos or would like to suggest any changes, please contribute a pull request.
 
 ### License
-As noted in our license file, the content here is licensed under the [Creative Commons Attribution-ShareAlike 3.0 Unported license](http://creativecommons.org/licenses/by-sa/3.0/legalcode). Please feel free to make alterations via pull-request.
+As noted in our license file, the content here is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International license](http://creativecommons.org/licenses/by-sa/4.0/). Please feel free to make alterations via pull-request.
