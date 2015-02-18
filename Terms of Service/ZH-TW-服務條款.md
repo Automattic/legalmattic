@@ -8,7 +8,7 @@
 
 如果你發現某個 WordPress.com 網站違反了服務條款，請[造訪我們的糾紛調解和回報頁面](http://en.support.wordpress.com/disputes/)。
 
-(請注意，我們已決定依據 [Creative Commons Sharealike](http://creativecommons.org/licenses/by-sa/3.0/) 授權提出以下的「服務條款」，這表示我們非常歡迎你隨意複製再自行運用，但請務必將引用字詞替換為我們，還有，如果你不介意的話，&nbsp;請在你的網站上顯示 WordPress.com 的連結，我們會很感激。我們花了很多金錢和時間寫出以下內容，而其他人不需做相同的事。)
+(請注意，我們已決定依據 [Creative Commons Sharealike](http://creativecommons.org/licenses/by-sa/4.0/) 授權提出以下的「服務條款」，這表示我們非常歡迎你隨意複製再自行運用，但請務必將引用字詞替換為我們，還有，如果你不介意的話，&nbsp;請在你的網站上顯示 WordPress.com 的連結，我們會很感激。我們花了很多金錢和時間寫出以下內容，而其他人不需做相同的事。)
 
 #### 服務條款：
 
