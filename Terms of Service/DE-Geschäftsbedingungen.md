@@ -8,7 +8,7 @@ Sie können [unsere Seite zu Arten von Blogs überprüfen,](http://wordpress.co
 
 Wenn Sie eine WordPress.com Website finden, die Ihres Erachtens gegen unsere Geschäftsbedingungen verstößt, besuchen [Sie bitte unsere Seite zu Streitbeilegung und Meldung](http://en.support.wordpress.com/disputes/).
 
-[Creative Commons License](http://creativecommons.org/licenses/by-sa/3.0/): (Hinweis: Wir haben beschlossen, die nachfolgenden Geschäftsbedingungen unter einer  **Creative-Commons-/Sharelike-** Lizenz zur Verfügung zu stellen. Sie dürfen diese also gern stehlen und für Ihre eigene Verwendung zweckentfremden. Stellen Sie nur sicher, Verweise auf uns durch eigene zu ersetzen. Wir würden auch einen Link zu WordPress.com an irgendeiner Stelle auf Ihrer Website schätzen. Wir haben viel Zeit und Geld in die nachstehenden Geschäftsbedingungen investiert, und andere Menschen sollten dies nicht tun müssen.)
+[Creative Commons License](http://creativecommons.org/licenses/by-sa/4.0/): (Hinweis: Wir haben beschlossen, die nachfolgenden Geschäftsbedingungen unter einer  **Creative-Commons-/Sharelike-** Lizenz zur Verfügung zu stellen. Sie dürfen diese also gern stehlen und für Ihre eigene Verwendung zweckentfremden. Stellen Sie nur sicher, Verweise auf uns durch eigene zu ersetzen. Wir würden auch einen Link zu WordPress.com an irgendeiner Stelle auf Ihrer Website schätzen. Wir haben viel Zeit und Geld in die nachstehenden Geschäftsbedingungen investiert, und andere Menschen sollten dies nicht tun müssen.)
 
 #### Geschäftsbedingungen:
 
