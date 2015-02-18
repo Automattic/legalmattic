@@ -8,7 +8,7 @@ Hizmetimizden yararlanmasına izin verilen (ya da verilmeyen!) site türleri hak
 
 Hizmet kullanım koşullarımızı ihlal ettiğini düşündüğünüz bir WordPress.com sitesiyle karşılaşırsanız, lütfen [ihtilaf çözümü ve raporlama sayfamızı ziyaret edin](http://en.support.wordpress.com/disputes/).
 
-[Creative Commons License](http://creativecommons.org/licenses/by-sa/3.0/): (Aşağıdaki Hizmet Koşullarını bir **Creative Commons Sharealike** lisansı altında kullanıma sunmaya karar verdik; yani bu metni alıp kendi amacınız doğrultusunda kullanabilirsiniz, bize ilişkin referansları kendinizinkilerle değiştirdiğinizden emin olun ve sitenizin herhangi bir yerinde bir WordPress.com ‘a bir bağlantı sağlarsanız memnun oluruz. Aşağıdaki metin için bir hayli nakit ve vakit harcadık, başkalarının da aynı şeyi yapmasına gerek yok.)
+[Creative Commons License](http://creativecommons.org/licenses/by-sa/4.0/): (Aşağıdaki Hizmet Koşullarını bir **Creative Commons Sharealike** lisansı altında kullanıma sunmaya karar verdik; yani bu metni alıp kendi amacınız doğrultusunda kullanabilirsiniz, bize ilişkin referansları kendinizinkilerle değiştirdiğinizden emin olun ve sitenizin herhangi bir yerinde bir WordPress.com ‘a bir bağlantı sağlarsanız memnun oluruz. Aşağıdaki metin için bir hayli nakit ve vakit harcadık, başkalarının da aynı şeyi yapmasına gerek yok.)
 
 #### Hizmet Koşulları:
 
