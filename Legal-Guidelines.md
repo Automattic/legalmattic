@@ -39,7 +39,7 @@ If we receive information indicating that someone is using our services to engag
 
 **_Requests from Government Agencies/Law Enforcement_**
 
-Except in emergencies (see more below), it is our policy to turn over private user information only upon receipt of a valid subpoena, search warrant, or U.S. Court order that complies with the Federal Rules of Criminal Procedure, the Federal Rules of Civil Procedure, and/or California state law.
+Except in emergencies (see more below), it is our policy to turn over private user information only upon receipt of a valid subpoena, search warrant, or US Court order that complies with the Federal Rules of Criminal Procedure, the Federal Rules of Civil Procedure, and/or California state law.
 
 For legal requests from government agencies/law enforcement from outside of the United States, we ask that the request be served via a United States court or enforcement agency under the procedures of an applicable mutual legal assistance treaty or letter rogatory.
 
@@ -57,7 +57,7 @@ In these circumstances our policy is still to notify users and provide them with
 
 **_Requests in Civil Cases_**
 
-It is our policy to turn over private user information only upon receipt of either (1) a valid order from a U.S. court, or (2) a subpoena served as part of an existing lawsuit that complies with Rule 45 of the Federal Rules of Civil Procedure and/or the California Discovery Act. For legal requests from outside the United States, we ask that the request be served via a United States court or enforcement agency under the procedures of an applicable mutual legal assistance treaty or letter rogatory. Litigants should ensure that any such requests comply with the US SPEECH Act, 28 U.S.C. 4101 et seq.
+It is our policy to turn over private user information only upon receipt of either (1) a valid order from a US court, or (2) a subpoena served as part of an existing lawsuit that complies with Rule 45 of the Federal Rules of Civil Procedure and/or the California Discovery Act. For legal requests from outside the United States, we ask that the request be served via a United States court or enforcement agency under the procedures of an applicable mutual legal assistance treaty or letter rogatory. Litigants should ensure that any such requests comply with the US SPEECH Act, 28 U.S.C. 4101 et seq.
 
 Requests must identify the specific information (as listed above) sought.  If a request is overly broad or seeks information not applicable to Automattic, we will provide the email address that is currently assigned to a site owner, the IP address from which a site was created, and the date and time (UTC) at which a site was created.
 
