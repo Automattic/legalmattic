@@ -35,6 +35,8 @@ To request information for a site hosted on WordPress.com, the site’s .wordpre
 
 WordPress.com accounts can contain various information. This information is unverified and is provided at the user’s discretion.
 
+If your inquiry or request brings to our attention an ongoing violation of our policies or Terms of Service, we will address it per our usual procedure. This may or may not include contacting the user regarding their misconduct, removing content, or suspending the site entirely.
+
 If we receive information indicating that someone is using our services to engage in crime where we are the victim, we will not inspect a user’s private content ourselves. Instead, we may report the matter to law enforcement.
 
 **_Requests from Government Agencies/Law Enforcement_**
@@ -67,7 +69,7 @@ Please note that we charge an administrative fee of USD $125/hour for compliance
 
 #### Notification to WordPress.com Users and Transparency
 
-We aim for total transparency with our users when requests or complaints affect their sites, accounts, or information. It is our policy to notify users and provide them with a copy of any civil or government legal process regarding their account or site (including requests for private information), unless we are prohibited by law or court order from doing so.
+We aim for total transparency with our users when requests or complaints affect their sites, accounts, or information. It is our policy to notify users and provide them with a copy of any civil or government legal process regarding their account or site (including requests for private information), unless we are prohibited by law or court order from doing so. In those cases, we will notify users and provide them with a copy of the legal process when the prohibition expires.
 
 If a request for information is valid, we will preserve the necessary information before informing the user. In most cases, upon notification to the user, that user will be provided with either 7 days or the amount of time before the information is due, whichever is later, during which time the user may attempt to quash or legally challenge the request. If, prior to the deadline, we receive notice from user that he or she intends to challenge a request, no information will be delivered until that process concludes. We also review the information requests received and may lodge our own challenge to the scope or validity of legal process received, on behalf of a user, whether or not the user pursues his/her own legal challenge.
 
