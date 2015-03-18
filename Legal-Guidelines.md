@@ -57,6 +57,8 @@ As permitted by US law, we may disclose user information to the government or la
 
 In these circumstances our policy is still to notify users and provide them with a copy of any legal process regarding their account or site unless we are prohibited by law or court order from doing so. However, in some circumstances, notification may come after the information has been disclosed.
 
+Please contact us at law-enforcement@wordpress.com if you have an emergency request.
+
 **_Requests in Civil Cases_**
 
 It is our policy to turn over private user information only upon receipt of either (1) a valid order from a US court, or (2) a subpoena served as part of an existing lawsuit that complies with Rule 45 of the Federal Rules of Civil Procedure and/or the California Discovery Act. For legal requests from outside the United States, we ask that the request be served via a United States court or enforcement agency under the procedures of an applicable mutual legal assistance treaty or letter rogatory. Litigants should ensure that any such requests comply with the US SPEECH Act, 28 U.S.C. 4101 et seq.
