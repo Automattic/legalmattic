@@ -57,7 +57,7 @@ As permitted by US law, we may disclose user information to the government or la
 
 In these circumstances our policy is still to notify users and provide them with a copy of any legal process regarding their account or site unless we are prohibited by law or court order from doing so. However, in some circumstances, notification may come after the information has been disclosed.
 
-Please contact us at law-enforcement@wordpress.com if you have an emergency request.
+Please contact us at law-enforcement@wordpress.com and include "emergency" in the subject line if you have an emergency request.
 
 **_Requests in Civil Cases_**
 
