@@ -112,9 +112,8 @@ Any request for user information must include a valid email address for us to re
 Legal process can be served by mail to:
 
 Automattic Inc.
-132 Hawthorne St.
-San Francisco, CA 94107
-Attn: General Counsel
+548 Market St #63259
+San Francisco, CA 94104-5401
 
 Where permitted, we also accept service via email to court-orders@wordpress.com.
 
