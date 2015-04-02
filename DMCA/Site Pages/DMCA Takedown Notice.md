@@ -4,7 +4,7 @@ Please note that we are unable to process DMCA notices that refer to sites hos
 
 WordPress.com is a publishing platform where bloggers often use copyrighted materials in commentary or journalism, or transform the materials into something original of their own. As such, before submitting a DMCA notice, it’s important to consider if the manner in which the material is used falls under **[fair use](http://en.support.wordpress.com/fair-use/)**. If you are not sure whether material located on a WordPress.com site infringes your copyright, or if it is subject to fair use protections, you should first consider seeking legal advice.
 
-**Please be advised that you may be liable for damages (including costs and attorneys’ fees) if you materially misrepresent that material or activity is infringing. **[**We have and will seek to collect those damages**](http://en.blog.wordpress.com/2013/11/21/striking-back-against-censorship/)**.**
+**Please be advised that you may be liable for damages (including costs and attorneys’ fees) if you materially misrepresent that material or activity is infringing. **[**We have and will seek to collect those damages**](http://www.theverge.com/2015/3/9/8175491/wordpress-automattic-wins-dmca-takedown-straight-pride-uk-case)**.**
 
 **Your DMCA notice will be forwarded to the party that made the material available, and also may be sent to third parties such as **[**ChillingEffects.org**](http://www.chillingeffects.org/)**.**
 
