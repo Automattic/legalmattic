@@ -3,27 +3,46 @@
  You can also find me at http://github.com/automattic/legalmattic
  -->
 
-These guidelines are intended for those seeking information about a WordPress.com user, or looking to take action against a resource hosted on our network.
-
 #### What Information Do We Have?
 
-WordPress.com has certain information from users and commenters:
+WordPress.com has certain information from users and commenters. The following is a summary of the information that we may collect and store.
 
-*   First name, last name, and phone number (if a user elects to provide this information).
-*   The email address that is currently assigned to a site owner.
-*   The IP address from which a site was created.
-*   The date and time (UTC) at which a site was created.
-*   Physical address (if user has registered a custom domain through WordPress.com).
-*   The PayPal transaction information for any upgrades that are purchased for a site (this does not include credit card or bank account information, but may include country code or postal code).
-*   IP address and user-agent for a post or revision on a site.
-*   Email address and IP address for a comment posted on a site.
-Our [Privacy Policy](http://automattic.com/privacy/) describes the information that we collect in more detail.
+1. Basic account information, such as:
 
-**Before revealing any of this information to a party that is not the owner of the account, we require a validly issued subpoena, warrant, or court order that specifically requests it unless we have a good faith belief that there is an emergency involving death or serious physical injury.** More information on our requirements for releasing private user information can be found below.
+*   Username
+*   Email address
+*   Name
+*   Phone number
 
-#### Data Retention Information
+2. Transaction and/or billing information (if upgrades have been purchased).
 
-The length of time data is retained varies based on the type of information and actions of the user.
+We will generally retain the above information until changed or removed by the user (if it’s possible to do so). We also collect log data, which may include a user’s IP address, browser type, operating system. We keep this information for up to 30 days as a matter of course. You can read more about how we handle preservation requests under “Preservation Requests for WordPress.com Sites” below.
+
+3. Site creation, posting, and revision history information, such as:
+
+*   The date and time (UTC) at which a site was created
+*   The IP address from which a site was created
+*   IP address and user-agent for a post or revision
+
+We may retain the above information, even if a site or post is deleted.
+
+4. Information on commenters on WordPress.com sites.
+
+We retain commenter information until the site owner of the site on which the comment appears deletes the comment.
+
+#### More Information on Data Release and Retention
+
+Before revealing any of this information to a party that is not the owner of the account, we require a validly issued subpoena, warrant, or court order that specifically requests it unless we have a good faith belief that there is an emergency involving death or serious physical injury. More information on our requirements for releasing private user information can be found below.
+
+If you wish to stop using WordPress.com, you may empty your site by following these steps [these steps](https://en.support.wordpress.com/empty-site/) or contacting us. If you have registered a custom domain with us, but it is no longer active, we can delete the physical address you provided upon your request.
+
+To remove any other profile information you’ve chosen to provide, visit the following URLs:
+
+*   https://mysite.wordpress.com/wp-admin/users.php?page=grofiles-editor (replacing “mysite.wordpress.com” with your URL)
+*   https://wordpress.com/me
+*   https://wordpress.com/me/security
+
+If you are concerned about maintaining your anonymity when using our services, you may want to consider logging in and interacting with WordPress.com through a VPN. You can find more information [here](https://en.support.wordpress.com/bypassing-internet-restrictions/).
 
 #### Requesting Private Information of WordPress.com Users
 
@@ -118,3 +137,11 @@ San Francisco, CA 94104-5401
 Where permitted, we also accept service via email to court-orders@wordpress.com.
 
 General inquiries regarding our policies can be sent via email to court-orders@wordpress.com.
+
+#### A Note on Back Doors, Encryption
+
+We furnish user information to law enforcement agencies via the processes described in these legal guidelines. We do not provide access to user data through “back doors” in our systems.
+
+Similarly, we support and promote encryption of user data. We encrypt all traffic (serve over SSL) for all *wordpress.com domains, by default.
+
+Some governments have recently sought to weaken encryption, in the name of law enforcement. We disagree with these suggestions and do not believe that it’s feasible to include any deliberate security weaknesses or other back doors in encryption technologies, even if “only” for the benefit of law enforcement. [As a wise man said](http://www.theguardian.com/technology/2014/oct/09/crypto-wars-redux-why-the-fbis-desire-to-unlock-your-private-life-must-be-resisted), “there is no such thing as a vulnerability in technology that can only be used by nice people doing the right thing in accord with the rule of law.” We agree wholeheartedly.
