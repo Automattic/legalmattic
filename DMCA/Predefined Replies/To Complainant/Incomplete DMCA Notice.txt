@@ -10,11 +10,11 @@ Specifically, you have not provided us with:
 * An identification of the copyrighted work claimed to have been infringed;
 * A description of the nature and exact location of the content that you claim to infringe your copyright, in sufficient detail to permit Automattic to find and positively identify that content; for example we require a link to the specific blog post (not just the name of the blog) that contains the content and a description of which specific portion of the blog post - an image, a link, the text, etc - your complaint refers to;
 * Your name, address, telephone number and email address; and
-* A statement by you: (a) that you believe in good faith that the use of the content that you claim to infringe your copyright is not authorized by law, or by the copyright owner or such owner's agent; and (b) under penalty of perjury, that all of the information contained in your Infringement Notice is accurate, and that you are either the copyright owner or a person authorized to act on their behalf.
+* A statement by you: (a) that you believe in good faith that the use of the content that you claim to infringe your copyright is not authorized by the copyright owner, its agent, or the law; and (b) under penalty of perjury, that all of the information contained in your Infringement Notice is accurate, and that you are either the copyright owner or a person authorized to act on their behalf.
 
 Please respond at your convenience with a complete DMCA notice by using the following form: 
 
-http://automattic.com/dmca. 
+http://automattic.com/dmca 
 
 Alternatively, please respond with the missing information described above, along with the information from your previous email to submit a complete DMCA notice.
 
