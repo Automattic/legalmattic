@@ -1,8 +1,12 @@
 Hi there,
 
-We’ve received the DMCA notice (https://www.eff.org/issues/bloggers/legal/liability/IP#dmca) below regarding material published on your WordPress.com site, which means the complainant is asserting ownership of this material and claiming that your use of it is not permitted by him/her or the law. As required by the DMCA, we have disabled public access to the material.
+We’ve received the DMCA notice (http://en.support.wordpress.com/copyright-and-the-dmca) below regarding material published on your WordPress.com site, which means the complainant is asserting ownership of this material and claiming that your use of it is not permitted by him/her or the law. As required by the DMCA, we have disabled public access to the material.
 
-Repeated incidents of copyright infringement will also lead to the permanent suspension of your WordPress.com site. We certainly don’t want that to happen, so please delete any other material you may have uploaded for which you don’t have the necessary rights and and refrain from uploading additional material that you do not have permission to upload. Although we can’t provide legal advice, we’re happy to point you to copyright law resources that might help you make this determination.
+Repeated incidents of copyright infringement will also lead to the permanent suspension of your WordPress.com site. We certainly don’t want that to happen, so please delete any other material you may have uploaded for which you don’t have the necessary rights and refrain from uploading additional material that you do not have permission to upload. Although we can’t provide legal advice, the following link provides resources that might help you make this determination:
+
+https://en.support.wordpress.com/counter-notice/#what-is-fair-use
+
+Once you edit your page/post to remove the allegedly infringing material, you can reply to this e-mail and request the removal of the DMCA notice we placed on your site.
 
 Alternatively, if you believe that this notice was received in error, or if you believe your usage of this material would be considered fair use, it’s important that you submit a formal DMCA counter-notice to ensure that your WordPress.com site remains operational. If you submit a valid counter-notice, we will return the material to your site in 10 business days if the complainant does not reply with legal action.
 
@@ -14,6 +18,6 @@ http://automattic.com/dmca/dmca-counter-notice/
 
 Please note that republishing the material yourself, without permission from the copyright holder (even after you have submitted a counter-notice) will result in the permanent suspension of your WordPress.com site and/or account.
 
---- BEGIN NOTICE ---
+— BEGIN NOTICE —
 
---- END NOTICE ---
+— END NOTICE —
