@@ -31,7 +31,7 @@ Please read this Agreement carefully before accessing or using the Website. By a
 
 3. **Payment and Renewal.**
  * **General Terms.**
-Optional paid services such as extra storage, or domain purchases are available on the Website (any such services, an "Upgrade"). By selecting an Upgrade you agree to pay Automattic the monthly or annual subscription fees indicated for that service. Payments will be charged on a pre-pay basis on the day you sign up for an Upgrade and will cover the use of that service for a monthly or annual subscription period as indicated. Upgrade fees are not refundable.
+Optional paid services such as extra storage, or domain purchases are available on the Website (any such services, an "Upgrade"). By selecting an Upgrade you agree to pay Automattic the monthly or annual subscription fees indicated for that service. Payments will be charged on a pre-pay basis on the day you sign up for an Upgrade and will cover the use of that service for a monthly or annual subscription period as indicated. You can read about our refund policy [here](https://en.support.wordpress.com/refunds/).
  * **Automatic Renewal.**
 Unless you notify Automattic before the end of the applicable subscription period that you want to cancel an Upgrade, your Upgrade subscription will automatically renew and you authorize us to collect the then-applicable annual or monthly subscription fee for such Upgrade (as well as any taxes) using any credit card or other payment mechanism we have on record for you. Upgrades can be canceled at any time in the Upgrades section of your site's dashboard.
 
