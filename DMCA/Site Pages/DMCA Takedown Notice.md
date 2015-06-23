@@ -6,7 +6,7 @@ WordPress.com is a publishing platform where bloggers often use copyrighted mate
 
 **Please be advised that you may be liable for damages (including costs and attorneys’ fees) if you materially misrepresent that material or activity is infringing. **[**We have and will seek to collect those damages**](http://www.theverge.com/2015/3/9/8175491/wordpress-automattic-wins-dmca-takedown-straight-pride-uk-case)**.**
 
-**Your DMCA notice will be forwarded to the party that made the material available, and also may be sent to third parties such as **[**ChillingEffects.org**](http://www.chillingeffects.org/)**.**
+**Your DMCA notice will be forwarded to the party that made the material available, and also may be sent to third parties such as **[**ChillingEffects.org**](http://www.chillingeffects.org/)**. A note will also be placed on the site in question detailing the name of the copyright holder who submitted the takedown notice.**
 
 Please follow these steps to file a notice:
 
