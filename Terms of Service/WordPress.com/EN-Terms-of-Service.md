@@ -73,7 +73,7 @@ Unless you notify Automattic before the end of the applicable subscription perio
 
 19. **General Representation and Warranty.** You represent and warrant that (i) your use of the Website will be in strict accordance with the Automattic Privacy Policy, with this Agreement and with all applicable laws and regulations (including without limitation any local laws or regulations in your country, state, city, or other governmental area, regarding online conduct and acceptable content, and including all applicable laws regarding the transmission of technical data exported from the United States or the country in which you reside) and (ii) your use of the Website will not infringe or misappropriate the intellectual property rights of any third party.
 
-20. **US Economic Sanctions** You expressly represent and warrant that your use of the Website and or associated services and products is not contrary to applicable U.S. Sanctions. Such use is prohibited, and Automattic reserve the right to terminate accounts or access of those in the event of a breach of this condition.
+20. **US Economic Sanctions**. You expressly represent and warrant that your use of the Website and or associated services and products is not contrary to applicable U.S. Sanctions. Such use is prohibited, and Automattic reserve the right to terminate accounts or access of those in the event of a breach of this condition.
 
 21. **Indemnification.** You agree to indemnify and hold harmless Automattic, its contractors, and its licensors, and their respective directors, officers, employees and agents from and against any and all claims and expenses, including attorneys’ fees, arising out of your use of the Website, including but not limited to your violation of this Agreement.
 
