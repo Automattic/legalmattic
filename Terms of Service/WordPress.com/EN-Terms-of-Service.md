@@ -79,23 +79,4 @@ Unless you notify Automattic before the end of the applicable subscription perio
 
 22. **Miscellaneous.** This Agreement constitutes the entire agreement between Automattic and you concerning the subject matter hereof, and they may only be modified by a written amendment signed by an authorized executive of Automattic, or by the posting by Automattic of a revised version. Except to the extent applicable law, if any, provides otherwise, this Agreement, any access to or use of the Website will be governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions, and the proper venue for any disputes arising out of or relating to any of the same will be the state and federal courts located in San Francisco County, California. Except for claims for injunctive or equitable relief or claims regarding intellectual property rights (which may be brought in any competent court without the posting of a bond), any dispute arising under this Agreement shall be finally settled in accordance with the Comprehensive Arbitration Rules of the Judicial Arbitration and Mediation Service, Inc. (“JAMS”) by three arbitrators appointed in accordance with such Rules. The arbitration shall take place in San Francisco, California, in the English language and the arbitral decision may be enforced in any court. The prevailing party in any action or proceeding to enforce this Agreement shall be entitled to costs and attorneys’ fees. If any part of this Agreement is held invalid or unenforceable, that part will be construed to reflect the parties’ original intent, and the remaining portions will remain in full force and effect. A waiver by either party of any term or condition of this Agreement or any breach thereof, in any one instance, will not waive such term or condition or any subsequent breach thereof. You may assign your rights under this Agreement to any party that consents to, and agrees to be bound by, its terms and conditions; Automattic may assign its rights under this Agreement without condition. This Agreement will be binding upon and will inure to the benefit of the parties, their successors and permitted assigns.
 
-**Change log:**
-
-*   July 7, 2009: Added "not pornographic" to paragraph 2 "Responsibility of Contributors".
-*   December 18, 2010: Added automatic renewal section to paragraph 3 "Payment and Renewal".
-*   February 1, 2011: Clarified procedure regarding termination of repeat infringers in paragraph 7.
-*   April 27, 2011: Added "Advertisements" paragraph to clarify our [ad policy](http://en.support.wordpress.com/advertising/).
-*   May 17, 2011: Added "Friends of WordPress.com Themes" paragraph.
-*   September 9, 2011: Added "Domain Names" paragraph.
-*   October 17, 2011: Added "Firehose" paragraph.
-*   March 6, 2012: Clarified definition of Website with addition of "Jetpack by WordPress.com".
-*   April 6, 2012: Added "Attribution" paragraph to clarify our attribution policy.
-*   November 12, 2012: Replaced VIP Services terms and conditions with cross references to VIP Hosting/Support and VIP Support services terms and conditions, located at [vip.wordpress.com](http://vip.wordpress.com/); removed "towards individuals or entities" from prohibition against threats of violence in Section 2.
-*   June 12, 2013: Edited "Attribution" paragraph to specify that footer credits and the WordPress.com toolbar may not be altered.
-*   July 3, 2014: Elaborated on licensing with regards to Firehose, clarified our impersonation policy, added reblogging language, and removed our right to unilaterally change the Terms of Service.
-*   July 15, 2014: Added "Translation" section.
-*   September 2, 2014: Removed old non-retina Creative Commons graphic, added a link instead. Made this list bullets. Linked ad policy in April 27 changelog bullet.
-*   October 8, 2014: Added "Google Apps" Section.
-* January 30, 2015: Cleaned up section 2 and added reference to User Guidelines, added additional language regarding our age requirement, updated link to the agreement in Section 13, and created a separate page for the change log.
-* February 5, 2015: Specified Automattic/Aut O’Mattic as contracting entities for US and non US based users, respectively.
-* February 18, 2015: Consolidated the use of ‘web site’ and ‘website’ for consistency. Updated Creative Commons license from 3.0 to 4.0.
+[Change Log](http://wordpress.com/tos-change-log).
