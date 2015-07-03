@@ -1,12 +1,12 @@
 Hi there,
 
-I’m sorry, but the DMCA counter-notice you have submitted is incomplete. Because the DMCA is a legal process, we are required to follow it accordingly. As such, all counter-notices that we receive need to be 100% complete with no information excluded. Please re-submit your counter-notice and be sure that it contains the following information (as required by the DMCA):
+I’m sorry, but the DMCA counter notice you have submitted is incomplete. Because the DMCA is a legal process, we are required to follow it accordingly. As such, all counter notices that we receive need to be 100% complete with no information excluded. Please re-submit your counter notice and be sure that it contains the following information (as required by the DMCA):
 
 * Your name, address, phone number and physical or electronic signature;
 * Identification of the allegedly infringing content and its location before removal or disabling of access;
 * A statement under penalty of perjury that you believe in good faith that the content was removed by mistake or misidentification; and
 * A statement that you consent to the jurisdiction of the U.S. Federal District Court for the judicial district in which you are located (or if you are outside the U.S., for any judicial district in which Automattic may be found), and that you will accept service of process from the person who originally provided us with the Infringement Notice (the “Copyright Holder”) or an agent of such person.
 
-If you are having trouble composing a proper counter-notice as outlined above, we recommend using the available form at http://automattic.com/dmca/dmca-counter-notice/ to submit the counter-notice. Please note that any counter-notices submitted via this form are legally binding and will be forwarded to the person who provided the infringement notice.
+If you are having trouble composing a proper counter notice as outlined above, we recommend using the available form at http://automattic.com/dmca/dmca-counter-notice/ to submit the counter notice. Please note that any counter notices submitted via this form are legally binding and will be forwarded to the person who provided the infringement notice.
 
 Thank you for your cooperation in this matter.
