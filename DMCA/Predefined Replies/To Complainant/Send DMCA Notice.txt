@@ -4,6 +4,10 @@ If you would like to formally report an instance of copyright infringement for m
 
 http://automattic.com/dmca/
 
+You can use this support page as a guide:
+
+https://en.support.wordpress.com/copyright-infringement-what-to-do/
+
 Please note that your notice, including any contact information you have provided (address, telephone number, and email address), will be forwarded to the user who uploaded the material at issue.
 
 Thank you.
