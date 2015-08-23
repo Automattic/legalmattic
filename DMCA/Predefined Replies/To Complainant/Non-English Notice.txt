@@ -2,6 +2,10 @@ Hi there,
 
 I’m sorry, but the DMCA Takedown Notice you have submitted is incomplete. Because the DMCA is a legal process, we are required to follow it accordingly. Specifically, we need you to more clearly identify in English the copyrighted work claimed to have been infringed.
 
-We recommend using the available form at http://automattic.com/dmca/ to submit the notice. Please note that any notices submitted via this form are still legally binding and will be forwarded to the owner of the site publishing the allegedly infringing material.
+We recommend using the available form at http://automattic.com/dmca/ to submit the notice. You can also use this support page as a guide:
+
+https://en.support.wordpress.com/copyright-infringement-what-to-do/
+
+Please note that any notices submitted via this form are still legally binding and will be forwarded to the owner of the site publishing the allegedly infringing material.
 
 Thank you for your cooperation in this matter.
