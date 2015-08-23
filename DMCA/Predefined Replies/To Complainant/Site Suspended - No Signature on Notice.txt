@@ -2,9 +2,10 @@ Hello,
 
 We have received and reviewed your DMCA Takedown Notice. Access to the site in question has been disabled, as it violates the WordPress.com Terms of Service. Please note that your notice is formally incomplete, as it does not include a signature of a person. As a result we would not have processed it otherwise.
 
-If you are having trouble composing a proper notice, we recommend using the available form at http://automattic.com/dmca/ to submit the notice in future. Please note that any notices submitted via this form are still legally binding and will be forwarded to the owner of the site publishing the allegedly infringing material.
+If you are having trouble composing a proper notice, we recommend using the available form at http://automattic.com/dmca/ to submit the notice in future. You can also use this support page as a guide:
+
+https://en.support.wordpress.com/copyright-infringement-what-to-do/
+
+Please note that any notices submitted via this form are still legally binding and will be forwarded to the owner of the site publishing the allegedly infringing material.
 
 Thank you for your cooperation in this matter.
-
-
-Regards, 
