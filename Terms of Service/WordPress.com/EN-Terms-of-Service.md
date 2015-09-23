@@ -1,3 +1,5 @@
+### Terms of Service
+
 ### The gist:
 
 We (the [folks at Automattic](http://automattic.com/about/)) run a blog and website hosting platform called [WordPress.com](https://wordpress.com) and would **love** for you to use it. WordPress.com's basic service is free, and we offer paid upgrades for advanced features such as domain hosting and extra storage. Our service is designed to give you as much control and ownership over what goes on your website as possible and encourage you to express yourself freely. However, be responsible in what you publish. In particular, make sure that none of the prohibited items (like spam, viruses, or serious threats of violence) appear on your website. If you find a WordPress.com website that you believe violates these Terms of Service, please [visit our dispute resolution & reporting page](http://en.support.wordpress.com/disputes/).
