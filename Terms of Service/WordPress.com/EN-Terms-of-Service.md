@@ -273,51 +273,151 @@ and all right, title, and interest in and to such property will remain (as betwe
 solely with Automattic.
 Automattic, WordPress, WordPress.com, the WordPress.com logo, and all other
 trademarks, service marks, graphics and logos used in connection with WordPress.com or our Services,
-are trademarks or registered trademarks of Automattic or Automattic's licensors. Other trademarks, service marks, graphics and logos used in connection with our Services may be the trademarks of other third parties. Your use of our Services grants you no right or license to reproduce or otherwise use any Automattic or third-party trademarks.
+are trademarks or registered trademarks of Automattic or Automattic's licensors.
+Other trademarks, service marks, graphics and logos used in connection with our Services
+may be the trademarks of other third parties.
+Your use of our Services grants you no right or license to reproduce or otherwise use
+any Automattic or third-party trademarks.
 
 #### 8. Domain Names.
 
-If you are registering a domain name, using or transferring a previously registered domain name, you acknowledge and agree that use of the domain name is also subject to the policies of the Internet Corporation for Assigned Names and Numbers ("ICANN") and the [Domain Name Registration and Customer Service Agreement](http://www.secureserver.net/agreements/showdoc.aspx?pageid=7959&prog_id=391143).
+If you are registering a domain name, using or transferring a previously registered domain name,
+you acknowledge and agree that use of the domain name is also subject to the policies of
+the Internet Corporation for Assigned Names and Numbers ("ICANN")
+and the [Domain Name Registration and Customer Service Agreement](http://www.secureserver.net/agreements/showdoc.aspx?pageid=7959&prog_id=391143).
 
 #### 9. Google Apps.
 
-If you purchase a Google Apps subscription, this section applies. Google Apps are provided by Google, and your use of Google Apps is subject to Google's [Terms of Use](https://www.google.com/apps/intl/en/terms/reseller_premier_terms.html) for the services, which you'll accept prior to using Google Apps for the first time. Automattic is an authorized reseller of Google Apps, makes no warranties about the services provided by Google, and disclaims Google's liability for any damages arising from our distribution and resale of their services. Google will provide technical support for its services, per its [Technical Support Services Guidelines](https://www.google.com/apps/intl/en/terms/tssg.html). If you're a business and purchase Google Apps for your WordPress.com website, you represent that you have 749 or fewer staff members.
+If you purchase a Google Apps subscription, this section applies.
+Google Apps are provided by Google, and your use of Google Apps is subject to
+Google's [Terms of Use](https://www.google.com/apps/intl/en/terms/reseller_premier_terms.html) for the services,
+which you'll accept prior to using Google Apps for the first time.
+Automattic is an authorized reseller of Google Apps,
+makes no warranties about the services provided by Google,
+and disclaims Google's liability for any damages arising from our distribution and resale of their services.
+Google will provide technical support for its services,
+per its [Technical Support Services Guidelines](https://www.google.com/apps/intl/en/terms/tssg.html).
+If you're a business and purchase Google Apps for your WordPress.com website,
+you represent that you have 749 or fewer staff members.
 
 #### 10. Changes.
 
-We are constantly updating our Services, and that means sometimes we have to change the legal terms under which our Services are offered. If we make changes that are material, we will let you know by posting on one of our blogs, or by sending you an email or other communication before the changes take effect. The notice will designate a reasonable period of time after which the new terms will take effect. If you disagree with our changes, then you should stop using our Services within the designated notice period. Your continued use of our Services will be subject to the new terms. However, any dispute that arose before the changes shall be governed by the Terms (including the binding individual arbitration clause) that were in place when the dispute arose.
+We are constantly updating our Services,
+and that means sometimes we have to change the legal terms under which our Services are offered.
+If we make changes that are material, we will let you know by
+posting on one of our blogs, or by sending you an email or other communication before the changes take effect.
+The notice will designate a reasonable period of time after which the new terms will take effect.
+If you disagree with our changes, then you should stop using our Services within the designated notice period.
+Your continued use of our Services will be subject to the new terms.
+However, any dispute that arose before the changes shall be governed by the Terms
+(including the binding individual arbitration clause)
+that were in place when the dispute arose.
 
 #### 11. Termination.
 
-Automattic may terminate your access to all or any part of our Services at any time, with or without cause, with or without notice, effective immediately. If you wish to terminate this Agreement or your WordPress.com account (if you have one), you may simply discontinue using our Services. All provisions of this Agreement which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.
+Automattic may terminate your access to all or any part of our Services at any time,
+with or without cause, with or without notice, effective immediately.
+If you wish to terminate this Agreement or your WordPress.com account (if you have one),
+you may simply discontinue using our Services.
+All provisions of this Agreement which by their nature should survive termination shall survive termination,
+including, without limitation,
+ownership provisions,
+warranty disclaimers,
+indemnity and
+limitations of liability.
 
 #### 12. Disclaimer of Warranties.
 
-Our Services are provided "as is." Automattic and its suppliers and licensors hereby disclaim all warranties of any kind, express or implied, including, without limitation, the warranties of merchantability, fitness for a particular purpose and non-infringement. Neither Automattic nor its suppliers and licensors, makes any warranty that our Services will be error free or that access thereto will be continuous or uninterrupted. If you're actually reading this, [here's a treat](http://wordpress.com/tos/treat/). You understand that you download from, or otherwise obtain content or services through, our Services at your own discretion and risk.
+Our Services are provided "as is."
+Automattic and its suppliers and licensors hereby disclaim all warranties of any kind, express or implied,
+including, without limitation, the warranties of
+merchantability, fitness for a particular purpose and non-infringement.
+Neither Automattic nor its suppliers and licensors, makes any warranty
+that our Services will be error free or that access thereto will be continuous or uninterrupted.
+If you're actually reading this, [here's a treat](http://wordpress.com/tos/treat/).
+You understand that you download from, or otherwise obtain content or services through, our Services
+at your own discretion and risk.
 
 #### 13. Limitation of Liability.
 
-In no event will Automattic, or its suppliers or licensors, be liable with respect to any subject matter of this Agreement under any contract, negligence, strict liability or other legal or equitable theory for: (i) any special, incidental or consequential damages; (ii) the cost of procurement for substitute products or services; (iii) for interruption of use or loss or corruption of data; or (iv) for any amounts that exceed the fees paid by you to Automattic under this agreement during the twelve (12) month period prior to the cause of action. Automattic shall have no liability for any failure or delay due to matters beyond their reasonable control. The foregoing shall not apply to the extent prohibited by applicable law.
+In no event will Automattic, or its suppliers or licensors,
+be liable with respect to any subject matter of this Agreement under any
+contract, negligence, strict liability or other legal or equitable theory for:
+(i) any special, incidental or consequential damages;
+(ii) the cost of procurement for substitute products or services;
+(iii) for interruption of use or loss or corruption of data; or
+(iv) for any amounts that exceed the fees paid by you to Automattic under this agreement during the
+twelve (12) month period prior to the cause of action.
+Automattic shall have no liability for any failure or delay due to matters beyond their reasonable control.
+The foregoing shall not apply to the extent prohibited by applicable law.
 
 #### 14. General Representation and Warranty.
 
-You represent and warrant that (i) your use of our Services will be in strict accordance with the Automattic Privacy Policy, with this Agreement, and with all applicable laws and regulations (including without limitation any local laws or regulations in your country, state, city, or other governmental area, regarding online conduct and acceptable content, and including all applicable laws regarding the transmission of technical data exported from the United States or the country in which you reside) and (ii) your use of our Services will not infringe or misappropriate the intellectual property rights of any third party.
+You represent and warrant that
+(i) your use of our Services will be in strict accordance
+with the Automattic Privacy Policy,
+with this Agreement,
+and with all applicable laws and regulations
+(including without limitation any local laws or regulations
+in your country, state, city, or other governmental area,
+regarding online conduct and acceptable content,
+and including all applicable laws regarding the transmission of technical data exported from
+the United States or the country in which you reside) and
+(ii) your use of our Services will not infringe or misappropriate
+the intellectual property rights of any third party.
 
 #### 15. US Economic Sanctions.
 
-You expressly represent and warrant that your use of our Services and or associated services and products is not contrary to applicable U.S. Sanctions. Such use is prohibited, and Automattic reserve the right to terminate accounts or access of those in the event of a breach of this condition.
+You expressly represent and warrant that your use of our Services and or associated services and products
+is not contrary to applicable U.S. Sanctions.
+Such use is prohibited,
+and Automattic reserve the right to terminate accounts or access of those
+in the event of a breach of this condition.
 
 #### 16. Indemnification.
 
-You agree to indemnify and hold harmless Automattic, its contractors, and its licensors, and their respective directors, officers, employees, and agents from and against any and all claims and expenses, including attorneys' fees, arising out of your use of our Services, including but not limited to your violation of this Agreement.
+You agree to indemnify and hold harmless
+Automattic, its contractors, and its licensors, and their respective
+directors, officers, employees, and agents
+from and against any and all claims and expenses, including attorneys' fees,
+arising out of your use of our Services, including but not limited to your violation of this Agreement.
 
 #### 17. Translation.
 
-These Terms of Service were originally written in English (US). We may translate these terms into other languages. In the event of a conflict between a translated version of these Terms of Service and the English version, the English version will control.
+These Terms of Service were originally written in English (US).
+We may translate these terms into other languages.
+In the event of a conflict between a translated version of these Terms of Service and the English version,
+the English version will control.
 
 #### 18. Miscellaneous.
 
-This Agreement constitutes the entire agreement between Automattic and you concerning the subject matter hereof, and they may only be modified by a written amendment signed by an authorized executive of Automattic, or by the posting by Automattic of a revised version. Except to the extent applicable law, if any, provides otherwise, this Agreement, any access to or use of our Services will be governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions, and the proper venue for any disputes arising out of or relating to any of the same will be the state and federal courts located in San Francisco County, California. Except for claims for injunctive or equitable relief or claims regarding intellectual property rights (which may be brought in any competent court without the posting of a bond), any dispute arising under this Agreement shall be finally settled in accordance with the Comprehensive Arbitration Rules of the Judicial Arbitration and Mediation Service, Inc. ("JAMS") by three arbitrators appointed in accordance with such Rules. The arbitration shall take place in San Francisco, California, in the English language and the arbitral decision may be enforced in any court. The prevailing party in any action or proceeding to enforce this Agreement shall be entitled to costs and attorneys' fees. If any part of this Agreement is held invalid or unenforceable, that part will be construed to reflect the parties' original intent, and the remaining portions will remain in full force and effect. A waiver by either party of any term or condition of this Agreement or any breach thereof, in any one instance, will not waive such term or condition or any subsequent breach thereof. You may assign your rights under this Agreement to any party that consents to, and agrees to be bound by, its terms and conditions; Automattic may assign its rights under this Agreement without condition. This Agreement will be binding upon and will inure to the benefit of the parties, their successors and permitted assigns. 
+This Agreement constitutes the entire agreement between Automattic and you concerning the subject matter hereof,
+and they may only be modified by a written amendment signed by an authorized executive of Automattic,
+or by the posting by Automattic of a revised version.
+Except to the extent applicable law, if any, provides otherwise,
+this Agreement, any access to or use of our Services
+will be governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions,
+and the proper venue for any disputes arising out of or relating to any of the same will be the
+state and federal courts located in San Francisco County, California.
+Except for claims for injunctive or equitable relief or claims regarding intellectual property rights
+(which may be brought in any competent court without the posting of a bond),
+any dispute arising under this Agreement shall be finally settled in accordance with
+the Comprehensive Arbitration Rules of the Judicial Arbitration and Mediation Service, Inc. ("JAMS")
+by three arbitrators appointed in accordance with such Rules.
+The arbitration shall take place in San Francisco, California, in the English language
+and the arbitral decision may be enforced in any court.
+The prevailing party in any action or proceeding to enforce this Agreement shall be entitled to
+costs and attorneys' fees.
+If any part of this Agreement is held invalid or unenforceable,
+that part will be construed to reflect the parties' original intent,
+and the remaining portions will remain in full force and effect.
+A waiver by either party of any term or condition of this Agreement or any breach thereof, in any one instance,
+will not waive such term or condition or any subsequent breach thereof.
+You may assign your rights under this Agreement to any party that
+consents to, and agrees to be bound by, its terms and conditions;
+Automattic may assign its rights under this Agreement without condition.
+This Agreement will be binding upon and will inure to the benefit of
+the parties, their successors and permitted assigns. 
 
 [Print friendly version](https://wordpress.com/2015/09/wpcomtos.pdf)  
 [Change Log](http://wordpress.com/tos-change-log)
