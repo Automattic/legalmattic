@@ -17,7 +17,7 @@ appear on your website.
 If you find a WordPress.com website that you believe violates these Terms of Service, 
 please [visit our dispute resolution & reporting page](http://en.support.wordpress.com/disputes/).
 
-We also have additional services and products designed to make the web a betterchange place
+We also have additional services and products designed to make the web a better place
 like WordPress.com VIP, WooCommerce, Longreads, VaultPress, Akismet, and Jetpack.
 
 (We've made the below Terms of Service available under a 
@@ -69,7 +69,7 @@ If you create a blog or website on WordPress.com,
 you are responsible for maintaining the security of your account and blog, 
 and you are fully responsible for all activities that occur under the account 
 and any other actions taken in connection with the blog. 
-You must immediately notify Automattic of any unauthorized uses of your blog, your account, 
+You must immediately notify Automattic of any unauthorized uses of your blog or your account, 
 or any other breaches of security. 
 Automattic will not be liable for any acts or omissions by you, 
 including any damages of any kind incurred as a result of such acts or omissions.
@@ -84,7 +84,8 @@ That is the case regardless of what form the Content takes,
 which includes, but is not limited to text, photo, video, audio, or code. 
 By making Content available, 
 you represent and warrant that your content does not violate 
-these terms or the [User Guidelines](http://en.support.wordpress.com/user-guidelines/).By submitting Content to Automattic for inclusion on your website,
+these terms or the [User Guidelines](http://en.support.wordpress.com/user-guidelines/).
+By submitting Content to Automattic for inclusion on your website,
 you grant Automattic a world-wide, royalty-free, and non-exclusive license to
 reproduce, modify, adapt and publish the Content 
 solely for the purpose of displaying, distributing, and promoting your blog. 
@@ -99,7 +100,8 @@ so long as they use only a portion of your post
 and they give you credit as the original author by linking back to your website 
 (the [reblogging function](http://en.support.wordpress.com/reblogs) on WordPress.com does this automatically!). 
 If you delete Content, Automattic will use reasonable efforts to remove it from WordPress.com, 
-but you acknowledge that caching or references to the Content may not be made immediately unavailable.Without limiting any of those representations or warranties, 
+but you acknowledge that caching or references to the Content may not be made immediately unavailable.
+Without limiting any of those representations or warranties, 
 Automattic has the right (though not the obligation) to, in Automattic's sole discretion, 
 (i) refuse or remove any content that, in Automattic's reasonable opinion, 
 violates any Automattic policy or is in any way harmful or objectionable, or
@@ -132,7 +134,8 @@ your Upgrade subscription will automatically renew and you authorize us to
 collect the then-applicable annual or monthly subscription fee for such Upgrade (as well as any taxes) 
 using any credit card or other payment mechanism we have on record for you. 
 Upgrades can be canceled at any time in the Upgrades section of your website's dashboard.
-    *   **VIP Service. **VIP Hosting/Support and VIP Support services are provided by Automattic under
+    *   **VIP Service.**
+    VIP Hosting/Support and VIP Support services are provided by Automattic under
     the terms and conditions for each such service, 
 which are located at [vip.wordpress.com/hosting-tos](http://vip.wordpress.com/hosting-tos/) 
 and [vip.wordpress.com/support-tos](http://vip.wordpress.com/support-tos/), respectively. 
@@ -176,7 +179,6 @@ You own your VaultPress Content.
     *   Send spam or bulk unsolicited messages.
     *   Interfere with, disrupt, or attack any service or network.
     *   Distribute material that is or enables malware, spyware, adware, or other malicious code.
-
 *   **Payment, Renewal and Refunds.** 
 VaultPress offers different [levels of service](https://vaultpress.com/plans/).
 By signing up for a particular level of service, 
