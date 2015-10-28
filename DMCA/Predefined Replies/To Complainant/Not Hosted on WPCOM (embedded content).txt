@@ -1,5 +1,11 @@
 Hello,
 
-It appears that the material at issue is not hosted on WordPress.com. Please file a complaint with the third party site or its web host to have the material removed. After that has been done, we will remove the link from the WordPress.com site if requested.
+The material at issue — which has been directly linked or embedded from another site — is not hosted on WordPress.com. Please file a complaint with the third party site or its web host to have the material removed.
+
+To help determine the host of the material, it’s often possible to open embedded content in a new tab or window in your web browser by right (or secondary) clicking. The web address (URL) in the new tab or window will show you where the material was uploaded.
+
+You can learn more about locating the hosts of online content here:
+
+https://www.plagiarismtoday.com/stopping-internet-plagiarism/3-finding-the-host/
 
 Thank you,
