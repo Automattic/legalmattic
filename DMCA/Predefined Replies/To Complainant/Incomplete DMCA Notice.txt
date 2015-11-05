@@ -1,6 +1,6 @@
 Hi there,
 
-I’m sorry, but the DMCA notice you have submitted is incomplete. 
+I’m sorry, but the DMCA notice you have submitted is incomplete.
 
 Specifically, you have not provided us with:
 
@@ -8,16 +8,20 @@ Specifically, you have not provided us with:
 
 * An electronic signature of the copyright owner or a person authorized to act on their behalf;
 * An identification of the copyrighted work claimed to have been infringed;
-* A description of the nature and exact location of the content that you claim to infringe your copyright, in sufficient detail to permit Automattic to find and positively identify that content; for example we require a link to the specific blog post (not just the name of the blog) that contains the content and a description of which specific portion of the blog post - an image, a link, the text, etc - your complaint refers to;
+* A description of the nature and exact location of the content that you claim to infringe your copyright, in sufficient detail to permit Automattic to find and positively identify that content; for example we require a link to the specific blog post (not just the name of the blog) that contains the content and a description of which specific portion of the blog post – an image, a link, the text, etc – your complaint refers to;
 * Your name, address, telephone number and email address; and
 * A statement by you: (a) that you believe in good faith that the use of the content that you claim to infringe your copyright is not authorized by the copyright owner, its agent, or the law; (b) that the information in the notice is correct; and (c) that under penalty of perjury, you are either the copyright owner or a person authorized to act on their behalf.
 
-Please respond at your convenience with a complete DMCA notice by using the following form: 
+Please respond at your convenience with a complete DMCA notice by using the following form:
 
-http://automattic.com/dmca 
+http://automattic.com/dmca
 
 Alternatively, please respond with the missing information described above, along with the information from your previous email to submit a complete DMCA notice.
 
-Please note that your notice, including any contact information you have provided (address, telephone number, and email address), will be forwarded to the user who uploaded the material at issue.
+Please note that you are required to give consideration to whether a use of material is fair before submitting a takedown notification, as a result of the decision in Lenz v. Universal:
+
+https://www.eff.org/press/releases/important-win-fair-use-dancing-baby-lawsuit
+
+Additionally, be aware that your notice, including any contact information you have provided (address, telephone number, and email address), will be forwarded to the user who uploaded the material at issue.
 
 Thank you for your cooperation in this matter.
