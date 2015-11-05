@@ -8,6 +8,10 @@ http://en.blog.wordpress.com/2013/11/21/striking-back-against-censorship/
 
 http://www.theverge.com/2015/3/9/8175491/wordpress-automattic-wins-dmca-takedown-straight-pride-uk-case
 
+Additionally, you are required to give consideration to whether a use of material is fair before submitting a takedown notification, as a result of the decision in Lenz v. Universal:
+
+https://www.eff.org/press/releases/important-win-fair-use-dancing-baby-lawsuit
+
 If you believe your copyright has been infringed upon, we ask you to please explain in greater detail why you think so. You can use the following support page as a guide:
 
 https://en.support.wordpress.com/copyright-infringement-what-to-do/
