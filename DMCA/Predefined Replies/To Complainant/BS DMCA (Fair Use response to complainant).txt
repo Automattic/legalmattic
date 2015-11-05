@@ -1,15 +1,18 @@
 Hello,
 
-We have reviewed your DMCA notice and the material you claim to be infringing. However, because we believe this to be fair use of the material, we will not be removing it at this time. Please note that Section 107 of the copyright law identifies various purposes for which the reproduction of a particular work may be considered fair, such as criticism, comment, news reporting, teaching, scholarship, and research:
+We have reviewed your DMCA notice and the material you claim to be infringing.
+However, because we believe this to be fair use of the material, we will not be removing it at this time. Please note that Section 107 of the copyright law identifies various purposes for which the reproduction of a particular work may be considered fair, such as criticism, comment, news reporting, teaching, scholarship, and research:
 
 https://en.support.wordpress.com/fair-use/
 http://www.copyright.gov/title17/
 http://www.copyright.gov/fls/fl102.html
 
-Please note that you may be liable for damages if you "knowingly materially misrepresent" your copyrights - and we may seek to collect those damages: 
+You are required to give consideration to whether a use of material is fair before submitting a takedown notification, as a result of the decision in Lenz v. Universal:
+
+https://www.eff.org/press/releases/important-win-fair-use-dancing-baby-lawsuit
+
+Please note that you may be liable for damages if you “knowingly materially misrepresent” your copyrights – and we may seek to collect those damages:
 
 http://en.blog.wordpress.com/2013/11/21/striking-back-against-censorship/
 
 http://www.theverge.com/2015/3/9/8175491/wordpress-automattic-wins-dmca-takedown-straight-pride-uk-case
-
-Thank you,
