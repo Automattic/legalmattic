@@ -11,3 +11,9 @@ If you notice any typos or would like to suggest any changes, please contribute 
 
 ### License
 As noted in our license file, the content here is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International license](http://creativecommons.org/licenses/by-sa/4.0/). Please feel free to make alterations via pull-request.
+
+### Other Projects
+
+As well as these open source "legal documents" we also have open sourced other legal related projects including:
+
+* [EU Cookie Law Widget](https://github.com/Automattic/eu-cookie-law-widget) - A WordPress plugin which provides a Widget to help with EU Cookie Law compliance.
