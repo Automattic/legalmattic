@@ -134,9 +134,9 @@ Automattic Inc.
 548 Market St #63259
 San Francisco, CA 94104-5401
 
-Where permitted, we also accept service via email to court-orders@wordpress.com.
+Where permitted, we also accept service via email to legal@wordpress.com.
 
-General inquiries regarding our policies can be sent via email to court-orders@wordpress.com.
+General inquiries regarding our policies can be sent via email to legal@wordpress.com.
 
 #### A Note on Back Doors, Encryption
 
