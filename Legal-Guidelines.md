@@ -80,7 +80,7 @@ Any request for specific post or comment information must include the specific U
 
 Please note that we charge an administrative fee of USD $125/hour for compliance with validly issued and served civil subpoenas. We will bill for and collect this fee prior to furnishing information in response to a subpoena.
 
-**_Emergency Requests from Government Agencies/Law Enforcement_**
+#### Emergency Requests from Government Agencies/Law Enforcement
 
 As permitted by US law, we may disclose user information to the government or law enforcement, without a subpoena or warrant if we have a good faith belief that an emergency (danger of death or serious physical injury) requires disclosure of information related to the emergency without delay. We require emergency requests to be made in writing and include all the information available so that we may evaluate the urgency of the request. Additionally, we may ask for a subpoena, search warrant, or court order after the disclosure.
 
