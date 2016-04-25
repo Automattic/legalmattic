@@ -70,14 +70,6 @@ Except in emergencies, we require a court order or a warrant before providing ad
 
 We require a warrant before disclosing content of user communications to government agencies/law enforcement. We also require a warrant before providing any non-public content information (such as private or draft post content, or pending comments).
 
-**_Emergency Requests from Government Agencies/Law Enforcement_**
-
-As permitted by US law, we may disclose user information to the government or law enforcement, without a subpoena or warrant if we have a good faith belief that an emergency (danger of death or serious physical injury) requires disclosure of information related to the emergency without delay. We require emergency requests to be made in writing and include all the information available so that we may evaluate the urgency of the request. Additionally, we may ask for a subpoena, search warrant, or court order after the disclosure.
-
-In these circumstances our policy is still to notify users and provide them with a copy of any legal process regarding their account or site unless we are prohibited by law or court order from doing so. However, in some circumstances, notification may come after the information has been disclosed.
-
-Please contact us at law-enforcement@wordpress.com and include "emergency" in the subject line if you have an emergency request.
-
 **_Requests in Civil Cases_**
 
 It is our policy to turn over private user information only upon receipt of either (1) a valid order from a US court, or (2) a subpoena served as part of an existing lawsuit that complies with Rule 45 of the Federal Rules of Civil Procedure and/or the California Discovery Act. For legal requests from outside the United States, we ask that the request be served via a United States court or enforcement agency under the procedures of an applicable mutual legal assistance treaty or letter rogatory. Litigants should ensure that any such requests comply with the US SPEECH Act, 28 U.S.C. 4101 et seq.
@@ -87,6 +79,14 @@ Requests must identify the specific information (as listed above) sought.  If a 
 Any request for specific post or comment information must include the specific URL of each post or comment. We will not provide any content information in response to civil orders or subpoenas, pursuant to the E.C.P.A.
 
 Please note that we charge an administrative fee of USD $125/hour for compliance with validly issued and served civil subpoenas. We will bill for and collect this fee prior to furnishing information in response to a subpoena.
+
+**_Emergency Requests from Government Agencies/Law Enforcement_**
+
+As permitted by US law, we may disclose user information to the government or law enforcement, without a subpoena or warrant if we have a good faith belief that an emergency (danger of death or serious physical injury) requires disclosure of information related to the emergency without delay. We require emergency requests to be made in writing and include all the information available so that we may evaluate the urgency of the request. Additionally, we may ask for a subpoena, search warrant, or court order after the disclosure.
+
+In these circumstances our policy is still to notify users and provide them with a copy of any legal process regarding their account or site unless we are prohibited by law or court order from doing so. However, in some circumstances, notification may come after the information has been disclosed.
+
+Please contact us at law-enforcement@wordpress.com and include "emergency" in the subject line if you have an emergency request.
 
 #### Notification to WordPress.com Users and Transparency
 
