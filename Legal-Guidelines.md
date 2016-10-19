@@ -82,7 +82,7 @@ Please note that we charge an administrative fee of USD $125/hour for compliance
 
 #### Emergency Requests from Government Agencies/Law Enforcement
 
-As permitted by US law, we may disclose user information to the government or law enforcement, without a subpoena or warrant if we have a good faith belief that an emergency (danger of death or serious physical injury) requires disclosure of information related to the emergency without delay. If you have an emergency request, please submit your request by following [these steps](https://en.support.wordpress.com/report-blogs/emergency-requests/).
+As permitted by US law, we may disclose user information to the government or law enforcement, without a subpoena or warrant if we have a good faith belief that an emergency (imminent danger of death or serious physical injury) requires disclosure of information related to the emergency without delay. If you have an emergency request, please submit your request by following [these steps](https://en.support.wordpress.com/report-blogs/emergency-requests/).
 
 #### Notification to WordPress.com Users and Transparency
 
