@@ -49,7 +49,7 @@ Ads appearing on any of our websites may be delivered to users by advertising pa
 
 ### Comments
 
-Comments and other content submitted to our Akismet anti-spam service are not saved on our servers unless they were marked as false positives, in which case we store them long enough to use them to improve the service to avoid future false positives.
+Comments and other content submitted to our Akismet anti-spam service are not saved on our servers unless they were marked as false positives or missed spam, in which case we store them long enough to use them to improve the service to avoid future false positives and missed spam.
 
 ### Privacy Policy Changes
 
@@ -57,6 +57,7 @@ Although most changes are likely to be minor, Automattic may change its Privacy 
 
 **Change log:**
 
+*   _November 2, 2016:_ Added that comments submitted as missed spam are retained by Akismet to improve future performance.
 *   _September 18, 2013:_  Added that blog commenter email addresses are disclosed to administrators of the blog where the comment was left.
 *   _February 1, 2011:_ Clarified subpoena language and added Business Transfers paragraph
 *   _January 3, 2011:_ Added court order and subpoena clarification
