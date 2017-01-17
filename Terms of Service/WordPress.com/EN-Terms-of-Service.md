@@ -26,7 +26,15 @@ The following terms and conditions govern all use of the WordPress.com website a
     *   **Automatic Renewal.** Unless you notify Automattic before the end of the applicable subscription period that you want to cancel an Upgrade, your Upgrade subscription will automatically renew and you authorize us to collect the then-applicable annual or monthly subscription fee for such Upgrade (as well as any taxes) using any credit card or other payment mechanism we have on record for you. Upgrades can be canceled at any time in the Upgrades section of your website's dashboard.
     *   **VIP Service. **VIP Hosting/Support and VIP Support services are provided by Automattic under the terms and conditions for each such service, which are located at [vip.wordpress.com/hosting-tos](http://vip.wordpress.com/hosting-tos/) and [vip.wordpress.com/support-tos](http://vip.wordpress.com/support-tos/), respectively. By signing up for a VIP Hosting/Support or VIP Support services account, you agree to abide by such terms and conditions.
 
-#### 2. VaultPress.
+#### 2. Jetpack.
+
+*   **Description.** Jetpack is a plugin that connects your self-hosted WordPress website to WordPress.com’s infrastructure to give you the most powerful WordPress.com features.
+*   **Jetpack Content.** You’re fully responsible for the content of any website you own that runs Jetpack (“Jetpack Content”).
+*   **License.** You agree that we may scan your website, and compile aggregated/anonymized statistics for our internal use to optimize Jetpack’s performance.
+*   **Features.** Jetpack includes various features, and you can visit Jetpack.com to learn more about them. Some features, like Enhanced Distribution, when activated, will include your Jetpack Content in the WordPress.com Firehose. By activating these features, you grant us permission to display your Jetpack Content on WordPress.com for the purpose of distributing and promoting your website. Some features are on by default and others you need to enable manually. You can see which features are active, and activate and deactivate features, on your dashboard.
+*   **Storage of Information.** Certain Jetpack features rely on WordPress.com servers to function, such as those that allow you to send email, publish links, relate posts to each other, or resize images. To take advantage of the performance boosting features of Jetpack, certain information about the content, settings, and setup of your site are synced with our servers. Please see [this support page](https://jetpack.com/support/what-data-does-jetpack-sync/) for full details regarding what we sync.
+
+#### 3. VaultPress.
 
 *   **Description.** VaultPress is a subscription-based security and backup service for self-hosted WordPress websites.
 *   **VaultPress Content.** VaultPress will backup your WordPress content (e.g., your WordPress database, plugins, themes, and uploads, as well as some additional files, as described [here](http://help.vaultpress.com/get-to-know/)) ("VaultPress Content"). You can view the Content that VaultPress backs up via your [dashboard](https://dashboard.vaultpress.com/). You're fully responsible for your VaultPress Content. It's your responsibility to ensure that your website's Content abides by applicable laws and by these Terms. We don't actively review the VaultPress Content.
@@ -43,73 +51,73 @@ The following terms and conditions govern all use of the WordPress.com website a
 *   **Payment, Renewal and Refunds.** VaultPress offers different [levels of service](https://vaultpress.com/plans/). By signing up for a particular level of service, you agree to pay VaultPress the applicable subscription fees. Unless you notify us before the end of your subscription period that you no longer wish to run VaultPress, your subscription will renew automatically. If we change pricing for a service to which you're subscribed, we will notify you before your subscription is set to renew. You authorize us to charge any then-applicable fees to your credit card or other payment method we have on file for you. We offer refunds up to thirty (30) days after payment. Payment failures will result in the cancellation of your VaultPress plan. Each WordPress website requires a separate subscription to run VaultPress.
 *   **Cancellation.** If you cancel your subscription to VaultPress, we will queue your backed-up VaultPress Content for deletion.
 
-#### 3. Firehose.
+#### 4. Firehose.
 
 *   **Fees; Payment.** By signing up for the WordPress.com Firehose you agree to pay Automattic the specified monthly fees in exchange for access to the feeds. Applicable fees will be invoiced starting from the day your access is established and in advance of using such services. Automattic reserves the right to change the payment terms and fees upon thirty (30) days prior written notice to you. Firehose access can be canceled by you at anytime on 30 days written notice to Automattic.
 *   **Permitted Use.** You may use the WordPress.com Firehose to develop a product or service that searches, displays, analyzes, retrieves, and views information available on WordPress.com. You may also use the WordPress.com name or logos and other brand elements that Automattic makes available in order to identify the source of the information.
 *   **Restricted Use.** You may not use the WordPress.com Firehose to substantially replicate products or services offered by Automattic, including the republication of WordPress.com content or the creation of a separate publishing platform. If Automattic believes, in its sole discretion, that you have violated or attempted to violate these conditions or the spirit of these terms, your ability to use and access the WordPress.com Firehose may be temporarily or permanently revoked, with or without notice.
 
-#### 4. Responsibility of Visitors.
+#### 5. Responsibility of Visitors.
 
 Automattic has not reviewed, and cannot review, all of the material, including computer software, posted to our Services, and cannot therefore be responsible for that material's content, use or effects. By operating our Services, Automattic does not represent or imply that it endorses the material there posted, or that it believes such material to be accurate, useful, or non-harmful. You are responsible for taking precautions as necessary to protect yourself and your computer systems from viruses, worms, Trojan horses, and other harmful or destructive content. Our Services may contain content that is offensive, indecent, or otherwise objectionable, as well as content containing technical inaccuracies, typographical mistakes, and other errors. Our Services may also contain material that violates the privacy or publicity rights, or infringes the intellectual property and other proprietary rights, of third parties, or the downloading, copying or use of which is subject to additional terms and conditions, stated or unstated. Automattic disclaims any responsibility for any harm resulting from the use by visitors of our Services, or from any downloading by those visitors of content there posted.
 
-#### 5. Content Posted on Other Websites.
+#### 6. Content Posted on Other Websites.
 
 We have not reviewed, and cannot review, all of the material, including computer software, made available through the websites and webpages to which WordPress.com links, and that link to WordPress.com. Automattic does not have any control over those non-WordPress.com websites, and is not responsible for their contents or their use. By linking to a non-WordPress.com website, Automattic does not represent or imply that it endorses such website. You are responsible for taking precautions as necessary to protect yourself and your computer systems from viruses, worms, Trojan horses, and other harmful or destructive content. Automattic disclaims any responsibility for any harm resulting from your use of non-WordPress.com websites and webpages.
 
-#### 6. Copyright Infringement and DMCA Policy.
+#### 7. Copyright Infringement and DMCA Policy.
 
 As Automattic asks others to respect its intellectual property rights, it respects the intellectual property rights of others. If you believe that material located on or linked to by WordPress.com violates your copyright, you are encouraged to notify Automattic in accordance with [Automattic's Digital Millennium Copyright Act ("DMCA") Policy](http://automattic.com/dmca-notice/). Automattic will respond to all such notices, including as required or appropriate by removing the infringing material or disabling all links to the infringing material. Automattic will terminate a visitor's access to and use of the Website if, under appropriate circumstances, the visitor is determined to be a repeat infringer of the copyrights or other intellectual property rights of Automattic or others. In the case of such termination, Automattic will have no obligation to provide a refund of any amounts previously paid to Automattic.
 
-#### 7. Intellectual Property.
+#### 8. Intellectual Property.
 
 This Agreement does not transfer from Automattic to you any Automattic or third party intellectual property, and all right, title, and interest in and to such property will remain (as between the parties) solely with Automattic. Automattic, WordPress, WordPress.com, the WordPress.com logo, and all other trademarks, service marks, graphics and logos used in connection with WordPress.com or our Services, are trademarks or registered trademarks of Automattic or Automattic's licensors. Other trademarks, service marks, graphics and logos used in connection with our Services may be the trademarks of other third parties. Your use of our Services grants you no right or license to reproduce or otherwise use any Automattic or third-party trademarks.
 
-#### 8. Domain Names.
+#### 9. Domain Names.
 
 We act as a registrar and also work with third party registrars in order to provide our users with domain name services. When you register a domain name on WordPress.com, or when you renew or transfer an existing domain name on WordPress.com, you become bound by the relevant registrar’s terms and conditions, either the [Automattic Domain Name Registration Agreement](https://wordpress.com/automattic-domain-name-registration-agreement), [Tucows Domain Inc. Registration Agreement](https://wordpress.com/tucows-domains-inc-registration-agreement), or this [Domain Name Registration Agreement](http://www.secureserver.net/agreements/showdoc.aspx?pageid=7959&prog_id=391143), in addition to these Terms. Which registrar terms apply depends on the TLD you choose, and in some cases, the date you register your domain, so please see [this page](http://en.support.wordpress.com/domain-registration-agreements) to determine which agreement(s) apply to you. These registrar terms are incorporated by reference into these Terms.
 
 Further, your use of the domain name is also subject to the policies of the Internet Corporation for Assigned Names and Numbers (“ICANN”). A summary of your rights and responsibilities as a domain name registrant under ICANN’s 2009 Registrar Accreditation Agreement can be found [here](http://www.icann.org/en/resources/registrars/registrant-rights/benefits). You can learn more about domain name registration generally [here](https://www.icann.org/resources/pages/educational-2012-02-25-en). 
 
-#### 9. G Suite.
+#### 10. G Suite.
 
 If you purchase a G Suite subscription, this section applies. G Suite is provided by Google, and your use of G Suite is subject to Google's [Terms of Use](https://www.google.com/apps/intl/en/terms/reseller_premier_terms.html) for the services, which you'll accept prior to using G Suite for the first time. Automattic is an authorized reseller of G Suite, but makes no warranties about the services provided by Google, and disclaims Google's liability for any damages arising from our distribution and resale of their services. Google will provide technical support for its services, per its [Technical Support Services Guidelines](https://www.google.com/apps/intl/en/terms/tssg.html). If you're a business and purchase G Suite for your WordPress.com website, you represent that you have 749 or fewer staff members.
 
-#### 10. Changes.
+#### 11. Changes.
 
 We are constantly updating our Services, and that means sometimes we have to change the legal terms under which our Services are offered. If we make changes that are material, we will let you know by posting on one of our blogs, or by sending you an email or other communication before the changes take effect. The notice will designate a reasonable period of time after which the new terms will take effect. If you disagree with our changes, then you should stop using our Services within the designated notice period. Your continued use of our Services will be subject to the new terms. However, any dispute that arose before the changes shall be governed by the Terms (including the binding individual arbitration clause) that were in place when the dispute arose.
 
-#### 11. Termination.
+#### 12. Termination.
 
 Automattic may terminate your access to all or any part of our Services at any time, with or without cause, with or without notice, effective immediately. If you wish to terminate this Agreement or your WordPress.com account (if you have one), you may simply discontinue using our Services. All provisions of this Agreement which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.
 
-#### 12. Disclaimer of Warranties.
+#### 13. Disclaimer of Warranties.
 
 Our Services are provided "as is." Automattic and its suppliers and licensors hereby disclaim all warranties of any kind, express or implied, including, without limitation, the warranties of merchantability, fitness for a particular purpose and non-infringement. Neither Automattic nor its suppliers and licensors, makes any warranty that our Services will be error free or that access thereto will be continuous or uninterrupted. If you're actually reading this, [here's a treat](http://wordpress.com/tos/treat/). You understand that you download from, or otherwise obtain content or services through, our Services at your own discretion and risk.
 
-#### 13. Limitation of Liability.
+#### 14. Limitation of Liability.
 
 In no event will Automattic, or its suppliers or licensors, be liable with respect to any subject matter of this Agreement under any contract, negligence, strict liability or other legal or equitable theory for: (i) any special, incidental or consequential damages; (ii) the cost of procurement for substitute products or services; (iii) for interruption of use or loss or corruption of data; or (iv) for any amounts that exceed the fees paid by you to Automattic under this agreement during the twelve (12) month period prior to the cause of action. Automattic shall have no liability for any failure or delay due to matters beyond their reasonable control. The foregoing shall not apply to the extent prohibited by applicable law.
 
-#### 14. General Representation and Warranty.
+#### 15. General Representation and Warranty.
 
 You represent and warrant that (i) your use of our Services will be in strict accordance with the Automattic Privacy Policy, with this Agreement, and with all applicable laws and regulations (including without limitation any local laws or regulations in your country, state, city, or other governmental area, regarding online conduct and acceptable content, and including all applicable laws regarding the transmission of technical data exported from the United States or the country in which you reside) and (ii) your use of our Services will not infringe or misappropriate the intellectual property rights of any third party.
 
-#### 15. US Economic Sanctions.
+#### 16. US Economic Sanctions.
 
 You expressly represent and warrant that your use of our Services and or associated services and products is not contrary to applicable U.S. Sanctions. Such use is prohibited, and Automattic reserve the right to terminate accounts or access of those in the event of a breach of this condition.
 
-#### 16. Indemnification.
+#### 17. Indemnification.
 
 You agree to indemnify and hold harmless Automattic, its contractors, and its licensors, and their respective directors, officers, employees, and agents from and against any and all claims and expenses, including attorneys' fees, arising out of your use of our Services, including but not limited to your violation of this Agreement.
 
-#### 17. Translation.
+#### 18. Translation.
 
 These Terms of Service were originally written in English (US). We may translate these terms into other languages. In the event of a conflict between a translated version of these Terms of Service and the English version, the English version will control.
 
-#### 18. Miscellaneous.
+#### 19. Miscellaneous.
 
 This Agreement constitutes the entire agreement between Automattic and you concerning the subject matter hereof, and they may only be modified by a written amendment signed by an authorized executive of Automattic, or by the posting by Automattic of a revised version. Except to the extent applicable law, if any, provides otherwise, this Agreement, any access to or use of our Services will be governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions, and the proper venue for any disputes arising out of or relating to any of the same will be the state and federal courts located in San Francisco County, California. Except for claims for injunctive or equitable relief or claims regarding intellectual property rights (which may be brought in any competent court without the posting of a bond), any dispute arising under this Agreement shall be finally settled in accordance with the Comprehensive Arbitration Rules of the Judicial Arbitration and Mediation Service, Inc. ("JAMS") by three arbitrators appointed in accordance with such Rules. The arbitration shall take place in San Francisco, California, in the English language and the arbitral decision may be enforced in any court. The prevailing party in any action or proceeding to enforce this Agreement shall be entitled to costs and attorneys' fees. If any part of this Agreement is held invalid or unenforceable, that part will be construed to reflect the parties' original intent, and the remaining portions will remain in full force and effect. A waiver by either party of any term or condition of this Agreement or any breach thereof, in any one instance, will not waive such term or condition or any subsequent breach thereof. You may assign your rights under this Agreement to any party that consents to, and agrees to be bound by, its terms and conditions; Automattic may assign its rights under this Agreement without condition. This Agreement will be binding upon and will inure to the benefit of the parties, their successors and permitted assigns. 
 
-[Print friendly version](https://en-support.files.wordpress.com/2016/07/terms-of-service2.pdf)  
+[Print friendly version](https://en-support.files.wordpress.com/2017/01/tos-01-17-17.pdf)  
 [Change Log](http://wordpress.com/tos-change-log)
