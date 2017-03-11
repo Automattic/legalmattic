@@ -32,7 +32,7 @@ We retain commenter information until the site owner of the site on which the co
 
 #### More Information on Data Release and Retention
 
-Before revealing any of this information to a party that is not the owner of the account, we require a validly issued subpoena, warrant, or court order that specifically requests it unless we have a good faith belief that there is an emergency involving death or serious physical injury. More information on our requirements for releasing private user information can be found below.
+Before revealing any of this information to a party that is not the owner of the account, we require a validly issued subpoena, warrant, or court order that specifically requests it unless we have a good faith belief that there is an emergency involving death or serious physical injury. We do not voluntarily provide governments with access to data about users (private or public) for law enforcement, intelligence gathering, or other surveillance purposes. More information on our requirements for releasing private user information can be found below.
 
 If you wish to stop using WordPress.com, you may empty your site by following these steps [these steps](https://en.support.wordpress.com/empty-site/) or contacting us. If you have registered a custom domain with us, but it is no longer active, we can delete the physical address you provided upon your request.
 
