@@ -26,6 +26,8 @@ We will generally retain the above information until changed or removed by the u
 
 We may retain the above information, even if a site or post is deleted.
 
+Deleted posts remain in a user’s trash folder for 30 days, after which point our servers may retain a backup for an additional 60 days.
+
 4. Information on commenters on WordPress.com sites.
 
 We retain commenter information until the site owner of the site on which the comment appears deletes the comment.
