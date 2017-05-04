@@ -95,11 +95,11 @@ Automattic may terminate your access to all or any part of our Services at any t
 
 Our Services are provided "as is." Automattic and its suppliers and licensors hereby disclaim all warranties of any kind, express or implied, including, without limitation, the warranties of merchantability, fitness for a particular purpose and non-infringement. Neither Automattic nor its suppliers and licensors, makes any warranty that our Services will be error free or that access thereto will be continuous or uninterrupted. If you're actually reading this, [here's a treat](http://wordpress.com/tos/treat/). You understand that you download from, or otherwise obtain content or services through, our Services at your own discretion and risk.
 
-### 14. Jurisdiction and Applicable Law.
+#### 14. Jurisdiction and Applicable Law.
 
 Except to the extent applicable law, if any, provides otherwise, this Agreement, any access to or use of our Services will be governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions, and the proper venue for any disputes arising out of or relating to any of the same will be the state and federal courts located in San Francisco County, California.
 
-### 15. Arbitration Agreement.
+#### 15. Arbitration Agreement.
 
 Except for claims for injunctive or equitable relief or claims regarding intellectual property rights (which may be brought in any competent court without the posting of a bond), any dispute arising under this Agreement shall be finally settled in accordance with the Comprehensive Arbitration Rules of the Judicial Arbitration and Mediation Service, Inc. ("JAMS") by three arbitrators appointed in accordance with such Rules. The arbitration shall take place in San Francisco, California, in the English language and the arbitral decision may be enforced in any court. The prevailing party in any action or proceeding to enforce this Agreement shall be entitled to costs and attorneys' fees.
 
