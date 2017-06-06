@@ -2,14 +2,14 @@ If you have received a [Digital Millenium Copyright Act (DMCA) Infringement Not
 
 Please note that under Section 512(f) of the DMCA, any person who knowingly materially misrepresents that material or activity was removed or disabled by mistake or misidentification may be subject to liability. Thus, if you are not sure that the material was removed or disabled as a result of mistake or misidentification, you should first consider seeking legal advice.
 
-Counter notices must be sent to our designated agent:
+Counter notices must be sent to our [designated agent](https://dmca.copyright.gov/osp/publish/history.html?id=e9e9fbffe36d3913e808c24f8c4d1c81):
 
 **Email: [dmca@automattic.com](mailto:dmca@automattic.com)**
 
+Designated Copyright Agent
 Automattic Inc.  
 132 Hawthorne St.  
 San Francisco CA 94107  
-Attn: General Counsel
 
 Phone: +1 (877) 273-8550  
 Fax: +1 (415) 840-0710
