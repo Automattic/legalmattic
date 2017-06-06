@@ -18,12 +18,12 @@ As required by the DMCA, we have a policy to terminate users and/or sites that 
 
 * * *
 
-If you'd prefer not to use our automated form, you can send your complaint to our [designated agent](http://www.copyright.gov/onlinesp/agents/a/automattic.pdf) (**we prefer [email](mailto:dmca@automattic.com)**):
+If you'd prefer not to use our automated form, you can send your complaint to our [designated agent](https://dmca.copyright.gov/osp/publish/history.html?id=e9e9fbffe36d3913e808c24f8c4d1c81) (**we prefer [email](mailto:dmca@automattic.com)**):
 
+Designated Copyright Agent
 Automattic Inc.  
 132 Hawthorne St.  
 San Francisco, CA 94107  
-Attn: General Counsel
 
 Phone: (877) 273-8550  
 Fax: (415) 840-0710
