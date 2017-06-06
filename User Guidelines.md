@@ -15,39 +15,39 @@ To be transparent about what is and isn't allowed on your site, we’ve put tog
 
 <dd>Self-explanatory.</dd>
 
-<dt>**Intellectual property infringement.**</dt>
+**Intellectual property infringement.**
 
 <dd>WordPress.com is a publishing, rather than a file sharing platform, so we recognize that copyrighted materials are often used in [fair use](http://en.support.wordpress.com/fair-use/) context. We strongly support this and urge copyright holders to take this into consideration before submitting complaints. If you're not sure, a good rule of thumb is to always ask the rights holder for permission before republishing their content.</dd>
 
-<dt>**Pornography.**</dt>
+**Pornography.**
 
 <dd>We know that there may be different definitions of this, but generally, we define pornography as visual depictions of sexually explicit acts. Nudity, in and of itself, is [fine](http://en.support.wordpress.com/mature-content/).</dd>
 
-<dt>**Technologically harmful content.**</dt>
+**Technologically harmful content.**
 
 <dd>Please don’t upload or link to malware, spyware, adware, or other malicious or destructive code.</dd>
 
-<dt>**Impersonation.**</dt>
+**Impersonation.**
 
 <dd>Don’t claim to be a person or organization you’re not. (Parody and satire are ok though!)</dd>
 
-<dt>**Directly threatening material.**</dt>
+**Directly threatening material.**
 
 <dd>Do not post direct and realistic threats of violence. That is, you cannot post a genuine call for violence—or death—against an individual person, or groups of persons. This doesn't mean that we'll remove all hyperbole or offensive language.</dd>
 
-<dt>**Posting private information.**</dt>
+**Posting private information.**
 
 <dd>Don’t share someone’s [personal information](http://en.support.wordpress.com/private-information/) without their consent.</dd>
 
-<dt>**Advertising.**</dt>
+**Advertising.**
 
 <dd>[Advertising](http://en.support.wordpress.com/advertising/) isn’t permitted unless you use [WordAds](http://www.wordads.co) or have a [WordPress.com VIP](http://vip.wordpress.com/our-services/) or [Enterprise](http://wordpress.com/enterprise/) site.</dd>
 
-<dt>**Hotlinking to WordPress.com.**</dt>
+**Hotlinking to WordPress.com.**
 
 <dd>Other than via [VideoPress](http://en.support.wordpress.com/videopress/), your WordPress.com site shouldn’t host files that will only be used on other sites.</dd>
 
-<dt>**Spam or machine-generated content.**</dt>
+**Spam or machine-generated content.**
 
 <dd>You know what this is, but in general, sites such as those primarily dedicated to drive traffic to third party sites, boost SEO, phish, spoof, or promote affiliate marketing aren’t cool. We don’t want you to pollute the web outside of WordPress.com either, so we ask you to please avoid sending unwanted or unsolicited promotions or emails about your site, even if it’s not on WordPress.com.</dd>
 
