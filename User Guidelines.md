@@ -33,7 +33,7 @@ To be transparent about what is and isn't allowed on your site, we’ve put tog
 
 <dt>**Directly threatening material.**</dt>
 
-<dd>We don’t tolerate direct and realistic threats of violence. (This doesn't mean that we'll remove all hyperbole or offensive language.)</dd>
+<dd>Do not post direct and realistic threats of violence. That is, you cannot post a genuine call for violence—or death—against an individual person, or groups of persons. This doesn't mean that we'll remove all hyperbole or offensive language.</dd>
 
 <dt>**Posting private information.**</dt>
 
