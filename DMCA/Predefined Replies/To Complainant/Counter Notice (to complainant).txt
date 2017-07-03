@@ -1,6 +1,8 @@
 Hi,
 
-We have received a formal DMCA Counter Notice regarding the material removed in response to a DMCA Takedown Notice submitted by you on /////INSERT DATE/////. The complete Counter Notice is pasted below. You now have a period of 10 business days to initiate legal action against the individual responsible for the material's publication and submission of this Counter Notice. Should you choose to pursue the matter legally, you will need to respond to this email immediately and provide us with all relevant and legal documentation evidencing such action. If no further action is taken, we will be required to restore access to the material at the end of the 10 business-day period.
+We have received a formal DMCA Counter Notice regarding the material removed in response to a DMCA Takedown Notice submitted by you on /////INSERT DATE/////. The complete Counter Notice is pasted below. You now have a period of 10 business days to initiate legal action against the individual responsible for the material's publication and submission of this Counter Notice. Should you choose to pursue the matter legally, you will need to respond to this email immediately and provide us with all relevant and legal documentation evidencing such action. Please note that the DMCA requires that any legal action must be filed in the district of the user’s address as listed in the counter notice, unless that address is outside the United States, in which case the action must be filed in an area where Automattic are legally established.
+
+If no further action is taken, we will be required to restore access to the material at the end of the 10 business-day period.
 
 Thank you very much.
 
