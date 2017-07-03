@@ -1,15 +1,19 @@
 Hello,
 
-We reviewed your recently submitted DMCA notice, but we do not believe that your complaint properly falls under the provisions of the DMCA as the material at issue does not appear to be copyrightable subject matter. See http://www.copyright.gov/help/faq/faq-protect.html for more information.
+We reviewed your recently submitted trademark complaint, but we do not believe that your complaint is classified as a trademark complaint. It appears you are actually trying to report copyright infringement.
 
-Please note that you may be liable for damages if you “knowingly materially misrepresent” your copyrights – and we may seek to collect those damages:
+If you would like to formally report an instance of copyright infringement for materials or content you own, please follow the instructions at the link below to submit a DMCA Takedown Notice identifying yourself as the copyright holder (or someone legally authorized to act on the behalf of the copyright holder):
 
-http://en.blog.wordpress.com/2013/11/21/striking-back-against-censorship/
+http://automattic.com/dmca/
 
-http://www.theverge.com/2015/3/9/8175491/wordpress-automattic-wins-dmca-takedown-straight-pride-uk-case
+As per the information contained at the above URL, please ensure that your DMCA notice includes the following information (otherwise, it will be deemed invalid):
 
-It appears you are actually trying to report trademark infringement. Since your trademark complaint does not yet contain enough information for us to properly investigate it, please refer to our trademark policy for more information. We recommend using the included form to submit a properly-formatted complaint:
+* An electronic signature of the copyright owner or a person authorized to act on their behalf;
+* An identification of the copyright claimed to have been infringed;
+* A description of the nature and exact location of the content that you claim to infringe your copyright, in sufficient detail to permit Automattic to find and positively identify that content; for example we require a link to the specific blog post (not just the name of the blog) that contains the content and a description of which specific portion of the blog post – an image, a link, the text, etc – your complaint refers to;
+* Your name, address, telephone number and email address; and
+* A statement by you: (a) that you believe in good faith that the use of the content that you claim to infringe your copyright is not authorized by law, or by the copyright owner or such owner’s agent; and (b) under penalty of perjury, that all of the information contained in your Infringement Notice is accurate, and that you are either the copyright owner or a person authorized to act on their behalf.
 
-http://automattic.com/trademark-policy/
+If you are having trouble composing a proper notice, as outlined above, we recommend using the available form at http://automattic.com/dmca/ to submit the notice. Please note that any notices submitted via this form are still legally binding and will be forwarded to the owner of the site publishing the allegedly infringing material.
 
-Thank you for your cooperation in this matter.
+Thank you.
