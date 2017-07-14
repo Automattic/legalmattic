@@ -22,8 +22,8 @@ If you'd prefer not to use our automated form, you can send your complaint to ou
 
 Designated Copyright Agent
 Automattic Inc.  
-132 Hawthorne St.  
-San Francisco, CA 94107  
+60 29th Street #343
+San Francisco, CA 94110 
 
 Phone: (877) 273-8550  
 Fax: (415) 840-0710
