@@ -8,8 +8,8 @@ Counter notices must be sent to our [designated agent](https://dmca.copyright.go
 
 Designated Copyright Agent
 Automattic Inc.  
-132 Hawthorne St.  
-San Francisco CA 94107  
+60 29th Street #343
+San Francisco, CA 94110 
 
 Phone: +1 (877) 273-8550  
 Fax: +1 (415) 840-0710
