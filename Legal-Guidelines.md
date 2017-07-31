@@ -129,8 +129,8 @@ Any request for user information must include a valid email address for us to re
 Legal process can be served by mail to:
 
 Automattic Inc.
-132 Hawthorne St.
-San Francisco, CA 94107
+60 29th St. #343
+San Francisco, CA 94110
 
 Where permitted, we also accept service via email to legal@wordpress.com.
 
