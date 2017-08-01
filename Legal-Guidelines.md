@@ -132,6 +132,12 @@ Automattic Inc.
 60 29th St. #343
 San Francisco, CA 94110
 
+If you need to serve us personally, you can do so at:
+
+C T Corporation System
+818 West Seventh Street - Suite 930
+Los Angeles, California 90017
+
 Where permitted, we also accept service via email to legal@wordpress.com.
 
 General inquiries regarding our policies can be sent via email to legal@wordpress.com.
