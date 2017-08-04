@@ -51,10 +51,8 @@ Other than via [VideoPress](http://en.support.wordpress.com/videopress/), your 
 
 You know what this is, but in general, sites such as those primarily dedicated to drive traffic to third party sites, boost SEO, phish, spoof, or promote affiliate marketing aren’t cool. We don’t want you to pollute the web outside of WordPress.com either, so we ask you to please avoid sending unwanted or unsolicited promotions or emails about your site, even if it’s not on WordPress.com.
 
-* * *
+Bear in mind that these are just guidelines -- **interpretations are solely up to us**. These guidelines are not exhaustive and are subject to change.
 
-Bear in mind that these are just guidelines -- **interpretations are up to us**. These guidelines are not exhaustive and are subject to change.
-
-If you believe a WordPress.com site has violated our [Terms of Service](http://en.wordpress.com/tos) or any of these policies, please [report the site](http://en.support.wordpress.com/report-blogs/). We review and investigate all complaints that we receive, but if and how we respond will depend on a variety of factors, such as the information available to us and the type of violation. We may also contact the site owner to inform him/her of the complaint.
+If you believe a WordPress.com site has violated our [Terms of Service](http://en.wordpress.com/tos) or any of these policies, please [report the site](http://en.support.wordpress.com/report-blogs/). We aim to promptly review and investigate all complaints that we receive, but if and how we respond will depend on a variety of factors, such as the information available to us and the type of violation. We may also contact the site owner to inform him/her of the complaint.
 
 If we're not in a position to make a determination (for example, whether something is [defamatory](http://en.support.wordpress.com/defamation/) or not), we defer to the judgment of a court.
