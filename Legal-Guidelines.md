@@ -142,6 +142,12 @@ Where permitted, we also accept service via email to legal@wordpress.com.
 
 General inquiries regarding our policies can be sent via email to legal@wordpress.com.
 
+#### WordPress.com vs. WordPress.org
+
+If you’re inquiring about a site that has been built using WordPress or mentions that it’s “Powered by WordPress,” please note that this means that site is using the [WordPress.org](https://wordpress.org) software, which can be downloaded and installed on any web host. If you’re seeking information about a site powered by WordPress (rather than one on WordPress.com), please contact the host of the site.
+
+You can learn more about the difference between WordPress.com and WordPress.org [here](http://en.support.wordpress.com/com-vs-org/).
+
 #### A Note on Back Doors, Encryption
 
 We furnish user information to law enforcement agencies via the processes described in these legal guidelines. We do not provide access to user data through “back doors” in our systems.
