@@ -31,6 +31,10 @@ Certain visitors to Automattic’s websites choose to interact with Automattic i
 
 Automattic may collect statistics about the behavior of visitors to its websites. For instance, Automattic may monitor the most popular blogs on the WordPress.com site or use spam screened by the Akismet service to help identify spam. Automattic may display this information publicly or provide it to others. However, Automattic does not disclose personally-identifying information other than as described below.
 
+### Information We Collect from Other Sources
+
+With your authorization, we may also obtain information about you from other sources. For example, if you create or log into your WordPress.com account through a social media service (like Google) or if you connect your website or account to a social media service through our [Publicize feature](https://en.support.wordpress.com/publicize/), we will receive information from that service (such as your username, basic profile information, and friends list) via the authorization procedures used by that service. The information we receive depends on which services you authorize and any options that are available.
+
 ### Protection of Certain Personally-Identifying Information
 
 Automattic discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Automattic’s behalf or to provide services available at Automattic’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Automattic’s websites, you consent to the transfer of such information to them. Automattic will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Automattic discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Automattic believes in good faith that disclosure is reasonably necessary to protect the property or rights of Automattic, third parties or the public at large. If you are a registered user of an Automattic website and have supplied your email address, Automattic may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Automattic and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Automattic takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
@@ -57,6 +61,7 @@ Although most changes are likely to be minor, Automattic may change its Privacy 
 
 **Change log:**
 
+*   _August 22, 2017:_ Added "Information We Collect from Other Sources" section.
 *   _November 2, 2016:_ Added that comments submitted as missed spam are retained by Akismet to improve future performance.
 *   _September 18, 2013:_  Added that blog commenter email addresses are disclosed to administrators of the blog where the comment was left.
 *   _February 1, 2011:_ Clarified subpoena language and added Business Transfers paragraph
