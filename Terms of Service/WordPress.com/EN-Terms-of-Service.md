@@ -106,6 +106,10 @@ We act as a registrar and also work with third party registrars in order to prov
 
 Further, your use of the domain name is also subject to the policies of the Internet Corporation for Assigned Names and Numbers (“ICANN”). A summary of your rights and responsibilities as a domain name registrant under ICANN’s 2009 Registrar Accreditation Agreement can be found [here](http://www.icann.org/en/resources/registrars/registrant-rights/benefits). You can learn more about domain name registration generally [here](https://www.icann.org/resources/pages/educational-2012-02-25-en). 
 
+For details about what happens during the domain expiration process, and how we may notify you of domain expiration, please see [this page](https://en.support.wordpress.com/domains/domain-expiration/).
+
+Please refer to [this page](https://en.support.wordpress.com/domains/domain-pricing-and-available-tlds/) for details about fees associated with domain registrations, renewals, and redemptions.
+
 #### 11. G Suite.
 
 If you purchase a G Suite subscription, this section applies. G Suite is provided by Google, and your use of G Suite is subject to Google's [Terms of Use](https://www.google.com/apps/intl/en/terms/reseller_premier_terms.html) for the services, which you'll accept prior to using G Suite for the first time. Automattic is an authorized reseller of G Suite, but makes no warranties about the services provided by Google, and disclaims Google's liability for any damages arising from our distribution and resale of their services. Google will provide technical support for its services, per its [Technical Support Services Guidelines](https://www.google.com/apps/intl/en/terms/tssg.html). If you're a business and purchase G Suite for your WordPress.com website, you represent that you have 749 or fewer staff members.
