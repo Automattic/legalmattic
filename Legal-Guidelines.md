@@ -32,6 +32,10 @@ Deleted posts remain in a user’s trash folder for 30 days, after which point o
 
 We retain commenter information until the site owner of the site on which the comment appears deletes the comment.
 
+>5. Contact information associated with a domain registration (if a user has registered a custom domain).
+
+If a user has registered a custom domain on WordPress.com (e.g., yourgroovydomain.com rather than yourgroovysite.wordpress.com), we may have the contact information they provided for the domain registration.
+
 #### More Information on Data Release and Retention
 
 Before revealing any of this information to a party that is not the owner of the account, we require a validly issued subpoena, warrant, or court order that specifically requests it unless we have a good faith belief that there is an emergency involving death or serious physical injury. We do not voluntarily provide governments with access to data about users (private or public) for law enforcement, intelligence gathering, or other surveillance purposes. More information on our requirements for releasing private user information can be found below.
