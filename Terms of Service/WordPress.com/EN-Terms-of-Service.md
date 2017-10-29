@@ -159,7 +159,7 @@ You represent and warrant that (i) your use of our Services will be in strict ac
 
 #### 20. US Economic Sanctions.
 
-You expressly represent and warrant that your use of our Services and or associated services and products is not contrary to applicable U.S. Sanctions. Such use is prohibited, and Automattic reserve the right to terminate accounts or access of those in the event of a breach of this condition.
+You expressly represent and warrant that your use of our Services and or associated services and products is not contrary to applicable U.S. Sanctions. Such use is prohibited, and Automattic reserves the right to terminate accounts or access of those in the event of a breach of this condition.
 
 #### 21. Indemnification.
 
