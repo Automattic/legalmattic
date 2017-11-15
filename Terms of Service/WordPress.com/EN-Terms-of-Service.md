@@ -177,5 +177,5 @@ If any part of this Agreement is held invalid or unenforceable, that part will b
 
 You may assign your rights under this Agreement to any party that consents to, and agrees to be bound by, its terms and conditions; Automattic may assign its rights under this Agreement without condition. This Agreement will be binding upon and will inure to the benefit of the parties, their successors and permitted assigns. 
 
-[Print friendly version](https://en-support.files.wordpress.com/2017/10/tos-10-11-17.pdf)  
+[Print friendly version](https://en-support.files.wordpress.com/2017/11/wpcom-tos-nov-17.pdf)  
 [Change Log](http://wordpress.com/tos-change-log)
