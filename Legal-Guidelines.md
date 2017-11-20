@@ -126,7 +126,7 @@ WordPress.com strongly believes in freedom of speech. We have a vast audience sp
 
 If we receive a complaint and are not in a position to make a determination (for example whether something is defamatory or not), we defer to the judgment of a court.
 
-#### Serving Process on WordPress.com and Making Inquires
+#### Serving Process on WordPress.com and Making Inquiries
 
 Any request for user information must include a valid email address for us to return the information or contact with questions. WordPress.com communicates only via email.
 
