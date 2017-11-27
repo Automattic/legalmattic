@@ -96,6 +96,11 @@ We aim for total transparency with our users when requests or complaints affect 
 
 If a request for information is valid, we will preserve the necessary information before informing the user. In most cases, upon notification to the user, that user will be provided with either 7 days or the amount of time before the information is due, whichever is later, during which time the user may attempt to quash or legally challenge the request. If, prior to the deadline, we receive notice from user that he or she intends to challenge a request, no information will be delivered until that process concludes. We also review the information requests received and may lodge our own challenge to the scope or validity of legal process received, on behalf of a user, whether or not the user pursues his/her own legal challenge.
 
+#### Nondisclosure Orders
+As mentioned above, we notify users and provide them with a copy of any legal process regarding their account or site unless we are prohibited by law or court order from doing so. In those cases, we will notify users and provide them with a copy of the legal process when the prohibition expires.
+
+In light of the [October 19, 2017 DOJ guidance on nondisclosure orders](https://www.justice.gov/criminal-ccips/page/file/1005791/download), we request that you include a specific end date for the nondisclosure in any proposed order associated with this request that is no later than one year after the order.
+
 #### Preservation Requests for WordPress.com Sites
 
 Requests for the preservation of information must originate from a law enforcement agency.
