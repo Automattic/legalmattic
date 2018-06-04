@@ -132,11 +132,15 @@ If you reside outside of the Designated Countries  (for services other than tho
 
 If you reside in the Designated Countries (for services other than those offered at WooCommerce.com):
 
-**Aut O’Mattic A8C Ireland Ltd.** Business Centre, No.1 Lower Mayor Street International Financial Services Centre Dublin 1, Ireland**Automattic Inc.** is also the controller for some of the processing activities related to Services provided by Aut O’Mattic A8C Ireland Ltd.
+**Aut O’Mattic A8C Ireland Ltd.** Business Centre, No.1 Lower Mayor Street International Financial Services Centre Dublin 1, Ireland
+
+**Automattic Inc.** is also the controller for some of the processing activities related to Services provided by Aut O’Mattic A8C Ireland Ltd.
 
 If you are using our Services offered at WooCommerce.com:
 
-**Bubblestorm Management (Pty) Ltd (WooCommerce.com)** Unit A206, The Old Biscuit Mill (TOBM) 373 – 375 Albert Road, Woodstock Cape Town, South Africa**Automattic Inc.** is also the controller for some of the processing activities related to Services provided by Bubblestorm Management (Pty) Ltd (WooCommerce.com).
+**Bubblestorm Management (Pty) Ltd (WooCommerce.com)** Unit A206, The Old Biscuit Mill (TOBM) 373 – 375 Albert Road, Woodstock Cape Town, South Africa
+
+**Automattic Inc.** is also the controller for some of the processing activities related to Services provided by Bubblestorm Management (Pty) Ltd (WooCommerce.com).
 
 ### How to Reach Us
 
