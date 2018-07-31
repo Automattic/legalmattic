@@ -109,7 +109,7 @@ In accordance with the Digital Millennium Copyright Act (“DMCA”) and other a
 
 ####Copyright Complaints
 
-If you are a copyright owner, or are authorized to act on behalf of one, or authorized to act under any exclusive right under copyright, please report alleged copyright infringements taking place on or through Cloudup Services by completing the following DMCA Notice of Alleged Infringementand delivering it to Cloudup’s Designated Copyright Agent. You should note that if you knowingly misrepresent in your notification that the material or activity is infringing, you will be liable for any damages, including costs and attorneys’ fees, incurred by us or the alleged infringer as the result of our relying upon such misrepresentation in removing or disabling access to the material or activity claimed to be infringing.
+If you are a copyright owner, or are authorized to act on behalf of one, or authorized to act under any exclusive right under copyright, please report alleged copyright infringements taking place on or through Cloudup Services by completing the following DMCA Notice of Alleged Infringement and delivering it to Cloudup’s Designated Copyright Agent. You should note that if you knowingly misrepresent in your notification that the material or activity is infringing, you will be liable for any damages, including costs and attorneys’ fees, incurred by us or the alleged infringer as the result of our relying upon such misrepresentation in removing or disabling access to the material or activity claimed to be infringing.
 
 Upon receipt of the Notice as described below, Cloudup will take whatever action, in its sole discretion, it deems appropriate, including removal of the challenged material from Cloudup Services.
 
