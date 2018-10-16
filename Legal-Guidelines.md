@@ -30,7 +30,7 @@ We will generally retain transaction and/or billing information until changed or
 
 *   The date and time (UTC) at which a site was created
 *   The IP address from which a site was created
-*   IP address and user for a post or revision
+*   IP address and user agent for a post or revision
 
 We may retain the above information, even if a site or post is deleted. Deleted posts remain in a user’s trash folder for 30 days, after which point our servers may retain a backup for an additional 60 days.
 
