@@ -1,4 +1,4 @@
-Hi there! This Privacy Notice explains how we, at Automattic, process information about the visitors of our users’ websites in connection with the services we provide through WordPress.com, Jetpack (including WooCommerce Services), IntenseDebate, Polldaddy.com, and Akismet. Read on!
+Hi there! This Privacy Notice explains how we, at Automattic, process information about the visitors of our users’ websites in connection with the services we provide through WordPress.com, Jetpack (including WooCommerce Services), IntenseDebate, Crowdsignal.com, and Akismet. Read on!
 
 ### Who’s Who and What This Privacy Notice Covers
 
@@ -6,7 +6,7 @@ Let’s talk first about who we are at Automattic, what we do, and what this Pri
 
 *   [WordPress.com](https://wordpress.com/) offers the design, features, and support to bring a website to life.
 *   With [Jetpack](https://jetpack.com/), website owners that host their websites elsewhere can connect those websites to features and tools available through WordPress.com and [WooCommerce Services](https://docs.woocommerce.com/document/woocommerce-services/).
-*   [Polldaddy](https://polldaddy.com/) helps site owners create quizzes, surveys, and polls that fit their brand and vision.
+*   [Crowdsignal](https://crowdsignal.com/) helps site owners create quizzes, surveys, and polls that fit their brand and vision.
 *   [Intense Debate](https://intensedebate.com/) gives site owners tools to manage comments on their websites.
 *   [Akismet](https://akismet.com/) helps keep spam under control by filtering out spam comments--hundreds of millions, every day!
 
@@ -22,7 +22,7 @@ We’ll start with information that visitors provide directly to a Site, which p
 
 *   **Follower and Subscriber Information:** When a visitor signs up to follow or subscribe to a Site using Jetpack or WordPress.com, we collect the sign-up information requested by the Site, which typically includes an email address.
 *   **Site Comments:** When a visitor leaves a comment on a Site, we collect that comment, and other information that the visitor provides along with the comment, such as the visitor’s name and email address.
-*   **PollDaddy Survey Responses:** When a visitor completes a poll, quiz, or other type of survey prepared by a User via Polldaddy.com, we collect the visitor’s responses to those surveys, and other information that the survey owner requires for a poll/quiz/survey response, like an e-mail address.
+*   **Crowdsignal Survey Responses:** When a visitor completes a poll, quiz, or other type of survey prepared by a User via Crowdsignal.com, we collect the visitor’s responses to those surveys, and other information that the survey owner requires for a poll/quiz/survey response, like an e-mail address.
 *   **Order and Shipment Information:** If a visitor orders something (hooray!) from a Site using our store and ecommerce features available through WordPress.com or Jetpack (including WooCommerce Services), we may collect information to process that order, such as credit card and billing information, and an address for shipping the package along to the recipient and calculating applicable taxes. We may also use this information for other purposes on behalf of our Users--for example, to send marketing and other communications from our Users to their customers, and to provide our User with analytics information about their ecommerce site (e.g., the number of orders from particular geographic areas).
 *   **Other Information Entered on the Site:** We may also collect other information that a visitor enters on the Site--such as a contact form submission, a search query, or Site registration.
 
@@ -34,7 +34,7 @@ We also automatically collect some information about visitors to a Site. The inf
 *   **Visitor Interactions:** We collect information about a visitor’s interactions with a Site, including the “[likes](https://en.support.wordpress.com/likes/)” and “[ratings](https://en.support.wordpress.com/ratings/)” left by visitors to a Site using WordPress.com or Jetpack.
 *   **Location Information:** We may determine the approximate location of a visitor’s device from the IP address. We collect and use this information to, for example, tally for our Users how many people visit their Sites from certain geographic regions. If you’d like, you can read more about our [Site Stats](https://en.support.wordpress.com/stats/) feature for WordPress.com sites and Jetpack sites.
 *   **Akismet Commenter Information:** We collect information about visitors who comment on Sites that use our Akismet anti-spam service. The information we collect depends on how the User sets up Akismet for the Site, but typically includes the commenter’s IP address, user agent, referrer, and Site URL (along with other information directly provided by the commenter such as their name, username, email address...oh, and the comment itself, of course).
-*   **Polldaddy Response Information:** We collect information about visitors who respond to a Polldaddy survey. The information that we collect typically includes IP address, browser type, operating system, user agent, and the web page last visited.
+*   **Crowdsignal Response Information:** We collect information about visitors who respond to a Crowdsignal survey. The information that we collect typically includes IP address, browser type, operating system, user agent, and the web page last visited.
 *   **Intense Debate Commenter Information:** We collect information about visitors who comment on Sites that use our Intense Debate service. The information that we collect depends on how the User sets up Intense Debate for the Site, but typically includes the IP address and account information on the Site, along with the comment.
 *   **Information from Cookies and Other Technologies:** A cookie is a string of information that a Site stores on a visitor’s computer, and that the visitor’s browser provides to the Site each time the visitor returns. Pixel tags (also called web beacons) are small blocks of code placed on Sites. Automattic uses cookies and other technologies like pixel tags to help identify and track visitors and Site usage, and to deliver targeted ads when ads are enabled for free WordPress.com sites or when ads are enabled on a Site through WordAds or Jetpack Ads (see the “Other Tools” section below for more details). For more information about our use of cookies and other technologies for tracking, including how visitors can control the use of cookies, please see our [Cookie Policy](https://automattic.com/cookies/).
 
