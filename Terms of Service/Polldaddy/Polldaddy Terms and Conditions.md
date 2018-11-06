@@ -121,10 +121,8 @@ For further information or support regarding this web site, you are encouraged t
    *   **13.2.** Individual voter data that is older than 3 months will be automatically deleted from our database.
         
    *   **13.3.** We reserve the right to delete any free account that has not been logged into for 6 month or longer.
-        
-   *   **13.4.** All polls created in the "Crowdsignal Free" accounts will be submitted to our directory found at "[http://Crowdsignal.com/community/](http://Crowdsignal.com/community/)". Only "Pro" accounts have the option to set their polls as private.
-        
-   *   **13.5.** All acounts allow unlimited creation of content, but all accounts are limited by the bandwidth they generate. If you intend to use our content on sites that have over 8 million unique visitors per month you must [contact us](/feedback/) about using one of our Enterprise accounts.
+                
+   *   **13.4.** All acounts allow unlimited creation of content, but all accounts are limited by the bandwidth they generate. If you intend to use our content on sites that have over 8 million unique visitors per month you must [contact us](/feedback/) about using one of our Enterprise accounts.
         
 ### 14. Miscellaneous
     
