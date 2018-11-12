@@ -2,7 +2,7 @@ If you have activated ads via Jetpack (“Jetpack Ads”) or have joined our Wor
 
 If you find content that violates these Terms of Service, please [report it to us](https://en.support.wordpress.com/about-these-ads/). 
 
-**Important notice: These Terms of Service are subject to binding arbitration and a waiver of class action rights as detailed in Sections 16 and 17.** 
+**Important notice: These Terms of Service are subject to binding arbitration and a waiver of class action rights as detailed in Sections 15 and 16.** 
 
 **1. Binding Agreement.** This is an agreement (“Terms,” “Agreement”) between you and Automattic (“we,” “us,” “our,” “Automattic”). If you live in the United States or Brazil, your Agreement is with Automattic Inc. (U.S.) and if you live outside of the United States or Brazil, your Agreement is with Aut O’Mattic Ltd. (Ireland). We may automatically update Jetpack Ads or WordAds (collectively, “Automattic Ads”), and these Terms will apply to such updates. By participating in Automattic Ads, you agree to be bound by these Terms. If you participate in Automattic Ads on behalf of an organization, you agree to these terms on behalf of that organization. If you do not agree to these Terms, you may not use Automattic Ads. 
 
