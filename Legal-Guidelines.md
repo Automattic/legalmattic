@@ -5,7 +5,13 @@
 
 ### Requesting Private Information of WordPress.com Users
 
-Our users place their trust in us to keep them safe, and, in some cases, anonymous. We view safeguarding that trust and protecting our users’ private information as vital to what we do. Automattic receives requests for information about WordPress.com users, sites, and accounts from government agencies, law enforcement, private parties, and individuals or corporations involved in civil lawsuits. Before revealing any non-public information about a site, an account, or a user, we require a valid subpoena, search warrant, or court order. The only exception is when we have a good faith belief that there is an emergency involving imminent danger of death or serious physical injury. We require any subpoena, search warrant, or court order to be issued by a US authority in compliance with the United States Federal Rules of Criminal Procedure, the Federal Rules of Civil Procedure, and/or California state law. Throughout these Legal Guidelines, wherever we talk about a subpoena, search warrant, or court order, this is what we are referring to. More information about our procedures is below.
+Our users place their trust in us to keep them safe, and, in some cases, anonymous. We view safeguarding that trust and protecting our users’ private information as vital to what we do. Automattic receives requests for information about WordPress.com users, sites, and accounts from government agencies, law enforcement, private parties, and individuals or corporations involved in civil lawsuits. Before revealing any non-public information about a site, an account, or a user, we require a valid subpoena, search warrant, or court order. The only exception is when we have a good faith belief that there is an emergency involving imminent danger of death or serious physical injury.
+
+More information about our procedures is below.
+
+### United States Legal Process
+
+We require any subpoena, search warrant, court order, or judgment to be issued by a US authority in compliance with the United States Federal Rules of Criminal Procedure, the Federal Rules of Civil Procedure, and/or California state law. We respond to court judgments from the United States only, or foreign judgments specifically adopted by a United States or California court. Throughout these Legal Guidelines, wherever we talk about a subpoena, search warrant, court order, or judgment, this is what we are referring to. Law enforcement agencies from outside the US may obtain these types of orders through the Mutual Legal Assistance Treaty (MLAT) process outlined in 28 U.S.C. § 1782 and 18 U.S.C. § 3512. See more about our process for non-US law enforcement requests below.
 
 ### WordPress.com vs. WordPress.org
 
