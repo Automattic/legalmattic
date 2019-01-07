@@ -7,6 +7,8 @@
 
 Our users place their trust in us to keep them safe, and, in some cases, anonymous. We view safeguarding that trust and protecting our users’ private information as vital to what we do. Automattic receives requests for information about WordPress.com users, sites, and accounts from government agencies, law enforcement, private parties, and individuals or corporations involved in civil lawsuits. Before revealing any non-public information about a site, an account, or a user, we require a valid subpoena, search warrant, or court order. The only exception is when we have a good faith belief that there is an emergency involving imminent danger of death or serious physical injury.
 
+If your inquiry or request brings to our attention a violation of our policies or [Terms of Service](https://en.wordpress.com/tos/), we will address it per our usual procedure. This may or may not include contacting the user, removing content, or suspending the site entirely.
+
 More information about our procedures is below.
 
 ### United States Legal Process
@@ -95,7 +97,7 @@ WordPress.com strongly believes in freedom of speech. We have a vast audience sp
 
 ### Reporting Terms of Service Violations
 
-If you believe that a site is violating our Terms of Service, please refer to the information [on this page](https://en.support.wordpress.com/report-blogs/) to submit a report, and we will take action as appropriate. Regardless of whether or not we take action, we may forward a copy of the complaint to the site owner. We do not remove content based on disputes over the content on a site or in a comment, unless the information sought to be removed is subject to an order issued by a court in the United States. We are not in a position to determine if something posted on a WordPress.com site is defamatory or not. If we receive such a complaint, we defer to the judgment of a court in the United States. If your inquiry or request brings to our attention a violation of our policies or [Terms of Service](https://en.wordpress.com/tos/), we will address it per our usual procedure. This may or may not include contacting the user, removing content, or suspending the site entirely.
+If you believe that a site is violating our Terms of Service, please refer to the information [on this page](https://en.support.wordpress.com/report-blogs/) to submit a report, and we will take action as appropriate. Regardless of whether or not we take action, we may forward a copy of the complaint to the site owner. We do not remove content based on disputes over the content on a site or in a comment, unless the information sought to be removed is subject to an order issued by a court in the United States. We are not in a position to determine if something posted on a WordPress.com site is defamatory or not. If we receive such a complaint, we defer to the judgment of a court in the United States. 
 
 ### Who Is Liable for Content Hosted on WordPress.com?
 
