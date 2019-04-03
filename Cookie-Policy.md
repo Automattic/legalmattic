@@ -97,13 +97,27 @@ Our mission is to democratize publishing. So that we can offer free access to cr
 
 |Partner|Cookie Info|
 |--- |--- |
+|33across|https://33across.com/privacy-policy/ and https://optout.33across.com|
+|AdMixer|https://admixer.net/privacy|
+|ADYOULIKE|https://www.adyoulike.com/privacy_policy.php|
 |Amazon|https://www.amazon.co.uk/gp/help/customer/display.html/ref=footer_iba?ie=UTF8&nodeId=201909150|
 |AppNexus|https://www.appnexus.com/en/company/cookie-policy|
 |BidSwitch|http://www.bidswitch.com/cookie-statement/|
-|Google (AdSense, DoubleClick Ad Exchange "AdX")|https://policies.google.com/technologies/ads|
+|Criteo|https://www.criteo.com/privacy/|
+|Facebook|https://www.facebook.com/policies/cookies/|
+|FreeWheel|http://freewheel.tv/privacy-policy/|
+|Google (AdSense, DoubleClick Ad Exchange “AdX”)|https://policies.google.com/technologies/ads|
+|Lotame|https://www.lotame.com/about-lotame/privacy/|
+|Media.net|https://www.media.net/privacy-policy|
 |OATH|https://policies.oath.com/us/en/oath/privacy/topics/cookies/index.html|
+|OpenX|https://www.openx.com/legal/privacy-policy/|
+|Polymorph|https://getpolymorph.com/privacy-policy/|
+|PowerInBox|https://powerinbox.com/privacy-policy/|
 |Pubmatic|https://pubmatic.com/legal/website-cookie-policy/|
-|Skimlinks|https://skimlinks.com/user-cookies|
+|Rubicon|https://rubiconproject.com/privacy/consumer-online-profile-and-opt-out/|
+|Skimlinks|https://skimlinks.com/user-cookies and https://skimlinks.com/privacy-policy|
+|Sonobi|https://sonobi.com/privacy-policy/|
+|Teads|https://www.teads.tv/privacy-policy/|
 
 ### Visitors to Sites with Jetpack installed
 
