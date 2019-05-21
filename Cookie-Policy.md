@@ -66,6 +66,7 @@ Please also see the section below on third party advertisements that you may see
 
 |Cookie|Purpose|
 |--- |--- |
+|__stripe_sid / __stripe_mid|For processing payment and to aid in fraud detection.|
 |_longreads_prod_new|Authentication for Longreads.com Member accounts. Only active when logged in, on *.longreads.com domains.|
 |akm_mobile|Stores whether a user has chosen to view the mobile version of a website.|
 |botdlang|Used to track the language a user has selected to view popular blogs in.|
