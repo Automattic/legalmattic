@@ -1,26 +1,15 @@
-Hi there,
+We have received the [DMCA takedown notice](http://en.support.wordpress.com/copyright-and-the-dmca) below regarding material published on your WordPress.com site, which means the complainant is asserting ownership of this material and claiming that your use of it is not permitted by them or the law. We have disabled public access to the material by suspending your site due to the large percentage of content at issue.
 
-We’ve received the DMCA takedown notice (http://en.support.wordpress.com/copyright-and-the-dmca) below regarding material published on your WordPress.com site, which means the complainant is asserting ownership of this material and claiming that your use of it is not permitted by him/her or the law. As required by the DMCA, we have disabled public access to the material.
+If you would like to resume blogging on WordPress.com, please confirm that you understand this notice and that you agree to remove all of the content at issue.
 
-Repeated incidents of copyright infringement will also lead to the permanent suspension of your WordPress.com site. We certainly don’t want that to happen, so please delete any other material you may have uploaded for which you don’t have the necessary rights and refrain from uploading additional material that you do not have permission to upload. Although we can’t provide legal advice, the following link provides resources that might help you make this determination:
-
-https://en.support.wordpress.com/counter-notice/#what-is-fair-use
-
-If you’d like, follow the instructions in the applicable point below to remove the DMCA advisory message from your site. If the content in question is:
-
-* An entire page/post, delete it completely.
-* Part of a page/post, (1) remove the content in question, then (2) reply to this e-mail to request the removal of the DMCA notice that was placed on your site.
-* A media file, such as an image or PDF, (1) remove the media file from the page/post where it appeared, and (2) delete the media file from your Media Library.
-
-Alternatively, if you believe that this DMCA takedown notice was received in error, or if you believe your usage of this material would be considered fair use, it’s important that you submit a formal DMCA counter notice to ensure that your WordPress.com site remains operational. If you submit a valid counter notice, we will return the material to your site in 10 business days if the complainant does not reply with legal action.
+Alternatively, if you believe that this DMCA takedown notice was received in error, or if you believe your usage of this material would be considered fair use, it’s important that you submit a formal DMCA counter notice so that we can restore access to your site. If you submit a valid counter notice, we will return the material to your site in 10 business days if the complainant does not reply with legal action.
 
 Please refer to the following pages for more information:
 
-http://en.support.wordpress.com/counter-notice/
+[Countering a DMCA Notice](http://en.support.wordpress.com/counter-notice/)
+[Digital Millenium Copyright Act – Counter Notice](http://automattic.com/dmca/dmca-counter-notice/)
 
-http://automattic.com/dmca/dmca-counter-notice/
-
-Please note that republishing the material yourself, without permission from the copyright holder (even after you have submitted a counter notice) will result in the permanent suspension of your WordPress.com site and/or account.
+Please note that republishing the material yourself on another blog, without permission from the copyright holder (even after you have submitted a counter notice) will result in the permanent suspension of your other WordPress.com site and/or account.
 
 Thank you.
 
