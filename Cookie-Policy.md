@@ -12,7 +12,7 @@ We use cookies for a number of different purposes. Some cookies are necessary fo
 
 We set cookies in a number of different locations across our services. These include:
 
-*   On our websites (including automattic.com, wordpress.com, vip.wordpress.com, jetpack.com, gravatar.com, intensedebate.com, vaultpress.com, and akismet.com).
+*   On our websites (including automattic.com, wordpress.com, vip.wordpress.com, jetpack.com, woocommerce.com, crowdsignal.com, gravatar.com, intensedebate.com, vaultpress.com, akismet.com, simplenote.com, simperium.com, leandomainsearch.com, cloudup.com, longreads.com, and happy.tools).
 *   In the administrative dashboards of our websites, such as Calypso and wp-admin.
 *   On sites we host for our users.
 *   On sites that use our plugins (e.g. Jetpack).
@@ -56,6 +56,13 @@ Please also see the section below on third party advertisements that you may see
 |Cookie|Purpose|
 |--- |--- |
 |__pdvt|Used in log of Polldaddy survey data to aid in debugging customer problems|
+|_hjIncludedInSample
+mp_6d7c50ad560e01715a871a117a2fbd90_mixpanel
+optimizelyBuckets
+optimizelyEndUserId
+__hstc
+hubspotutk
+optimizelySegments|Gathers information that helps us understand how visitors interact with our websites, which allows us to create a better visitor experience.|
 |ab|Used for "AB testing" of new features.|
 |nux_flow_name|Identifies which user signup flow was shown to the user.|
 |tk_ni / tk_ai / tk_qs|Gathers information for our own, first party analytics tool about how our services are used. A collection of internal metrics for user activity, used to improve user experience.|
@@ -155,7 +162,11 @@ Please note that this section is not intended to be exhaustive, but rather aims 
 
 ### Controlling Cookies
 
-Visitors may wish to restrict the use of cookies or completely prevent them from being set. Most browsers provide for ways to control cookie behavior such as the length of time they are stored – either through built-in functionality or by utilizing third party plugins. If you disable cookies, please be aware that some of the features of our service may not function correctly. To find out more on how to manage and delete cookies, visit aboutcookies.org. For more details on your choices regarding use of your web browsing activity for interest-based advertising visit [youronlinechoices.eu](http://youronlinechoices.eu) (EU based) or [optout.aboutads.info](http://optout.aboutads.info) (US based). On a mobile device, you may also be to adjust your settings to limit ad tracking.   You can opt out of Google Analytics by installing [Google’s opt-out browser add-on](https://tools.google.com/dlpage/gaoptout).
+Visitors may wish to restrict the use of cookies or completely prevent them from being set. Most browsers provide for ways to control cookie behavior such as the length of time they are stored – either through built-in functionality or by utilizing third party plugins. If you disable cookies, please be aware that some of the features of our service may not function correctly. To find out more on how to manage and delete cookies, visit aboutcookies.org. For more details on your choices regarding use of your web browsing activity for interest-based advertising visit [youronlinechoices.eu](http://youronlinechoices.eu) (EU based) or [optout.aboutads.info](http://optout.aboutads.info) (US based). 
+
+On a mobile device, you may also be to adjust your settings to limit tracking.
+
+For example, you can opt out of Google Analytics by installing [Google’s opt-out browser add-on](https://tools.google.com/dlpage/gaoptout), or from Hotjar by using the [Do Not Track header](https://www.hotjar.com/legal/compliance/opt-out).
 
 ### Our Internal Analytics Tool
 
@@ -163,7 +174,7 @@ In order to better understand how our services are used, we monitor certain user
 
 ### Consent for Advertising Cookies on Our Sites
 
-You may see a “cookie banner” on our websites and dashboards. If you are visiting one of our users' sites from the EU, then we do not set, or allow our ad partners to set, cookies that are used to show you targeted ads before you click to accept. When you consent in this manner, we and our advertising partners may set advertising cookies on the site you are visiting and on other of our websites, dashboards, and services. We’ll display the banner to you periodically, just in case you change your mind.
+You may see a “cookie banner” on our websites and dashboards. If you are visiting one of our sites from the EU, then we do not set, or allow our ad partners to set, cookies that are used to show you targeted ads before you click to accept. When you consent in this manner, we and our advertising partners may set advertising cookies on the site you are visiting and on our other websites, dashboards, and services, which we use to show you advertisements about our various Automattic products. We’ll display the banner to you periodically, just in case you change your mind.
 
 ### **Consent and Choices for Advertisements on Our Users’ Sites Through Our Ads Program**
 
