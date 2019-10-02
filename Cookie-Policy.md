@@ -113,7 +113,6 @@ Our mission is to democratize publishing. So that we can offer free access to cr
 |BidSwitch|http://www.bidswitch.com/cookie-statement/|
 |Criteo|https://www.criteo.com/privacy/|
 |Facebook|https://www.facebook.com/policies/cookies/|
-|FreeWheel|http://freewheel.tv/privacy-policy/|
 |Google (AdSense, DoubleClick Ad Exchange “AdX”)|https://policies.google.com/technologies/ads|
 |Lotame|https://www.lotame.com/about-lotame/privacy/|
 |Media.net|https://www.media.net/privacy-policy|
