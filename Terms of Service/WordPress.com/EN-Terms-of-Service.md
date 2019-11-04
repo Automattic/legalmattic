@@ -14,7 +14,9 @@ Throughout these Terms, “you” applies to both individuals and entities that 
 
 ## 2\. Your Account
 
-Where use of our Services requires an account, you agree to provide us with complete and accurate information when you register for an account. You will be solely responsible and liable for any activity that occurs under your username. You are responsible for keeping your account information up-to-date and for keeping your password secure. 
+Where use of our Services requires an account, you agree to provide us with complete and accurate information when you register for an account. This is important because sometimes we may need to send you notable updates (for example, about changes to our Terms of Service or Privacy Policy), or we may want to let you know about and make informed choices in response to legal inquiries or complaints.
+
+You will be solely responsible and liable for any activity that occurs under your account. You are responsible for keeping your account information up-to-date and for keeping your password secure. 
 
 You are responsible for maintaining the security of your account and any Service-related website, store, or other content, and you are fully responsible for all activities that occur under your account and any other actions taken in connection with our Services. You shall not share or misuse your access credentials. You must immediately notify us of any unauthorized uses of your account, store, or website, or of any other breach of security. We will not be liable for any acts or omissions by you, including any damages of any kind incurred as a result of such acts or omissions.
 
@@ -57,6 +59,8 @@ We also have not reviewed, and cannot review, all of the material, including com
 **Cancelling Automatic Renewal.** You can manage and cancel your Paid Services at the respective Service’s site. For example, you can manage all of your WordPress.com plans through your WordPress.com [Manage Purchases page](https://wordpress.com/me/purchases). To cancel a WordPress.com plan, go to your [Manage Purchases page](https://wordpress.com/me/purchases), click on the plan you wish to cancel, then follow the instructions to “cancel the subscription.” You must repeat this process for each subscription you wish to cancel.
 
 **Fee Changes.** We may change our fees at any time, or start charging fees for Services that were previously free. When applicable, we may give you advance notice of the fee changes. If you don’t agree with the fee changes, you must cancel your Paid Service.
+
+**No-Show Policy.** We may have a “no-show policy” for some Paid Services (for example, for our [Quick Start sessions](https://en.support.wordpress.com/concierge-support/#purchasing-a-session)), which means that if you fail to show up or are late for a scheduled session, we may withhold the Service without a refund.
 
 **Refunds.** While you may cancel a Paid Service at any time, refunds are issued in our sole discretion, unless otherwise required by applicable law.
 
@@ -122,7 +126,9 @@ Jetpack is a plugin that connects your self-hosted WordPress website to WordPres
 
 **Features.** Jetpack includes various features, and you can visit Jetpack.com to learn more about them. Some features, like Enhanced Distribution, when activated, will include your Jetpack Content in [Firehose](https://developer.wordpress.com/docs/firehose/). By activating these features, you grant us permission to display your Jetpack Content on WordPress.com for the purpose of distributing and promoting your website. Some features are on by default and others you need to enable manually. You can see which features are active, and activate and deactivate features, on your dashboard. 
 
-**License.** You agree that we may scan your website, and compile aggregated/anonymized statistics for our internal use to optimize Jetpack’s performance. By submitting Content to Automattic for inclusion on your website, you grant Automattic a world-wide, royalty-free, and non-exclusive license to reproduce, modify, adapt, and publish the Content solely for the purpose of displaying, distributing, and promoting your website. This license also allows Automattic to make any publicly-posted Content available to third parties selected by Automattic (through [Firehose](https://developer.wordpress.com/docs/firehose/), for example) so that these third parties can analyze and distribute (but not publicly display) the Content through their services. 
+**License.**  By using Jetpack, you grant us access to your website’s servers for the purpose of backing up and securing your Jetpack Content, and restoring files and database information (which may include access details for multiple servers or accounts for each website that we backup). Jetpack may temporarily install extra software on your website to backup your website and scan it for security vulnerabilities. In order to address security vulnerabilities, we may push an upgrade to your website or access your website to remove malicious code.
+
+You agree that we may scan your website, and compile aggregated/anonymized statistics for our internal use to optimize Jetpack’s performance. By submitting Content to Automattic for inclusion on your website, you grant Automattic a world-wide, royalty-free, and non-exclusive license to reproduce, modify, adapt, and publish the Content solely for the purpose of displaying, distributing, and promoting your website. This license also allows Automattic to make any publicly-posted Content available to third parties selected by Automattic (through [Firehose](https://developer.wordpress.com/docs/firehose/), for example) so that these third parties can analyze and distribute (but not publicly display) the Content through their services. 
 
 **Storage of Information.** Certain Jetpack features rely on WordPress.com servers to function, such as those that allow you to send email, publish links, relate posts to each other, or resize images. To take advantage of the performance boosting features of Jetpack, certain information about the Content, settings, and setup of your website are synced with our servers, as described on our [What Data Does Jetpack Sync? support page](https://jetpack.com/support/what-data-does-jetpack-sync/). 
 
@@ -250,10 +256,14 @@ You agree to indemnify and hold harmless Automattic, its contractors, and its li
 
 You expressly represent and warrant that your use of our Services and/or associated services and products is not contrary to applicable U.S. Sanctions. Such use is prohibited, and we reserve the right to terminate accounts or access of those in the event of a breach of this condition.
 
-## 20\. Translation
+## 20\. Data Processing Agreement
+
+If you need a Data Processing Agreement with us for the GDPR requirements that apply to us as a data processor for your website, please follow [these instructions](https://en.support.wordpress.com/automattic-gdpr/data-processing-agreements/).
+
+## 21\. Translation
 
 These Terms were originally written in English (US). We may translate these terms into other languages. In the event of a conflict between a translated version of these Terms and the English version, the English version will control.
 
-## 21\. Miscellaneous
+## 22\. Miscellaneous
 
 The Agreement constitutes the entire agreement between Automattic and you concerning the subject matter hereof. If any part of the Agreement is held invalid or unenforceable, that part will be construed to reflect the parties’ original intent, and the remaining portions will remain in full force and effect. A waiver by either party of any term or condition of the Agreement or any breach thereof, in any one instance, will not waive such term or condition or any subsequent breach thereof. You may assign your rights under the Agreement to any party that consents to, and agrees to be bound by, its terms and conditions; Automattic may assign its rights under the Agreement without condition. The Agreement will be binding upon and will inure to the benefit of the parties, their successors and permitted assigns. 
