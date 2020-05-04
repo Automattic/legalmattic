@@ -114,7 +114,6 @@ Our mission is to democratize publishing. So that we can offer free access to cr
 |Criteo|https://www.criteo.com/privacy/|
 |Google (AdSense, DoubleClick Ad Exchange “AdX”)|https://policies.google.com/technologies/ads|
 |LKQD|https://www.lotame.com/about-lotame/privacy/|
-|Lotame|https://www.nexstardigital.com/privacy|
 |Media.net|https://www.media.net/privacy-policy|
 |OATH|https://policies.oath.com/us/en/oath/privacy/topics/cookies/index.html|
 |OpenX|https://www.openx.com/legal/privacy-policy/|
