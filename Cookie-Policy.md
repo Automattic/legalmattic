@@ -124,6 +124,7 @@ Our mission is to democratize publishing. So that we can offer free access to cr
 |Skimlinks|https://skimlinks.com/user-cookies and https://skimlinks.com/privacy-policy|
 |Sonobi|https://sonobi.com/privacy-policy/|
 |Teads|https://www.teads.tv/privacy-policy/|
+|TripleLift|https://triplelift.com/privacy/|
 
 ### Visitors to Sites with Jetpack installed
 
