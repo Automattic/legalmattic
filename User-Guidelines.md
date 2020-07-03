@@ -23,6 +23,10 @@ WordPress.com is a publishing, rather than a file sharing platform, so we recogn
 
 We know that there may be different definitions of this, but generally, we define pornography as visual depictions of sexually explicit acts. Nudity, in and of itself, is [fine](http://en.support.wordpress.com/mature-content/).
 
+**Gambling.**
+
+Discussing gambling on your site isn't a problem. However, operating an online gambling service (including poker)? No dice. Please also be aware that if your site is primarily designed to link to other gambling sites, we consider this spam, and a breach of the user guidelines.
+
 **Technologically harmful content.**
 
 Please don’t upload or link to malware, spyware, adware, or other malicious or destructive code.
