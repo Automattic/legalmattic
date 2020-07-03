@@ -35,9 +35,9 @@ Please don’t upload or link to malware, spyware, adware, or other malicious o
 
 Don’t claim to be a person or organization you’re not. (Parody and satire are ok though!)
 
-**Directly threatening material.**
+**Calls to violence.**
 
-Do not post direct and realistic threats of violence. That is, you cannot post a genuine call for violence—or death—against an individual person, or groups of persons. This doesn't mean that we'll remove all hyperbole or offensive language.
+Do not publish realistic calls to violence. By that we mean that you cannot post content which threatens, incites, or promotes violence, physical harm, or death. This includes threats targeting individuals or groups, as well as other indiscriminate acts of violence. This restriction does not mean that we will remove hyperbolic or generally offensive language.
 
 **Posting private information.**
 
