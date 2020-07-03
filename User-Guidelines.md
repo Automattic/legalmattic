@@ -17,7 +17,7 @@ Self-explanatory.
 
 **Intellectual property infringement.**
 
-WordPress.com is a publishing, rather than a file sharing platform, so we recognize that copyrighted materials are often used in [fair use](http://en.support.wordpress.com/fair-use/) context. We strongly support this and urge copyright holders to take this into consideration before submitting complaints. If you're not sure, a good rule of thumb is to always ask the rights holder for permission before republishing their content.
+WordPress.com is a publishing, rather than a file sharing platform, so we recognize that copyrighted materials are often used in [fair use](http://en.support.wordpress.com/fair-use/) context. We strongly support this and urge copyright holders to take this into consideration before submitting complaints. If you're not sure, the golden rule is to always ask the rights holder for permission before republishing their content.
 
 **Pornography.**
 
