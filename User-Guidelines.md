@@ -41,11 +41,11 @@ Do not publish realistic calls to violence. By that we mean that you cannot post
 
 **Posting private information.**
 
-Don’t share someone’s personal information without their consent. This includes collecting sensitive information in [Contact Forms](https://en.support.wordpress.com/contact-form/) such as account passwords and credit card numbers, to name a couple.
+Don’t share someone’s personal information without their consent. This includes collecting sensitive information in [Contact Forms](https://en.support.wordpress.com/wordpress-editor/blocks/form-block) such as account passwords and credit card numbers, to name a couple.
 
 **Advertising.**
 
-[Advertising](http://en.support.wordpress.com/advertising/) isn’t permitted unless you use [WordAds](http://www.wordads.co) or have a [WordPress.com Business plan, eCommerce plan](http://wordpress.com/plans/), <a href="http://vip.wordpress.com/our-services/">VIP</a>, or <a href="http://wordpress.com/enterprise/">Enterprise</a> site.
+[Advertising](http://en.support.wordpress.com/advertising/) isn’t permitted unless you use [WordAds](http://www.wordads.co) or have a [WordPress.com Business plan, eCommerce plan](https://wordpress.com/plans/), <a href="http://vip.wordpress.com/our-services/">VIP</a>, or <a href="https://wpvip.com/">Enterprise</a> site.
 
 **Hotlinking to WordPress.com.**
 
@@ -57,6 +57,6 @@ You know what this is, but in general, sites such as those primarily dedicated t
 
 Bear in mind that these are just guidelines -- **interpretations are solely up to us**. These guidelines are not exhaustive and are subject to change.
 
-If you believe a WordPress.com site has violated our [Terms of Service](http://en.wordpress.com/tos) or any of these policies, please [report the site](http://en.support.wordpress.com/report-blogs/). We aim to promptly review and investigate all complaints that we receive, but if and how we respond will depend on a variety of factors, such as the information available to us and the type of violation. We may also contact the site owner to inform him/her of the complaint.
+If you believe a WordPress.com site has violated our [Terms of Service](https://en.wordpress.com/tos) or any of these policies, please [report the site](https://en.support.wordpress.com/report-blogs/). We aim to promptly review and investigate all complaints that we receive, but if and how we respond will depend on a variety of factors, such as the information available to us and the type of violation. We may also contact the site owner to inform him/her of the complaint.
 
 If we're not in a position to make a determination (for example, whether something is [defamatory](http://en.support.wordpress.com/defamation/) or not), we defer to the judgment of a court.
