@@ -45,7 +45,7 @@ Don’t share someone’s personal information without their consent. This inclu
 
 **Advertising.**
 
-[Advertising](http://en.support.wordpress.com/advertising/) isn’t permitted unless you use [WordAds](http://www.wordads.co) or have a [WordPress.com VIP](http://vip.wordpress.com/our-services/) or [Enterprise](http://wordpress.com/enterprise/) site.
+[Advertising](http://en.support.wordpress.com/advertising/) isn’t permitted unless you use [WordAds](http://www.wordads.co) or have a [WordPress.com Business plan, eCommerce plan](http://wordpress.com/plans/), <a href="http://vip.wordpress.com/our-services/">VIP</a>, or <a href="http://wordpress.com/enterprise/">Enterprise</a> site.
 
 **Hotlinking to WordPress.com.**
 
