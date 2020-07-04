@@ -41,7 +41,7 @@ Do not publish realistic calls to violence. By that we mean that you cannot post
 
 **Posting private information.**
 
-Don’t share someone’s [personal information](http://en.support.wordpress.com/private-information/) without their consent.
+Don’t share someone’s personal information without their consent. This includes collecting sensitive information in [Contact Forms](https://en.support.wordpress.com/contact-form/) such as account passwords and credit card numbers, to name a couple.
 
 **Advertising.**
 
