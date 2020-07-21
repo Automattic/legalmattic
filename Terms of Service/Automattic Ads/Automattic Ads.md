@@ -4,7 +4,13 @@ If you find content that violates these Terms of Service, please [report it to u
 
 **Important notice: These Terms of Service are subject to binding arbitration and a waiver of class action rights as detailed in Sections 15 and 16.** 
 
-**1. Binding Agreement.** This is an agreement (“Terms,” “Agreement”) between you and Automattic (“we,” “us,” “our,” “Automattic”). If you live in the United States or Brazil, your Agreement is with Automattic Inc. (U.S.) and if you live outside of the United States or Brazil, your Agreement is with Aut O’Mattic Ltd. (Ireland). We may automatically update Jetpack Ads or WordAds (collectively, “Automattic Ads”), and these Terms will apply to such updates. By participating in Automattic Ads, you agree to be bound by these Terms. If you participate in Automattic Ads on behalf of an organization, you agree to these terms on behalf of that organization. If you do not agree to these Terms, you may not use Automattic Ads. 
+**1. Binding Agreement.** This is an agreement (“Terms,” “Agreement”) between you and Automattic (“we,” “us,” “our,” “Automattic”). We may automatically update Jetpack Ads or WordAds (collectively, “Automattic Ads”), and these Terms will apply to such updates. By participating in Automattic Ads, you agree to be bound by these Terms. If you do not agree to these Terms, you may not use Automattic Ads.
+
+Throughout these Terms, “you” applies to both individuals and entities that access or use Automattic Ads. If you are an individual using Automattic Ads on behalf of an entity, you represent and warrant that you have the authority to bind that entity to the Agreement and that by using Automattic Ads, you are accepting the Agreement on behalf of that entity.
+
+We use the term “Designated Countries” to refer to Australia, Canada, Japan, Mexico, New Zealand, Russia, and all countries located in the European continent. If you reside in the “Designated Countries,” your Agreement is with Aut O’Mattic A8C Ireland Ltd. If you reside outside of the “Designated Countries,” your Agreement is with Automattic Inc.
+
+We refer to Aut O’Mattic A8C Ireland Ltd. and Automattic Inc. collectively as “Automattic” or “we” throughout these Terms.
 
 **2. Age Restrictions.** You must be at least 18 to participate in Automattic Ads. By participating in Automattic Ads, you represent and warrant that you are 18 years of age or older. 
 
@@ -16,7 +22,12 @@ If you find content that violates these Terms of Service, please [report it to u
 
 *   Anything that is unlawful or promotes unlawful activity. 
 *   Spam. 
-*   Pornography or adult content.
+*   Pornography or adult content,  including text, images and videos that contain nudity, offensive language, and mature subject material. This includes but is not limited to:
+      *   Visual depictions of sexually explicit acts (such as, but not limited to, images, videos, and drawings) that can be considered pornographic;
+      *   Links or ads to adult-oriented affiliate networks, such as pornography site signups;
+      *   Links, text, or images promoting or advertising escort or erotic services;
+      *   Images of extreme violence or gore; 
+      *   Images of child pornography or content that promotes pedophilia, or the intent of the blog is sexually suggestive.
 *   Graphic or gratuitous violence.
 *   Hate speech or incitements to violence.
 *   Harassment or the encouragement of the harassment of others.
@@ -24,6 +35,10 @@ If you find content that violates these Terms of Service, please [report it to u
 *   Malicious code/malware/spyware or other technologically harmful code.
 *   Intellectual property infringement.
 *   Impersonation with the intent to confuse, defraud, or defame any third party.
+*   Misrepresentative content. This includes but is not limited to:
+      *   Proliferating or creating verifiably false claims or content that could undermine participation or trust in an electoral or democratic process.
+      *   Deceiving users through artificial or manipulated media (images, audio, video) with the intent to influence political or social issues. 
+      *   Content that promotes products or services using false or deceptive claims.
 *   Any content that is inappropriate or not [family safe](https://wordads.co/2012/09/06/wordads-is-for-family-safe-sites/) as determined by us in our sole discretion. 
 
 **6. No Duty to Monitor.** We do not pre-screen your content or sites for Jetpack Ads, but we have the right (but no obligation) to monitor content and conduct on sites participating in Automattic Ads. 
