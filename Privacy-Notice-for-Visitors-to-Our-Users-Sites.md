@@ -1,11 +1,11 @@
-Hi there! This Privacy Notice explains how we, at Automattic, process information about the visitors of our users’ websites in connection with the services we provide through WordPress.com, Jetpack (including WooCommerce Services), IntenseDebate, Crowdsignal.com, and Akismet. Read on!
+Hi there! This Privacy Notice explains how we, at Automattic, process information about the visitors of our users’ websites in connection with the services we provide through WordPress.com, Jetpack (including WooCommerce Shipping & Tax), IntenseDebate, Crowdsignal.com, and Akismet. Read on!
 
 ### Who’s Who and What This Privacy Notice Covers
 
 Let’s talk first about who we are at Automattic, what we do, and what this Privacy Notice covers. We are the folks behind a variety of products and services designed to allow anyone–from bloggers, to small business owners, and enterprises–to create, publish, and manage their own websites:
 
 *   [WordPress.com](https://wordpress.com/) offers the design, features, and support to bring a website to life.
-*   With [Jetpack](https://jetpack.com/), website owners that host their websites elsewhere can connect those websites to features and tools available through WordPress.com and [WooCommerce Services](https://docs.woocommerce.com/document/woocommerce-services/).
+*   With [Jetpack](https://jetpack.com/), website owners that host their websites elsewhere can connect those websites to features and tools available through WordPress.com and [WooCommerce Shipping & Tax](https://docs.woocommerce.com/document/woocommerce-services/).
 *   [Crowdsignal](https://crowdsignal.com/) helps site owners create quizzes, surveys, and polls that fit their brand and vision.
 *   [Intense Debate](https://intensedebate.com/) gives site owners tools to manage comments on their websites.
 *   [Akismet](https://akismet.com/) helps keep spam under control by filtering out spam comments--hundreds of millions, every day!
@@ -23,7 +23,7 @@ We’ll start with information that visitors provide directly to a Site, which p
 *   **Follower and Subscriber Information:** When a visitor signs up to follow or subscribe to a Site using Jetpack or WordPress.com, we collect the sign-up information requested by the Site, which typically includes an email address.
 *   **Site Comments:** When a visitor leaves a comment on a Site, we collect that comment, and other information that the visitor provides along with the comment, such as the visitor’s name and email address.
 *   **Crowdsignal Survey Responses:** When a visitor completes a poll, quiz, or other type of survey prepared by a User via Crowdsignal.com, we collect the visitor’s responses to those surveys, and other information that the survey owner requires for a poll/quiz/survey response, like an e-mail address.
-*   **Order and Shipment Information:** If a visitor orders something (hooray!) from a Site using our store and ecommerce features available through WordPress.com or Jetpack (including WooCommerce Services), we may collect information to process that order, such as credit card and billing information, and an address for shipping the package along to the recipient and calculating applicable taxes. We may also use this information for other purposes on behalf of our Users--for example, to send marketing and other communications from our Users to their customers, and to provide our User with analytics information about their ecommerce site (e.g., the number of orders from particular geographic areas).
+*   **Order and Shipment Information:** If a visitor orders something (hooray!) from a Site using our store and ecommerce features available through WordPress.com or Jetpack (including WooCommerce Shipping & Tax), we may collect information to process that order, such as credit card and billing information, and an address for shipping the package along to the recipient and calculating applicable taxes. We may also use this information for other purposes on behalf of our Users--for example, to send marketing and other communications from our Users to their customers, and to provide our User with analytics information about their ecommerce site (e.g., the number of orders from particular geographic areas).
 *   **Other Information Entered on the Site:** We may also collect other information that a visitor enters on the Site--such as a contact form submission, a search query, or Site registration.
 
 #### _Information We Automatically Collect from the Site_
