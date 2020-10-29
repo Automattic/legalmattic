@@ -112,7 +112,9 @@ Our mission is to democratize publishing. So that we can offer free access to cr
 |AppNexus|https://www.appnexus.com/en/company/cookie-policy|
 |BidSwitch|http://www.bidswitch.com/cookie-statement/|
 |Criteo|https://www.criteo.com/privacy/|
+|EMX Digital|https://enginemediaexchange.com/privacy/|
 |Google (AdSense, DoubleClick Ad Exchange “AdX”)|https://policies.google.com/technologies/ads|
+|Index Exchange|https://www.indexexchange.com/privacy/|
 |LKQD|https://www.lotame.com/about-lotame/privacy/|
 |Media.net|https://www.media.net/privacy-policy|
 |OATH|https://policies.oath.com/us/en/oath/privacy/topics/cookies/index.html|
