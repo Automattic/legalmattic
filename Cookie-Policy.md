@@ -179,7 +179,17 @@ You may see a “cookie banner” on our websites and dashboards. If you are vis
 
 ### **Consent and Choices for Advertisements on Our Users’ Sites Through Our Ads Program**
 
-You may see a “cookie banner” on our users’ websites, particularly if you are in the European Union. If so, then our ad program does not set, or allow our ad partners to set, cookies that are used to show you targeted ads before you accept. When you consent in this manner, we and our advertising partners may set third party advertising cookies on our network in order to show you personalized ads. We’ll display the banner to you periodically, just in case you change your mind. \* Please note this consent feature will start on May 22, 2018. We set a cookie to help us understand how visitors engage with websites that participate in our ad program. Visitors may opt out of our use of this information by [visiting this link](https://s.pubmine.com/opt-out) (the opt-out will be processed immediately with no confirmation step). When you opt out, we replace the unique value for that cookie with an opt-out value. The opt-out works across all websites in our ads program. If you have opted out by accident, or wish to opt back in, you may do so by [visiting this link](https://s.pubmine.com/opt-in). Please note that this option is browser specific, and so if you use a different device or browser or clear your cookies, then you will need to repeat the process.
+You may see a “cookie banner” on our users’ websites, particularly if you are in the European Union. If so, then our ad program does not set, or allow our ad partners to set, cookies that are used to show you targeted ads before you accept.
+
+When you consent in this manner, we and our advertising partners may set third party advertising cookies in order to show you personalized ads on the website you are visiting and, if you are visiting a site in the WordPress.com network, on all websites within that network of sites. You’ll know that a site is in the WordPress.com network because it will have a WordPress.com subdomain (e.g., example.wordpress.com). For other sites that participate in our ads program, your consent is only for personalized ads on the specific site you are visiting.
+
+_For visitors to sites in the WordPress.com network:_
+
+You can manage your privacy choices for third party advertising cookies for sites in the WordPress.com network by clicking “Learn More” on the banner, which will bring up our consent management platform (CMP). You can also adjust your settings for sites in the WordPress.com network at any time by clicking on the “Privacy” link displayed beneath every ad.
+
+_Other Choices:_
+
+We also set a cookie to help us understand how visitors engage with websites that participate in our ad program. Visitors may opt out of our use of this information by visiting [visiting this link](https://s.pubmine.com/opt-out) (the opt-out will be processed immediately with no confirmation step). When you opt out, we replace the unique value for that cookie with an opt-out value. The opt-out works across all websites in our ads program. If you have opted out by accident  or wish to opt back in, you may do so by [visiting this link](https://s.pubmine.com/opt-in). Please note that this option is browser-specific, so if you use a different device or browser or clear your cookies, then you will need to repeat the process.
 
 ### Contact Us
 
