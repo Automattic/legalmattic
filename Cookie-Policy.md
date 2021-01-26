@@ -23,12 +23,9 @@ The table below explains the types of cookies we use on our websites and why we 
 
 |Category of cookies|Why we use these cookies|
 |---|---|
-|Strictly Necessary|These cookies are essential for websites on our services to perform their basic functions. These include those required to allow registered users to authenticate and perform account related functions, as well as to save the contents of virtual "carts" on sites that have an ecommerce functionality.|
-|Functionality|These cookies are used to store preferences set by users such as account name, language, and location.|
-|Security|We use these cookies to help identify and prevent potential security risks.|
-|Analytics and Performance|Performance cookies collect information on how users interact with our websites, including what pages are visited most, as well as other analytical data. We use these details to improve how our websites function and to understand how users interact with them.|
-|Advertising|These cookies are used to display relevant advertising to visitors who use our services or visit websites we host or provide, as well as to understand and report on the efficacy of ads served on our websites. They track details such as the number of unique visitors, the number of times particular ads have been displayed, and the number of clicks the ads have received. They are also used to build user profiles, including showing you ads based on products you’ve viewed or acts you have taken on our (and other) websites. These are set by Automattic and trusted third party networks, and are generally persistent in nature.|
-|Third Party / Embedded Content|Sites hosted on WordPress.com make use of different third party applications and services to enhance the experience of website visitors. These include social media platforms such as Facebook and Twitter (through the use of sharing buttons), or embedded content from Youtube and Vimeo. As a result, cookies may be set by these third parties, and used by them to track your online activity. We have no direct control over the information that is collected by these cookies.|
+|Required|These cookies are essential for our websites and services to perform basic functions and are necessary for us to operate certain features. These include those required to allow registered users to authenticate and perform account-related functions, store preferences set by users such as account name, language, and location, and ensure our services are operating properly.|
+|Analytics and Performance|These cookies allow us to optimize performance by collecting information on how users interact with our websites, including which pages are visited most, as well as other analytical data. We use these details to improve how our websites function and to understand how users interact with them.|
+|Advertising|These cookies are set by us and our advertising partners to provide you with relevant content and to understand that content’s effectiveness. They may be used to collect information about your online activities over time and across different websites to predict your preferences and to display more relevant advertisements to you. These cookies also allow a profile to be built about you and your interests and enable personalized ads to be shown to you based on your profile.|
 
 
 ### User Sites
@@ -37,19 +34,31 @@ In addition to the cookies set on our own sites, we utilize cookies for our [Sit
 
 ### Examples
 
-Below are examples of the cookies set by Automattic, with explanations of their purpose. Some of these cookies are set across our whole network, whereas some are specific to individual services (e.g. WordPress.com, Longreads, etc). Please note that this is not an exhaustive list, but rather aims to be representative. Information about cookies that may be set by third parties, such as our ads partners, is below. In addition, people and companies that use our services to publish or host their own sites may place additional cookies. We provide more information on these cookies below.
+Below are examples of the cookies set by Automattic, with explanations of their purpose. Some of these cookies are set across our whole network, whereas some are specific to individual services (e.g. WordPress.com, Longreads, etc). Please note that this is not an exhaustive list, but rather aims to be representative. Information about cookies that may be set by third parties, such as our ads partners, is below. Additionally, we occasionally set referrer cookies on Jetpack connected sites, using WooCommerce.
 
-#### **Advertising**
+In addition, people and companies that use our services to publish or host their own sites may place additional cookies. We provide more information on these cookies below.
+
+#### **Required**
 
 |Cookie|Purpose|
 |--- |--- |
-|ads|Tracks if a visitor has clicked an ad before.|
-|lr_nw|Counts and tracks pageviews on Longreads.com. Used to determine whether or not to show our Membership popup message.|
-|wordpress_eli|Reduces the display of ads for repeat visitors.|
-
-Reduces the display of ads for repeat visitors.
-
-Please also see the section below on third party advertisements that you may see on our sites or sites that use our services.
+|__ssid|For processing payment and to aid in fraud detection.|
+|__stripe_sid / __stripe_mid|For processing payment and to aid in fraud detection.|
+|_longreads_prod_new|Authentication for Longreads.com Member accounts. Only active when logged in, on *.longreads.com domains.|
+|akm_mobile|Stores whether a user has chosen to view the mobile version of a website.|
+|botdlang|Used to track the language a user has selected to view popular blogs in.|
+|country_code|Used in order to determine whether or not the cookie banner should be shown. Set immediately on page load and retained for 6 hours to remember the visitor's country.|
+|csrftoken|Python/Ajax security cookie used on accounts.longreads.com.|
+|forterToken|For processing payment and to aid in fraud detection.|
+|landingpage_currency|Defines the currency displayed in WordPress.com landing pages.|
+|pd_dashboard|Records last used folder in Polldaddy dashboard so it can be reopened upon user’s next visit.|
+|PD_USER_AUTH|Login cookie used to identify Polldaddy user.|
+|sensitive_pixel_option|Remembers the state of visitor acceptance to the cookie banner. Only set when the visitor clicks Accept.|
+|twostep_auth|Set when the user is logged in using two factor authentication.|
+|wordpress_logged_in*|Checks whether or not the current visitor is a logged in WordPress.com user.|
+|wordpress_test_cookie|Checks if cookies are enabled to provide appropriate user experience.|
+|wp-settings-{user_id}|Persists a user’s wp-admin configuration.|
+|wp_sharing_{id}|Tracks whether or not a user has already performed an action.|
 
 #### **Analytics and Performance**
 
@@ -69,35 +78,17 @@ optimizelySegments|Gathers information that helps us understand how visitors int
 |wp-affiliate-tracker|Remembers the ID of the affiliate that referred the current user to WordPress.com|
 |utma / utmb / utmc / utmt / utmz / ga / gat / gid|Google Analytics. Gathers information that helps us understand how visitors interact with our websites, which allow us to create a better experience for our visitors. Our users may also implement Google Analytics on their own websites.|
 
-#### **Functionality**
+#### **Advertising**
 
 |Cookie|Purpose|
 |--- |--- |
-|__stripe_sid / __stripe_mid|For processing payment and to aid in fraud detection.|
-|_longreads_prod_new|Authentication for Longreads.com Member accounts. Only active when logged in, on *.longreads.com domains.|
-|akm_mobile|Stores whether a user has chosen to view the mobile version of a website.|
-|botdlang|Used to track the language a user has selected to view popular blogs in.|
-|landingpage_currency|Defines the currency displayed in WordPress.com landing pages.|
-|pd_dashboard|Records last used folder in Polldaddy dashboard so it can be reopened upon user’s next visit.|
-|PD_USER_AUTH|Login cookie used to identify Polldaddy user.|
-|wordpress_logged_in*|Checks whether or not the current visitor is a logged in WordPress.com user.|
-|wp-settings-{user_id}|Persists a user’s wp-admin configuration.|
-|wp_sharing_{id}|Tracks whether or not a user has already performed an action.|
+|ads|Tracks if a visitor has clicked an ad before.|
+|lr_nw|Counts and tracks pageviews on Longreads.com. Used to determine whether or not to show our Membership popup message.|
+|wordpress_eli|Reduces the display of ads for repeat visitors.|
 
-#### **Security**
+Reduces the display of ads for repeat visitors.
 
-|Cookie|Purpose|
-|--- |--- |
-|csrftoken|Python/Ajax security cookie used on accounts.longreads.com.|
-
-#### **Strictly Necessary**
-
-|Cookie|Purpose|
-|--- |--- |
-|country_code|Used in order to determine whether or not the cookie banner should be shown. Set immediately on page load and retained for 6 hours to remember the visitor's country.|
-|sensitive_pixel_option|Remembers the state of visitor acceptance to the cookie banner. Only set when the visitor clicks Accept.|
-|twostep_auth|Set when the user is logged in using two factor authentication.|
-|wordpress_test_cookie|Checks if cookies are enabled to provide appropriate user experience.|
+Please also see the section below on third party advertisements that you may see on our sites or sites that use our services.
 
 #### **Advertisements from Third Parties Through Automattic’s Ads Program** 
 
