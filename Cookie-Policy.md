@@ -158,7 +158,7 @@ Visitors may wish to restrict the use of cookies or completely prevent them from
 
 On a mobile device, you may also be to adjust your settings to limit tracking.
 
-For example, you can opt out of Google Analytics by installing [Google’s opt-out browser add-on](https://tools.google.com/dlpage/gaoptout), or from Hotjar by using the [Do Not Track header](https://www.hotjar.com/legal/compliance/opt-out).
+Some analytics services we use, which place their own cookies or web tags on your browser, offer their own opt out choices. For example, you can opt out of Google Analytics by installing [Google’s opt-out browser add-on](https://tools.google.com/dlpage/gaoptout), from Hotjar by using the [Do Not Track header](https://www.hotjar.com/legal/compliance/opt-out), and from Nielsen by clicking the opt out link found within [Nielsen's Privacy Statement](https://www.nielsen.com/us/en/legal/privacy-statement/digital-measurement/).
 
 ### Our Internal Analytics Tool
 
