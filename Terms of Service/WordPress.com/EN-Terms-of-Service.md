@@ -1,7 +1,7 @@
 Terms of Service
 ================
 
-_Last Updated: January 25, 2021_
+_Last Updated: March 30, 2021_
 
 ## The Gist
 We (the [folks at Automattic](http://automattic.com/about/)) are on a mission to make the web a better place. We hope you love our products and services — from website publishing tools to ecommerce solutions to security backup systems to management tools for distributed companies to the next great idea that we haven’t even thought of yet — as much as we love creating them.
