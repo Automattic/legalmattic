@@ -206,7 +206,7 @@ We also process information about visitors to our users’ websites, on behalf o
 
 ### Privacy Policy Changes
 
-Although most changes are likely to be minor, Automattic may change its Privacy Policy from time to time. Automattic encourages visitors to frequently check this page for any changes to its Privacy Policy. If we make changes, we will notify you by revising the change log below, and, in some cases, we may provide additional notice (like adding a statement to our homepage or the [WordPress.com Blog,](https://en.blog.wordpress.com/) or sending you a notification through email or your dashboard). Your further use of the Services after a change to our Privacy Policy will be subject to the updated policy
+Although most changes are likely to be minor, Automattic may change its Privacy Policy from time to time. Automattic encourages visitors to frequently check this page for any changes to its Privacy Policy. If we make changes, we will notify you by revising the change log below, and, in some cases, we may provide additional notice (like adding a statement to our homepage or the [WordPress.com Blog,](https://en.blog.wordpress.com/) or sending you a notification through email or your dashboard). Your further use of the Services after a change to our Privacy Policy will be subject to the updated policy.
 
 ### Other Information and Resources
 
