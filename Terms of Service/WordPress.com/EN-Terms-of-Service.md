@@ -1,7 +1,7 @@
 Terms of Service
 ================
 
-_Last Updated: May 5, 2021_
+_Last Updated: June 25, 2021_
 
 ## The Gist
 We (the [folks at Automattic](http://automattic.com/about/)) are on a mission to make the web a better place. We hope you love our products and services — from website publishing tools to ecommerce solutions to security backup systems to management tools for distributed companies to the next great idea that we haven’t even thought of yet — as much as we love creating them.
@@ -161,6 +161,9 @@ Some of these third party services (like TaxJar, if you use [Store](https://en.s
 **More on WooCommerce Payments Specifically.** As part of WooCommerce Payments, we may use certain third parties to fulfill our obligations to you, including integrating with payment processing third parties. You may be subject to the terms and conditions of those third parties, and using WooCommerce Payments means you agree to comply with those terms and conditions. In particular, you cannot use WooCommerce Payments to enable any person (including you) to benefit from [restricted businesses or activities](https://wordpress.com/support/restricted-businesses-and-activities/). If we use another third party to fulfill these services, you authorize us to share your payment method information with an alternative third-party payment processor that is or will be integrated into WooCommerce Payments.
 We may refuse, condition, or suspend any transaction or account (including your use of WooCommerce Payments) if we believe you have violated this Agreement or that your activities or transactions expose you, us, or others to unacceptable risks, as determined by us in our sole discretion.
 You authorize us to share data relating to WooCommerce Payments with the applicable payment processing third party for their use in accordance with their privacy policy. Please refer to our privacy policy for details on how we otherwise collect, use, and disclose data made available to us as part of WooCommerce Payments.
+
+We may also offer you the ability to process certain transactions in-person through our In-Person Payments feature. As part of this feature, we may provide you with a point-of-sale (POS) terminal. These POS terminals are manufactured by third parties and are provided “as-is.” When processing transactions in-person, you must give your customers an option to receive a written receipt for any transactions greater than $15.
+
 **More on Shipping Services Specifically.** Our shipping Services allow you to check shipping rates or buy shipping labels from certain mailing services, like [UPS](https://www.ups.com/), [USPS](https://www.usps.com/), [DHL](https://www.dhl.com/), and [Canada Post](https://www.canadapost.ca/). We’re only an intermediary between you and these third parties; we aren’t involved in any way with your product or its shipment. We also don’t guarantee that the results you obtain from the use of these services (like rates, labels, or delivery timeframes) will be accurate or reliable.
 You’re solely responsible for compliance with all applicable rules and regulations, including domestic and international shipping and customs regulations and any regulations imposed by the mailing service(s) you use. For example:
 
