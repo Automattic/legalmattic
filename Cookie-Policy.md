@@ -109,6 +109,7 @@ Our mission is to democratize publishing. So that we can offer free access to cr
 |LKQD|https://www.lotame.com/about-lotame/privacy/|
 |Media.net|https://www.media.net/privacy-policy|
 |OATH|https://policies.oath.com/us/en/oath/privacy/topics/cookies/index.html|
+|Ogury|https://ogury.com/privacy-policy/|
 |OpenX|https://www.openx.com/legal/privacy-policy/|
 |Polymorph|https://getpolymorph.com/privacy-policy/|
 |PowerInBox|https://powerinbox.com/privacy-policy/|
