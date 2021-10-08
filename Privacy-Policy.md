@@ -12,9 +12,9 @@ Below is our Privacy Policy, which incorporates and clarifies these principles.
 
 Howdy! We are the folks behind a variety of products and services designed to allow anyone — from bloggers, to photographers, small business owners, and enterprises — to take full advantage of the power and promise of the open web. Our mission is to democratize publishing and commerce so that anyone with a story can tell it, and anyone can turn their great idea into a livelihood. We believe in powering the open internet with code that is open source and are proud to say that the vast majority of our work is available under the General Public License (“GPL”). Unlike most other services, because our GPL code is public, you can actually download and take a look at that code to see how it works. This Privacy Policy applies to information that we collect about you when you use:
 
-*   Our websites (including automattic.com, wordpress.com, vip.wordpress.com, jetpack.com, woocommerce.com, crowdsignal.com, gravatar.com, intensedebate.com, vaultpress.com, akismet.com, simplenote.com, simperium.com, leandomainsearch.com, cloudup.com, longreads.com, atavist.com, mailpoet.com, automatewoo.com, jetpackcrm.com, and happy.tools);
+*   Our websites (including automattic.com, wordpress.com, vip.wordpress.com, jetpack.com, woocommerce.com, crowdsignal.com, gravatar.com, intensedebate.com, vaultpress.com, akismet.com, simplenote.com, simperium.com, leandomainsearch.com, cloudup.com, longreads.com, atavist.com, mailpoet.com, automatewoo.com, jetpackcrm.com, happy.tools, wpcourses.com, and newspack.pub);
 *   Our mobile applications (including the WordPress mobile app for Android and iOS);
-*   Our other Automattic products, services, and features that are available on or through our websites (for example, WordPress.com plans, the Payments feature, the Pay with PayPal block, WordPress.com VIP, Jetpack, the WooCommerce Shipping & Tax extension, Gravatar, the IntenseDebate comment management system, Akismet plans, Simplenote, Simperium, Cloudup, Longreads, MailPoet, AutomateWoo, Jetpack CRM, and Happy Tools); and
+*   Our other Automattic products, services, and features that are available on or through our websites (for example, WordPress.com plans, the Payments feature, the Pay with PayPal block, WordPress.com VIP, Jetpack, the WooCommerce Shipping & Tax extension, Gravatar, the IntenseDebate comment management system, Akismet plans, Simplenote, Simperium, Cloudup, Longreads, MailPoet, AutomateWoo, Jetpack CRM, Happy Tools, WordPress.com Courses, and Newspack); and
 *   Other users’ websites that use our Services, while you are logged in to your account with us.
 
 This Privacy Policy also applies to information we collect when you apply for a job at Automattic or one of our subsidiaries. Throughout this Privacy Policy we’ll refer to our websites, mobile applications, and other products and services collectively as “Services.” And if you’d like to learn more about which Automattic company is the controller of information about you, take a look at the section below on [Controllers and Responsible Companies](https://automattic.com/privacy/#controllers-and-responsible-companies). Please note that this Privacy Policy does not apply to any of our products or services, like Tumblr, that have a separate privacy policy. Below we explain how we collect, use, and share information about you, along with the choices that you have with respect to that information.
@@ -53,7 +53,16 @@ We also collect some information automatically:
 
 #### _Information We Collect from Other Sources_
 
-We may also get information about you from other sources. For example, if you create or log in to your WordPress.com account through another service (like Google) or if you connect your website or account to a social media service (like Twitter) through our [Publicize feature](https://en.support.wordpress.com/publicize/), we’ll receive information from that service (e.g., your username, basic profile information, friends list) via the authorization procedures for that service. As another example, if you use WooCommerce Payments, we’ll receive information relating to your Stripe account, such as your email address and phone number. The information we receive depends on which services you use or authorize and what options are available. Third-party services may also give us information, like mailing addresses for individuals who are not yet our users (but we hope will be!). We use this information for marketing purposes like postcards and other mailers advertising our Services.
+We may also get information about you from other sources. For example: 
+
+*   **Third Party Login:** If you create or log in to your WordPress.com account through another service (like Google) we’ll receive associated login information (e.g. a connection token, your username, your email address)
+*   **Social Sharing Services:** If you connect your website or account to a social media service (like Twitter) through our Publicize feature, we’ll receive information from that service (e.g., your username, basic profile information, friends list) via the authorization procedures for that service.
+*   **Financial Account Info:** If you use WooCommerce Payments, we’ll receive information relating to your Stripe account, such as your email address and phone number.
+*   **Google Account Information:** When you connect your Google account to your Newspack powered site, we may access certain Google user data such as your Google Ad Manager Configuration (the network code and your ad units) and your Google Analytics data to allow you to access and manage features more seamlessly. For example, you may be able to manage your Google ads and see your Google Analytics data directly within the dashboard of your Newspack powered site.
+
+The information we receive depends on which services you use or authorize and what options are available. 
+
+Third-party services may also give us information, like mailing addresses for individuals who are not yet our users (but we hope will be!). We use this information for marketing purposes like postcards and other mailers advertising our Services.
 
 ### How and Why We Use Information
 
@@ -220,6 +229,7 @@ Our Privacy Policy was originally written in English (US). We may translate it i
 
 ### Change log
 
+*   _October 8, 2021_: Included information for WordPress.com Courses and Newspack. Updated the "Information we Collect from Other Sources" section with new examples.
 *   _January 1, 2021_: Included information for AutomateWoo and Jetpack CRM. Updated the “Controllers and Responsible Companies” section to reflect changes affecting WooCommerce users.
 *   _December 7, 2020:_ Included information for MailPoet.
 *   _October 12, 2020_: Renamed WooCommerce Services to WooCommerce Shipping & Tax.
