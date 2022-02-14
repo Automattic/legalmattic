@@ -120,6 +120,18 @@ Our mission is to democratize publishing. So that we can offer free access to cr
 |Teads|https://www.teads.tv/privacy-policy/|
 |TripleLift|https://triplelift.com/privacy/|
 
+### Visitors to Sites with Parse.ly installed
+
+Below are examples of the cookies set for visitors to sites with the Parse.ly plugin installed.
+
+|Cookie|Purpose|
+|--- |--- |
+|test|Used to discover cookie support.|
+|_parsely_visitor|JSON document uniquely identifying a browser and counting its sessions.|
+|_parsely_tpa_blocked|JSON document storing a flag indicating whether pixel.parsely.com is not accessible by the tracker.|
+|_parsely_slot_click|JSON document storing positional information about a clicked internal link.|
+|_parsely_session|JSON document storing information identifying a browsing session according to Parse.ly’s proprietary definition.|
+
 ### Visitors to Sites with Jetpack installed
 
 Below are examples of the cookies set for visitors to sites with the Jetpack plugin installed. For more details on the cookies set for administrators, please see [https://jetpack.com/support/cookies/](https://jetpack.com/support/cookies/).
