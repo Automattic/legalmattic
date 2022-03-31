@@ -169,7 +169,7 @@ Please note that this section is not intended to be exhaustive, but rather aims 
 
 Visitors may wish to restrict the use of cookies or completely prevent them from being set. Most browsers provide for ways to control cookie behavior such as the length of time they are stored – either through built-in functionality or by utilizing third party plugins. If you disable cookies, please be aware that some of the features of our service may not function correctly. To find out more on how to manage and delete cookies, visit aboutcookies.org. For more details on your choices regarding use of your web browsing activity for interest-based advertising visit [youronlinechoices.eu](http://youronlinechoices.eu) (EU based) or [optout.aboutads.info](http://optout.aboutads.info) (US based). 
 
-On a mobile device, you may also be to adjust your settings to limit tracking.
+On a mobile device, you may also be able to adjust your settings to limit tracking.
 
 Some analytics services we use, which place their own cookies or web tags on your browser, offer their own opt out choices. For example, you can opt out of Google Analytics by installing [Google’s opt-out browser add-on](https://tools.google.com/dlpage/gaoptout), from Hotjar by using the [Do Not Track header](https://www.hotjar.com/legal/compliance/opt-out), and from Nielsen by clicking the opt out link found within [Nielsen's Privacy Statement](https://www.nielsen.com/us/en/legal/privacy-statement/digital-measurement/).
 
