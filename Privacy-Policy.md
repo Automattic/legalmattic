@@ -38,7 +38,7 @@ It’s probably no surprise that we collect information that you provide to us d
 *   **Content information:** You might provide us with information about you in draft and published content (a blog post or comment that includes biographic information about you, or any media or files you upload).
 *   **Credentials:** Depending on the Services you use, you may provide us with credentials for your self-hosted website (like SSH, FTP, and SFTP username and password). Jetpack and VaultPress users may provide us with these credentials in order to use our one-click restore feature if there is a problem with their site, or to allow us to troubleshoot problems more quickly.
 *   **Communications with us (hi there!):** You may also provide us with information when you respond to surveys, communicate with our Happiness Engineers about a support question, post a question in our public forums, or sign up for a newsletter like the one we send through Longreads. When you communicate with us via form, email, phone, WordPress.com comment, or otherwise, we store a copy of our communications (including any call recordings as permitted by applicable law).
-*   **Job applicant information:** If you apply for a job with us — awesome! You may provide us with information like your name, contact information, resume or CV, and work authorization verification as part of the application process.
+*   **Job applicant information:** If you apply for a job with us — awesome! You may provide us with information like your name, contact information, resume or CV, professional or personal references, similar professional and employment-related data, and work authorization verification as part of the application process. We may also collect additional information about you during the process, like background and credit checks (in applicable jurisdictions and only for certain job roles).  You may also provide us with demographic information when required by law or to support our diverse workplace initiatives, such as your gender, racial or ethnic origin, veteran status, and disability status if you voluntarily submit such information as part of your application. We collect demographic information in accordance with applicable law, and do not request demographic information in jurisdictions where it may be prohibited. We will only use this sensitive information to accommodate a disability or illness, comply with legal obligations, protect the health and safety of our employees, and facilitate our internal programs relating to diversity, inclusion, and anti-discrimination. 
 
 #### _Information We Collect Automatically_
 
@@ -79,7 +79,7 @@ We use information about you for the purposes listed below:
 *   **To fix problems with our Services.** For example, by monitoring, debugging, repairing, and preventing issues.
 *   **To customize the user experience.** For example, to personalize your experience by serving you relevant notifications and advertisements for our Services, recommending content through our Reader post suggestions, and providing new essays and stories through Longreads for your reading pleasure.
 *   **To communicate with you.** For example, by emailing you to ask for your feedback, share tips for getting the most out of our products, or keep you up to date on Automattic; texting you to verify your payment; or calling you to share offers and promotions that we think will be of interest to you. If you don’t want to hear from us, you can opt out of marketing communications at any time. (If you opt out, we’ll still send you important updates relating to your account.)
-*   **To recruit and hire new Automatticians.** For example, by evaluating job applicants and communicating with them.
+*   **To recruit and hire new Automatticians.** For example, by evaluating job applicants (including verifying their identity, experience, and other information submitted) and communicating with them by phone, email, or social media platforms.  If the application progresses, we may also collect interview information and background check information.  This may also include verifying information required to initiate employment, for purposes such as confirming ability to legally work in a specific location, setting up payroll, and complying with statutory reporting requirements.
 
 #### _Legal Bases for Collecting and Using Information_
 
@@ -101,15 +101,19 @@ We share information about you in limited circumstances, and with appropriate sa
 *   **Site owners:** If you have a WordPress.com account and interact with another site using our Services, your information may be shared with the administrators of the site. For example, if you leave a comment on a site created on WordPress.com or running Jetpack, your IP address and the email address associated with your WordPress.com account may be shared with the administrator(s) of the site where you left the comment. Or if you make a payment (like via the [Payments feature](https://en.support.wordpress.com/recurring-payments/)) to a site, your public display name, user name, and email address may be shared with the administrator(s) of the site.
 *   **Published support requests:** If you send us a request for assistance (for example, via a support email or one of our other feedback mechanisms), we reserve the right to publish that request in order to clarify or respond to your request, or to help us support other users.
 
-We have a long-standing policy that we do not sell our users' data. We aren't a data broker, we don't sell your personal information to data brokers, and we don't sell your information to other companies that want to spam you with marketing emails. We show ads on some of our users’ sites as well as some of our own, and the revenue they generate lets us offer free access to some of our Services so that money doesn’t become an obstacle to having a voice. Under a new California law, the California Consumer Privacy Act ("CCPA"), some personalized advertising you see online and on our services might be considered a "sale" even though we don't share information that identifies you personally, like your name or email address, as part of our advertising program. You have choices about these ads, [learn more about them and our ads program](https://wordpress.com/advertising-program-optout/).
-
 #### _Information Shared Publicly_
 
 Information that you choose to make public is — you guessed it — disclosed publicly. That means information like your public profile, posts, other content that you make public on your website, and your “Likes” and comments on other websites are all available to others — and we hope they get a lot of views! For example, the photo that you upload to your public profile, or a default image if you haven’t uploaded one, is your **G**lobally **R**ecognized Avatar, or Gravatar — get it? :) Your Gravatar, along with other public profile information, displays alongside the comments and “Likes” that you make on other users’ websites while logged in to your WordPress.com account. Your Gravatar and public profile information may also display with your comments, “Likes,” and other interactions on websites that use our Gravatar service, if the email address associated with your account is the same email address you use on the other website. We also provide a “Firehose” stream of public data (like posts and comments) from some sites that use our Services to provide that data to Firehose subscribers, who may view and analyze the content (all subject to our Terms of Service), but do not have rights to re-publish it publicly. Find out more about opting out of the Firehose for [WordPress.com](https://en.support.wordpress.com/settings/privacy-settings/#firehose-settings) and [Jetpack](https://jetpack.com/support/enhanced-distribution/) sites. Public information may also be indexed by search engines or used by third parties. Please keep all of this in mind when deciding what you would like to share publicly.
 
 ### How Long We Keep Information
 
-We generally discard information about you when it’s no longer needed for the purposes for which we collect and use it — described in the section above on How and Why We Use Information — and we’re not legally required to keep it. For example, we keep web server logs that record information about a visitor to one of Automattic’s websites, like the visitor’s IP address, browser type, and operating system, for approximately 30 days. We retain the logs for this period of time in order to, among other things, analyze traffic to Automattic’s websites and investigate issues if something goes wrong on one of our websites. As another example, when you delete a post, page, or comment from your WordPress.com site, it stays in your Trash folder for thirty days in case you change your mind and would like to restore that content, because starting from scratch is no fun. After the thirty days are up, the deleted content may remain on our backups and caches until purged.
+We generally discard information about you when it’s no longer needed for the purposes for which we collect and use it — described in the section above on How and Why We Use Information — and we’re not legally required to keep it. 
+
+For example, we keep web server logs that record information about a visitor to one of Automattic’s websites, like the visitor’s IP address, browser type, and operating system, for approximately 30 days. We retain the logs for this period of time in order to, among other things, analyze traffic to Automattic’s websites and investigate issues if something goes wrong on one of our websites. 
+
+As another example, when you delete a post, page, or comment from your WordPress.com site, it stays in your Trash folder for thirty days in case you change your mind and would like to restore that content, because starting from scratch is no fun. After the thirty days are up, the deleted content may remain on our backups and caches until purged.
+
+If you are a job applicant, we will keep your personal data during the application process, and for a certain period thereafter. To determine that period, we take into account a number of factors, like our legal and regulatory obligations (such as equal opportunity obligations) and whether we may need to retain personal data for internal business purposes like analyzing our applicant pool.
 
 ### Security
 
@@ -119,7 +123,7 @@ While no online service is 100% secure, we work very hard to protect information
 
 You have several choices available when it comes to information about you:
 
-*   **Limit the information that you provide:** If you have an account with us, you can choose not to provide the optional account information, profile information, and transaction and billing information. Please keep in mind that if you do not provide this information, certain features of our Services — for example, premium themes that carry an additional charge — may not be accessible.
+*   **Limit the information that you provide:** If you have an account with us, you can choose not to provide the optional account information, profile information, and transaction and billing information. Please keep in mind that if you do not provide this information, certain features of our Services — for example, premium themes that carry an additional charge — may not be accessible. If you are a job applicant, and you choose not to provide certain data elements to us, we may not be able to proceed with the recruitment process.
 *   **Limit access to information on your mobile device:** Your mobile device operating system should provide you with the option to discontinue our ability to collect stored information or location information via our mobile apps. If you choose to limit this, you may not be able to use certain features, like geotagging for photographs.
 *   **Opt out of marketing communications:** You may opt out of receiving promotional communications from us. Just follow the instructions in those communications or let us know. If you opt out of promotional communications, we may still send you other communications, like those about your account and legal notices.
 *   **Set your browser to reject cookies:** At this time, Automattic does not respond to “do not track” signals across all of our Services. However, you can [usually choose](https://automattic.com/cookies/#controlling-cookies) to set your browser to remove or reject browser cookies before using Automattic’s websites, with the drawback that certain features of Automattic’s websites may not function properly without the aid of cookies.
@@ -142,35 +146,73 @@ If you are located in a country that falls under the scope of the GDPR, data pro
 
 You also have the right to make a complaint to a government supervisory authority.
 
-#### _California Consumer Privacy Act (CCPA)_
+#### _US Privacy Laws_
 
-The California Consumer Privacy Act (“CCPA”) requires us to provide California residents with some additional information about the categories of personal information we collect and share, where we get that personal information, and how and why we use it. The CCPA also requires us to provide a list of the “categories” of personal information we collect, as that term is defined in the law, so, here it is. In the last 12 months, we collected the following categories of personal information from California residents, depending on the Services used:
+Laws in some US states, including California, Colorado, Connecticut, Utah, and Virginia, require us to provide residents with additional information about the categories of personal information we collect and share, where we get that personal information, and how and why we use it. You’ll find that information in this section (if you are a California resident, please note that this is the Notice at Collection we are required to provide you under California law).
+
+In the last 12 months, we collected the following categories of personal information, depending on the Services used:
 
 *   Identifiers (like your name, contact information, and device and online identifiers);
 *   Commercial information (your billing information and purchase history, for example);
-*   Characteristics protected by law (for example, you might provide your gender as part of a research survey for us);
+*   Characteristics protected by law (for example, you might provide your gender as part of a research survey for us or you may choose to voluntarily disclose your race or veteran status as part of your job application);
 *   Internet or other electronic network activity information (such as your usage of our Services, like the actions you take as an administrator of a WordPress.com site);
 *   Geolocation data (such as your location based on your IP address);
 *   Audio, electronic, visual or similar information (such as your profile picture, if you uploaded one);
 *   Professional or employment-related information (for example, your company and team information if you are a Happy Tools user, or information you provide in a job application); and
 *   Inferences we make (such as likelihood of retention or attrition).
 
-You can find more information about what we collect and sources of that information in the [Information We Collect section](https://automattic.com/privacy/#information-we-collect) above. We collect personal information for the business and commercial purposes described in the [How and Why We Use Information section](https://automattic.com/privacy/#how-and-why-we-use-information). And we share this information with the categories of third parties described in the [Sharing Information section](https://automattic.com/privacy/#sharing-information). If you are a California resident, you have additional rights under the CCPA, subject to any exemptions provided by the law, including the right to:
+If you are a job applicant, we may have also collected:
 
-*   Request to know the categories of personal information we collect, the categories of business or commercial purpose for collecting and using it, the categories of sources from which the information came, the categories of third parties we share it with, and the specific pieces of information we collect about you;
+*   Education information, such as the education you disclose in your job application.
+
+You can find more information about what we collect and sources of that information in the [Information We Collect section](https://automattic.com/privacy/#information-we-collect) above. 
+
+We collect personal information for the business and commercial purposes described in the [How and Why We Use Information section](https://automattic.com/privacy/#how-and-why-we-use-information). And we share this information with the categories of third parties described in the [Sharing Information section](https://automattic.com/privacy/#sharing-information). We retain this information for the length of time described in our [How Long We Keep Information section](https://automattic.com/privacy/#how-long-we-keep-information).
+
+In some US states you have additional rights subject to any exemptions provided by your state’s respective law, including the right to:
+
+*   Request a copy of the specific pieces of information we collect about you and, if you’re in California, to know the categories of personal information we collect, the categories of business or commercial purpose for collecting and using it, the categories of sources from which the information came, and the categories of third parties we share it with;
 *   Request deletion of personal information we collect or maintain;
-*   Opt out of any sale of personal information; and
-*   Not receive discriminatory treatment for exercising your rights under the CCPA.
+*   Request correction of personal information we collect or maintain;
+*   Opt out of any sale or sharing of personal information; 
+*   Receive a copy of your information in a readily portable format; and
+*   Not receive discriminatory treatment for exercising your rights.
 
 You can find detailed metrics about Automattic's compliance with these rights in [our Privacy Report](https://transparency.automattic.com/landing/).
 
-#### **_The CCPA & Personalized Advertising in Our Ads Program_**
+#### **_Right to Opt Out_**
 
-Our mission is to democratize publishing and commerce, and that means making our Services accessible to as many people as possible. We show ads on some of our users’ sites as well as some of our own sites, and the revenue these ads generate lets us offer free access to some of our Services so that money doesn’t become an obstacle to having a voice. Our ads program also allows our users to earn revenue to support and grow their own sites. As part of our advertising program, we and our users do use cookies to share certain device identifiers and information about your browsing activities with our advertising partners, and those advertising partners may use that information to show you personalized ads on some of our users’ sites and some of our own. The personal information we share includes online identifiers; internet or other network or device activity (such as cookie information, other device identifiers, and IP address); and geolocation data (approximate location information from your IP address). These disclosures may be considered a “sale” of information under the CCPA. We do not sell (or share) information through our ads program that identifies you personally, like your name or contact information. We don't knowingly sell personal information of those under 16. Learn how you can opt out by going to [California: Do Not Sell My Personal Information](https://wordpress.com/advertising-program-optout/).
+We never directly sell your personal information in the conventional sense (i.e., for money).
+
+We may share your information as necessary with our third-party service providers to provide our services to you. To the extent that we share your information with certain advertising, marketing, or analytics vendors, this can be considered a “sale” or “share” in certain U.S. States, which you may have the right to opt out of.
+
+You can learn more about this sharing and how to opt out by clicking the “Do Not Sell My Personal Information” link in the footer of our websites, or from the settings page within our apps. Note that in some instances this link will only display to individuals visiting our sites from within the relevant states.
+
+Our opt-out is managed through cookies, so if you delete cookies, your browser is set to delete cookies automatically after a certain length of time, or if you visit sites in a different browser, you’ll need to make this selection again.
+
+We also respect the GPC browser signal and will treat it as a valid means of communicating your desire to opt out.
+
+We do not collect or process your sensitive (and potentially sensitive) personal information except where it is strictly necessary to provide you with our service, where the processing is not for the purpose of inferring characteristics about you, or for other purposes that do not require an option to limit under California law. We don’t knowingly sell or share personal information of those under 16.
+
+#### **_Your Information & Personalized Advertising_**
+
+Our mission is to democratize publishing and commerce, and that means making our Services accessible to as many people as possible. We show ads on some of our users’ sites as well as some of our own sites, and the revenue these ads generate lets us offer free access to some of our Services so that money doesn’t become an obstacle to having a voice. Our ads program also allows our users to earn revenue to support and grow their own sites. As part of our advertising program, we and our users do use cookies to share certain device identifiers and information about your browsing activities with our advertising partners, and those advertising partners may use that information to show you personalized ads on some of our users’ sites and some of our own. 
+
+The personal information we share includes online identifiers; internet or other network or device activity (such as cookie information, other device identifiers, and IP address); and geolocation data (approximate location information from your IP address). These disclosures may be considered a “sale” of information under the CCPA. We do not sell (or share) information through our ads program that identifies you personally, like your name or contact information. We don't knowingly sell personal information of those under 16. Learn how you can opt out by going to [Advertising on WordPress.com Sites and Sites in the WordAds Program.](https://wordpress.com/advertising-program-optout/).
 
 #### _Contacting Us About These Rights_
 
-You can usually access, correct, or delete your personal data using your account settings and tools that we offer, but if you aren’t able to or you’d like to contact us about one of the other rights, scroll down to “[How to Reach Us](https://automattic.com/privacy/#how-to-reach-us)” to, well, find out how to reach us. When you contact us about one of your rights under this section, we’ll need to verify that you are the right person before we disclose or delete anything. For example, if you are a user, we will need you to contact us from the email address associated with your account. You can also designate an authorized agent to make a request on your behalf by giving us written authorization. We may still require you to verify your identity with us.
+You can usually access, correct, or delete your personal data using your account settings and tools that we offer, but if you aren’t able to or you’d like to contact us about one of the other rights, scroll down to “[How to Reach Us](https://automattic.com/privacy/#how-to-reach-us)” to, well, find out how to reach us. 
+
+When you contact us about one of your rights under this section, we’ll need to verify that you are the right person before we disclose or delete anything. For example, if you are a user, we will need you to contact us from the email address associated with your account. You can also designate an authorized agent to make a request on your behalf by giving us written authorization. We may still require you to verify your identity with us.
+
+#### _Appeals Process for Rights Requests Denials_
+
+In some circumstances we may deny your request to exercise one of these rights. For example, if we cannot verify that you are the account owner we may deny your request to access the personal information associated with your account. As another example, if we are legally required to maintain a copy of your personal information we may deny your request to delete your personal information.
+
+In the event that we deny your request, we will communicate this fact to you in writing. You may appeal our decision by responding in writing to our denial email and stating that you would like to appeal. All appeals will be reviewed by an internal expert who was not involved in your original request. In the event that your appeal is also denied this information will be communicated to you in writing.  Please note that the appeal process does not apply to job applicants.
+
+If your appeal is denied, in some US states (Colorado, Connecticut, and Virginia) you may refer the denied appeal to the state attorney general if you believe the denial is in conflict with your legal rights. The process for how to do this will be communicated to you in writing at the same time we send you our decision about your appeal.
 
 ### Controllers and Responsible Companies
 
@@ -230,6 +272,7 @@ Our Privacy Policy was originally written in English (US). We may translate it i
 
 ### Change log
 
+*   _December 30, 2022_: Updated the California rights section to apply to additional US states.
 *   _November 22, 2021_: Included information for WordPress.com WPScan.
 *   _October 8, 2021_: Included information for WordPress.com Courses and Newspack. Updated the "Information we Collect from Other Sources" section with new examples.
 *   _January 1, 2021_: Included information for AutomateWoo and Jetpack CRM. Updated the “Controllers and Responsible Companies” section to reflect changes affecting WooCommerce users.
