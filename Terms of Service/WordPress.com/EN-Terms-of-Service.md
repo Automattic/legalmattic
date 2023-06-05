@@ -1,7 +1,7 @@
 Terms of Service
 ================
 
-_Last Updated: March 3, 2023_
+_Last Updated: June 4, 2023_
 
 ## The Gist
 We (the [folks at Automattic](https://automattic.com/about/)) are on a mission to make the web a better place. We hope you love our products and services — from website publishing tools to ecommerce solutions to security backup systems to management tools for distributed companies to the next great idea that we haven’t even thought of yet — as much as we love creating them.
@@ -119,6 +119,11 @@ Your domain is also subject to the policies of the Internet Corporation for Assi
 For details about what happens during the domain expiration process and how we may notify you about domain expirations, please see the [Domain Expiration page](https://en.support.wordpress.com/domains/domain-expiration/).
 For information about fees associated with domain registrations, renewals, and redemptions, please refer to the [domain pricing and available TLDs page](https://en.support.wordpress.com/domains/domain-pricing-and-available-tlds/).
 When you register a domain, you’re required to provide complete and accurate registration information, and you must keep this information current. In most cases, the contact information you provide as part of the registration process will be used as your administrative contact, technical contact, and billing contact for the domain. You can [update your domain contact information](https://wordpress.com/support/update-contact-information/) at any time. If the domain contact information differs from your WordPress.com account information, we consider the administrative contact in your [domain contact information](https://wordpress.com/support/update-contact-information/) to be the owner of the domain, with full authority to manage it.
+
+**Built By WordPress.com Express.** By purchasing Built By WordPress.com Express — where our experts set up your website for you — you have read and understand [these details about the service](https://wordpress.com/support/website-design-service/), including our [content guidelines](https://wordpress.com/support/website-design-service/#content-guidelines) and the fact that the website (including any design, layout, or web development) we produce is provided “as-is.” Although we’re setting up a website for you, you remain solely responsible for the content on your site and any materials, information, or other data on your site.  We do not provide approval or validation of your website or its content by providing our services. 
+
+If we provide you with a refund for your purchase of Built By WordPress.com Express, you may not use the website or its layout, web design, content, or other development we have provided to you, and we reserve the right to delete or revert the website to its previous state.
+
 ### b. WooCommerce
 WooCommerce is an open source, customizable ecommerce platform. The Services we offer at WooCommerce.com give you the power to sell your products and services in whatever way your business needs.
 Your use of certain Services offered via WooCommerce.com or [WooCommerce Shipping & Tax](https://docs.woocommerce.com/document/woocommerce-services/), like those related to tax calculation, payment, and shipping, may require Jetpack to function. If you enable those features, the Jetpack-specific terms also apply.
@@ -213,6 +218,15 @@ In addition, you’re solely responsible for customs charges, import taxes or du
 In some cases, you may need to pay fees to the carrier directly, like if you use UPS shipping labels. In other cases, you authorize us to charge you for the fees associated with each shipping label you create. Each fee will be charged separately to the payment methods you provide in your WordPress.com account, which you can view and manage as described on the [Payments Methods support page](https://en.support.wordpress.com/payment/). If you have multiple payment methods, you can select which should be used for the shipping label service. If we’re unable to collect payment from you for these fees, you’ll be responsible for payment within 7 days; please contact us to make payment.
 Refunds for unused shipping labels must be requested ([like so for USPS](https://docs.woocommerce.com/document/woocommerce-shipping-and-tax/woocommerce-shipping/#section-7)) in your store’s wp-admin within 30 days of creating the label. Depending on your bank and the third party involved, it can take up to 45 days for your refund to be issued. If you don’t receive your refund within this time frame, please contact us.
 You may not transfer or sell postage and/or shipping labels to a third party.
+
+### h. Artificial Intelligence
+
+We may offer features that incorporate artificial intelligence (AI), like blocks or plugins that enable you to use AI to generate content or images for your website or store. 
+
+As between you and Automattic, and to the extent permitted by law, you own or have the rights to any content you input into AI features (“Input”) and any content generated by the AI features (“Output”). 
+
+You’re responsible for your Input, the use of any Output, and for complying with any applicable laws. AI may occasionally generate Output that’s inaccurate, irrelevant, offensive, harmful, or similar to others' content. Please see our [AI Guidelines](https://automattic.com/ai-guidelines) for the policies you must comply with when you use AI features, details about the third-party providers we use to provide AI features, and helpful information about AI generally.
+
 ## 9. Copyright Policy
 As we ask others to respect our intellectual property rights, we respect the intellectual property rights of others. If you believe any Content violates your copyright, please see our [Copyright Policy](https://automattic.com/dmca-notice/) and send us a notice.
 ## 10. Intellectual Property
