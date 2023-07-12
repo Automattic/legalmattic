@@ -272,6 +272,7 @@ Our Privacy Policy was originally written in English (US). We may translate it i
 
 ### Change log
 
+*   _July 12, 2023_: Add new example of information shared with site owners.
 *   _March 17, 2022_: Remove references to WPVIP.
 *   _December 30, 2022_: Updated the California rights section to apply to additional US states.
 *   _November 22, 2021_: Included information for WordPress.com WPScan.
