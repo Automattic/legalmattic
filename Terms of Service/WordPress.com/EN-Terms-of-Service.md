@@ -1,7 +1,7 @@
 Terms of Service
 ----------------
 
-*Last Updated: October 31, 2023*
+*Last Updated: December 28, 2023*
 
 The Gist
 --------
@@ -105,15 +105,17 @@ You can view your renewal date(s), cancel, or manage subscriptions in your setti
 
 We may have a “no-show policy” for some Paid Services that require your participation. This means that if you don’t show up for, don’t participate in, or are late for a scheduled session, you’ll still be charged for the Paid Service and won’t be entitled to a refund.
 
-European Users: You have the right to withdraw from the transaction within fourteen (14) days from the date of the purchase without giving any reason as long as your purchase was not of a customized nature, the service has not been fully performed, or subject to other limitations as permitted by law. For digital content, you agree that any purchase of digital content will be made available to you immediately and as a result you waive any right of withdrawal to such content.
+*European Users:* 
 
-If you cancel this contract, we will reimburse you all payments we have received from you, including delivery costs (with the exception of additional costs resulting from the fact that you have chosen a type of delivery other than the most favorable standard delivery offered by us), without undue delay and no later than within fourteen days from the day on which we received the notification of your cancellation of this contract. For this repayment, we will use the same means of payment that you used for the original transaction, unless expressly agreed otherwise with you; you will not be charged for this repayment. If you have requested that we begin our services during the withdrawal period, you will pay us a reasonable amount corresponding to the services already provided up to the time you notify us of the exercise of the withdrawal right compared to the total scope of the services provided for in the contract. If you cancel your contract with us, you will refrain from using the digital content or digital services or making them available to third parties.
+You have the right to withdraw from the transaction within fourteen (14) days from the date of the purchase without giving any reason as long as your purchase was not of downloadable content or of a customized nature, and (i) the service has not been fully performed, or (ii) subject to other limitations as permitted by law. For digital content, you agree that any purchase of digital content will be made available to you immediately and as a result you waive any right of withdrawal to such content.
+
+If you cancel this contract, we will reimburse you all payments we have received from you, including delivery costs (with the exception of additional costs resulting from the fact that you have chosen a type of delivery other than the most favorable standard delivery offered by us), without undue delay and no later than within fourteen days from the day on which we received the notification of your cancellation of this contract. For this repayment, we will use the same means of payment that you used for the original transaction, unless expressly agreed otherwise with you; you will not be charged for this repayment. If we have already begun our services during the withdrawal period, you will pay us a prorated amount corresponding to the services already provided up to the time you notify us of the exercise of the withdrawal right compared to the total scope of the services provided for in the contract. If you cancel your contract with us, you will refrain from using the digital content or digital services or making them available to third parties.
 
 You may exercise your right to withdrawal by sending a clear, written request to: Aut O’Mattic A8C Ireland Ltd., Grand Canal Dock, 25 Herbert Pl, Dublin, D02 AY86 Ireland or by using [this model form](https://wordpress.com/support/right-to-withdrawal/).
 
 ### b. Fees Collected by Website Owners
 
-**Fees Paid to Websites or Website Owners.** Website owners can sell items (goods, content, services, etc.), offer subscriptions for their websites at specific price points and intervals, or simply collect payments. We’re not involved in a website’s subscription details or store operations (including the quality, timing, pricing, or legality of what may or may not be included in exchange for payment, or any goods or services purchased). If you buy items or subscriptions from a website, you’re making the purchase directly from the website owner, and they’re solely responsible for the items sold. Please contact the website owner if you have any questions or complaints.
+**Fees Paid to Third-Party Websites or Website Owners.** Website owners can sell items (goods, content, services, etc.), offer subscriptions for their websites at specific price points and intervals, or simply collect payments. We’re not involved in a website’s subscription details or store operations (including the quality, timing, pricing, or legality of what may or may not be included in exchange for payment, or any goods or services purchased). If you buy items or subscriptions from a website, you’re making the purchase directly from the website owner, and they’re solely responsible for the items sold. Please contact the website owner if you have any questions or complaints.
 
 **Automatic Renewal. **Any recurring payments you make to a WordPress.com website owner (like a [website subscription](https://wordpress.com/support/recurring-payments/)) are automatically renewed. This means that unless you or the website owner cancels your website subscription before the end of the subscription period, it’ll automatically renew and your payment method will be charged. For example, if you select an annually renewing website subscription, you’ll be automatically charged once each year until the subscription is canceled. You can view the renewal dates or cancel your website subscriptions on your [Purchases page](https://wordpress.com/me/purchases/other).
 
@@ -160,7 +162,7 @@ If you find a WordPress.com website that you believe violates these Terms, pleas
 
 **Web Traffic.** We may use a third-party service to measure WordPress.com’s audience and usage. By having your website on WordPress.com, you agree to assign the traffic for your website to Automattic, and you authorize us to sign a Traffic Assignment Letter on your behalf. This means that your website’s traffic may be included under Automattic, your website may not receive credit for traffic in the respective reports, and you must not assign your website’s traffic to any other party. If we require additional documentation to verify ownership of your website or domain name, you agree to make reasonable efforts to provide it.
 
-**Prohibited Uses.** Your Content and conduct must not violate the [WordPress.com User Guidelines,](https://en.support.wordpress.com/user-guidelines/) or the [VideoPress Service Guidelines](https://videopress.com/service-guidelines) if you use our Services to upload videos.
+**Prohibited Uses.** Your Content and conduct must not violate the [WordPress.com User Guidelines,](https://en.support.wordpress.com/user-guidelines/) or the [VideoPress Service Guidelines](https://videopress.com/service-guidelines) if you use our Services to upload videos. These guidelines provide information on a few categories of content and behavior that we don’t permit because we consider them harmful to the community.
 
 **HTTPS.** We offer free HTTPS on all WordPress.com websites by default, including those using custom domains, via [Let’s Encrypt](https://letsencrypt.org/). By signing up and using a custom domain on WordPress.com, you authorize us to represent that you have the power and authority to act on the domain name registrant’s behalf (by requesting the necessary certificates, for example) for the sole purpose of providing HTTPS on your website.
 
@@ -281,7 +283,7 @@ If we’re obligated to pay or collect Taxes on your ecommerce activities or you
 
 **Third-Party Services.** You may decide to use third-party services, like [Stripe](https://stripe.com/) or [PayPal](https://www.paypal.com/) to collect payment or [EasyPost](https://www.easypost.com/) to manage shipping. Please note that WooPayments is powered by Stripe. If you use WooPayments or any third-party services, some of your — and your customers’ — data may be submitted directly to or passed to the respective third party, and the respective third party’s terms of service, privacy policy, and other policies may apply. For example, [Payments](https://wordpress.com/support/wordpress-editor/blocks/payments/) requires a Stripe account to manage payments, and when you use Stripe, you agree to [their terms and policies](https://stripe.com/legal). Please note that third-party services may also charge you fees to use or access their services, [as Stripe does for Payments](https://wordpress.com/support/wordpress-editor/blocks/payments/#related-fees).
 
-We’re not involved in these relationships, but may facilitate transactions or communication. For example, we may, on your behalf, receive notices or forms relating to your Stripe account.
+While we may license you relevant extensions, we’re not involved in any third-party services tied to those extensions. We may, nonetheless, facilitate transactions or communication with the third-party service provider. For example, we may, on your behalf, receive notices or forms relating to your Stripe account.
 
 Some of these third party services may be enabled by default, but you can disable them before launching your store if you don’t want to use them.
 
@@ -345,15 +347,15 @@ The Agreement doesn’t transfer any Automattic or third-party intellectual prop
 11\. Third-Party Services
 -------------------------
 
-While using the Services, you may enable, use, or purchase services, products, software, embeds, or applications (like themes, extensions, plugins, blocks, or point-of-sale terminals) provided or manufactured by a third party or yourself (”Third-Party Services”).
+While using the Services, you may enable, use, or purchase services, products, software, embeds, or applications (like themes, extensions, plugins, blocks, or point-of-sale terminals) provided or manufactured by a third party or yourself (”Third-Party Services”). Certain Third-Party Services will indicate that they are sold or licensed by Automattic with support provided by Automattic.
 
 If you use any Third-Party Services, you understand and agree that:
 
 -   Third-Party Services aren’t vetted, endorsed, or controlled by Automattic.
--   Any use of a Third-Party Service is at your own risk, and we won’t be responsible or liable to you or anyone else for Third-Party Services.
+-   Unless we have indicated that Automattic is providing support for it, any use of a Third-Party Service is at your own risk, and we won’t be responsible or liable to you or anyone else for Third-Party Services.
 -   Even if you purchase a third-party extension through a marketplace we operate, any services related to that extension are subject to and governed by the terms and policies of the third party (”Third Party”).
 -   Some Third-Party Services may request or require access to your data — or to your visitors’ or customers’ data — through things like pixels or cookies. If you use the Third-Party Service or grant them access, the data will be handled in accordance with the Third Party’s privacy policy and practices, which you should carefully review before you use any Third-Party Services. Third-Party Services may not work appropriately with our Services and we may not be able to provide support for issues caused by any Third-Party Services.
--   If you have questions or concerns about how a Third-Party Service operates or need support, contact the Third Party directly.
+-   If you have questions or concerns about how a Third-Party Service operates or need support, contact the Third Party directly unless it is indicated that Automattic provides support for it.
 
 In rare cases we may at our discretion, suspend, disable, or remove Third-Party Services from your account or website.
 
