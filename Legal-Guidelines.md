@@ -89,9 +89,31 @@ If we receive information indicating that someone is using WordPress.com or any 
 
 ### Serving Process on WordPress.com and Making Inquiries
 
-Any request for user information must include a valid email address for us to return the information or contact with questions. We are unable to process overly broad or vague requests for information. To request information for a site hosted on WordPress.com, the request must specifically include identifying information such as the relevant URL, IP address, email address, or username at issue. To obtain information for a specific post or comment, the URL of that post or comment must be included in the request.  WordPress.com communicates only via email. Where permitted, we accept service via email to legal@wordpress.com. Legal process can also be served by mail to: Automattic Inc.  60 29th Street #343  San Francisco, CA 94110 If you need to serve us personally, you can do so at: C T Corporation System  330 N Brand Blvd. Glendale, California 912023-2336. General inquiries regarding our policies can be sent via email to legal@wordpress.com. If you need to serve legal process regarding Tumblr, or you are a law enforcement official seeking Tumblr user records, you may learn more about the [Law Enforcement Guidelines here](https://www.tumblr.com/docs/en/law_enforcement).
+Any request for user information must include a valid email address for us to return the information or contact with questions. We are unable to process overly broad or vague requests for information. To request information for a site hosted on WordPress.com, the request must specifically include identifying information such as the relevant URL, IP address, email address, or username at issue. To obtain information for a specific post or comment, the URL of that post or comment must be included in the request. 
 
+WordPress.com communicates only via email.
 
+Where permitted, we accept service via email to legal@wordpress.com.
+
+Legal process can also be served by mail to:
+
+Automattic Inc.
+60 29th Street #343
+San Francisco, CA 94110
+
+If you need to serve us personally, you can do so at:
+
+C T Corporation System
+330 N Brand Blvd.
+Glendale, California 91023-2336
+
+General inquiries regarding our policies can be sent via email to legal@wordpress.com.
+
+If you are looking for our Legal Notice (Impressum) information, you can find that [here](https://wordpress.com/support/automattic-inc/).
+
+If you are an authority from an EU member state and are making an inquiry, please email us at legal@wordpress.com.
+
+If you need to serve legal process regarding Tumblr, or you are a law enforcement official seeking Tumblr user records, you may learn more about the [Tumblr Legal Guidelines here](https://www.tumblr.com/docs/en/law_enforcement).
 
 ### Requests for Takedown of Content
 
