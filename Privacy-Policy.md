@@ -182,7 +182,7 @@ You also have the right to make a complaint to a government supervisory authorit
 
 #### *US Privacy Laws*
 
-Laws in some US states, including California, Colorado, Connecticut, Utah, and Virginia, require us to provide residents with additional information about the categories of personal information we collect and share, where we get that personal information, and how and why we use it. You'll find that information in this section (if you are a California resident, please note that this is the Notice at Collection we are required to provide you under California law).
+Laws in some US states require us to provide residents with additional information about the categories of personal information we collect and share, where we get that personal information, and how and why we use it. You'll find that information in this section (if you are a California resident, please note that this is the Notice at Collection we are required to provide you under California law).
 
 In the last 12 months, we collected the following categories of personal information, depending on the Services used:
 
@@ -246,7 +246,7 @@ In some circumstances we may deny your request to exercise one of these rights. 
 
 In the event that we deny your request, we will communicate this fact to you in writing. You may appeal our decision by responding in writing to our denial email and stating that you would like to appeal. All appeals will be reviewed by an internal expert who was not involved in your original request. In the event that your appeal is also denied this information will be communicated to you in writing.  Please note that the appeal process does not apply to job applicants.
 
-If your appeal is denied, in some US states (Colorado, Connecticut, and Virginia) you may refer the denied appeal to the state attorney general if you believe the denial is in conflict with your legal rights. The process for how to do this will be communicated to you in writing at the same time we send you our decision about your appeal.
+If your appeal is denied, in some US states you may refer the denied appeal to the state attorney general if you believe the denial is in conflict with your legal rights. The process for how to do this will be communicated to you in writing at the same time we send you our decision about your appeal.
 
 ### Controllers and Responsible Companies
 
