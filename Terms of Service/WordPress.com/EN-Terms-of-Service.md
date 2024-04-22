@@ -18,7 +18,7 @@ We’ve made these Terms available under a [Creative Commons Sharealike license]
 Terms of Service
 ----------------
 
-These Terms govern your access to and use of the products and services we provide through or for [WordPress.com](https://wordpress.com/), [Woo.com](https://woocommerce.com/), [WooPay](https://pay.woo.com/), [Jetpack.com](https://jetpack.com/), [Gravatar.com](https://gravatar.com/), [VaultPress.com](https://vaultpress.com/), [Happy.Tools](https://happy.tools/), [Jetpack CRM](https://jetpackcrm.com/), [MailPoet](http://mailpoet.com/), [WPScan.com](https://wpscan.com/), and [WordPress.com Courses](https://wpcourses.com/) (such products and services, collectively, “Services”). Please note that Woo-related products and services are intended for commercial use and you acknowledge that your use is that of a representative of a business (as defined by applicable law) and not that of a consumer.
+These Terms govern your access to and use of the software, applications, extensions, and other products and services we provide through or for [WordPress.com](https://wordpress.com/), [WooCommcerce.com](https://woocommerce.com/), [WooPay](https://pay.woo.com/), [Jetpack.com](https://jetpack.com/), [Gravatar.com](https://gravatar.com/), [VaultPress.com](https://vaultpress.com/), [Happy.Tools](https://happy.tools/), [Jetpack CRM](https://jetpackcrm.com/), [MailPoet](http://mailpoet.com/), [WPScan.com](https://wpscan.com/), [Studio](https://developer.wordpress.com/studio/), and [WordPress.com Courses](https://wpcourses.com/) (our “Services”). Please note that Woo-related products and services are intended for commercial use and you acknowledge that your use is that of a representative of a business (as defined by applicable law) and not that of a consumer.
 
 These Terms also govern visitors’ access to and use of any websites that use our Services, like the websites that our users create on WordPress.com. Please note though that the operators of those websites may also have their own separate terms of use.
 
@@ -40,7 +40,7 @@ Please see below to determine which entity your Agreement is with, which depends
 
 **Woo Services**
 
-*Woo services includes WooCommerce, WooPayments, Woo Shipping, Woo Tax, MailPoet, and other products or services available at Woo.com. (Please note that for the use of Third-Party Services — as defined below — additional terms may govern).*
+*Woo services includes WooCommerce, WooPayments, Woo Shipping, Woo Tax, MailPoet, and other products or services available at WooCommerce.com. (Please note that for the use of Third-Party Services — as defined below — additional terms may govern).*
 
 -   If you reside outside of the Designated Countries: WooCommerce, Inc.
 -   If you reside in the Designated Countries: WooCommerce Ireland Ltd.
@@ -188,13 +188,13 @@ If we provide you with a refund for your purchase of Built By WordPress.com Expr
 
 ### b. Woo
 
-Woo is an open source, customizable ecommerce platform. The Services we offer at Woo.com give you the power to sell your products and services in whatever way your business needs.
+Woo is an open source, customizable ecommerce platform. The Services we offer at WooCommerce.com give you the power to sell your products and services in whatever way your business needs.
 
 Your use of certain Services offered via Woo, like those related to tax calculation, payment, and shipping, may require a Jetpack connection to function. If you enable those features, the Jetpack-specific terms also apply.
 
 **Extensions. **The software in the extensions available in the Woo Marketplace is licensed under GPL. Extensions may have their own requirements (like requiring a connection to their servers in order to provide their services) and terms that apply.
 
-**Compatibility, access, updates, and support.** When you purchase Paid Services from Woo.com, you’ll receive access to any necessary downloads along with updates and support (as described in our [Support Policy](https://woocommerce.com/support-policy/)) for those Paid Services for a period of one year, starting on the date of your purchase. Once your year is up, you’ll need to renew your subscription if you’d like continued access to updates or support, or if you need to download any files again.When you purchase Woo Paid Services as part of a Jetpack subscription or bundle, you’ll have access to them as long as you have an active Jetpack plan.
+**Compatibility, access, updates, and support.** When you purchase Paid Services from WooCommerce.com, you’ll receive access to any necessary downloads along with updates and support (as described in our [Support Policy](https://woocommerce.com/support-policy/)) for those Paid Services for a period of one year, starting on the date of your purchase. Once your year is up, you’ll need to renew your subscription if you’d like continued access to updates or support, or if you need to download any files again.When you purchase Woo Paid Services as part of a Jetpack subscription or bundle, you’ll have access to them as long as you have an active Jetpack plan.
 
 Please note that extensions and themes are purchased and handled separately, and may function independently. While many work well in tandem, that may not always be the case.
 
