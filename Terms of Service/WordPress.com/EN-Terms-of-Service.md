@@ -1,7 +1,7 @@
 Terms of Service
 ----------------
 
-*Last Updated: April 22, 2024*
+*Last Updated: May 6, 2024*
 
 The Gist
 --------
@@ -156,7 +156,7 @@ If you find a WordPress.com website that you believe violates these Terms, pleas
 
 **Your WordPress.com Website’s URL.** If you create a website on WordPress.com, you get free use of an Automattic-owned subdomain, like yourgroovysite.wordpress.com or mollys.food.blog. You must not engage in “domain squatting,” claim an unreasonable number of subdomains (as determined by us), or sell access to any subdomains.
 
-**License.** By uploading or sharing Content, you grant us a worldwide, royalty-free, transferable, sub-licensable, and non-exclusive license to use, reproduce, modify, distribute, adapt, publicly display, and publish the Content solely for the purpose of providing and improving our products and Services and promoting your website. This license also allows us to make any publicly-posted Content available to select third parties (through [Firehose](https://developer.wordpress.com/docs/firehose/), for example) so that these third parties can analyze and distribute (but not publicly display) the Content through their services. You also give other WordPress.com users permission to share your Content on other WordPress.com websites and add their own Content to it (aka to “reblog” your Content), so long as they use only a portion of your post and they give you credit as the original author by linking back to your website, which the [reblogging](https://en.support.wordpress.com/reblogs/) function on WordPress.com does automatically.
+**License.** By uploading or sharing Content, you grant us a worldwide, royalty-free, transferable, sub-licensable, and non-exclusive license to use, reproduce, modify, distribute, adapt, publicly display, and publish the Content solely for the purpose of providing and improving our products and Services and promoting your website. This license also allows us to make any publicly-posted Content available to select third parties so that these third parties can analyze and distribute (but not publicly display) the Content through their services. You also give other WordPress.com users permission to share your Content on other WordPress.com websites and add their own Content to it (aka to “reblog” your Content), so long as they use only a portion of your post and they give you credit as the original author by linking back to your website, which the [reblogging](https://en.support.wordpress.com/reblogs/) function on WordPress.com does automatically.
 
 **Removing Content.** If you delete Content, we’ll use reasonable efforts to remove it from public view (or in the case of a private website, from view by the authorized visitors) on WordPress.com, but you acknowledge that cached versions of the Content or references to the Content may not be immediately unavailable.
 
@@ -210,13 +210,11 @@ Even when your saved WooPay information is used for a transaction, the transacti
 
 Jetpack supercharges your site by connecting to our infrastructure, either via a Jetpack connection or via various Jetpack plugins developed by Automattic (like Jetpack, Jetpack Boost, and Jetpack Search). To take advantage of the valuable features of Jetpack, your website is synced with our servers, as described on our [What Data Does Jetpack Sync? support page](https://jetpack.com/support/what-data-does-jetpack-sync/). Any content you publish on a self-hosted website connected to Jetpack (”Jetpack Content”) remains under your ownership and control.
 
-**Features and Enhanced Distribution.** Jetpack includes various features, some of which are [on by default](https://jetpack.com/support/default-features/) when you activate Jetpack, and others that you need to enable manually. You can see your active features and choose which to activate or deactivate on your dashboard.
-
-The [Enhanced Distribution](https://jetpack.com/support/enhanced-distribution/) feature is on by default and aggregates public Jetpack Content to the WordPress.com Firehose. You can disable this at any time by following [these instructions](https://jetpack.com/support/control-jetpack-features-on-one-page/). If you leave this feature activated, you grant us permission to display your Jetpack Content on WordPress.com.
+Jetpack includes various features, some of which are [on by default](https://jetpack.com/support/default-features/) when you activate Jetpack, and others that you need to enable manually. You can see your active features and choose which to activate or deactivate on your dashboard.
 
 **License.** By using Jetpack, you grant us access to your website’s servers for the purpose of backing up, taking measures to protect and scanning your Jetpack Content, and restoring files and database information (which may include access details for multiple servers or accounts for each website that we backup). Jetpack may temporarily install extra software on your website to back up your website and scan it for security vulnerabilities. In order to address security vulnerabilities, we may automatically update your version of Jetpack or access your website to remove malicious code. We may also manually access your site to troubleshoot your support requests, or if there’s an emergency. You agree that we may scan your website and compile aggregated/anonymized statistics for our internal use (such as to optimize Jetpack’s performance).
 
-You grant us a worldwide, royalty-free, transferable, sub-licensable, non-exclusive license to use, reproduce, modify, distribute, adapt, publicly display, publish, copy, and store Jetpack Content for the purpose of providing and improving our products and Services and promoting your websites. This license also allows us to make any publicly-posted Content available to select third parties (through [Firehose](https://developer.wordpress.com/docs/firehose/), for example) so that these third parties can analyze and distribute (but not publicly display) the Content through their services.
+You grant us a worldwide, royalty-free, transferable, sub-licensable, non-exclusive license to use, reproduce, modify, distribute, adapt, publicly display, publish, copy, and store Jetpack Content for the purpose of providing and improving our products and Services and promoting your websites. This license also allows us to make any publicly-posted Content available to select third parties so that these third parties can analyze and distribute (but not publicly display) the Content through their services.
 
 **Prohibited Uses.** Your website and Jetpack Content must comply with [Jetpack’s Service Guidelines](https://jetpack.com/service-guidelines/).
 
