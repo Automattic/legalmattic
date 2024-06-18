@@ -1,7 +1,7 @@
 Terms of Service
 ----------------
 
-*Last Updated: April 22, 2024*
+*Last Updated: June 18, 2024*
 
 The Gist
 --------
@@ -18,7 +18,7 @@ We’ve made these Terms available under a [Creative Commons Sharealike license]
 Terms of Service
 ----------------
 
-These Terms govern your access to and use of the software, applications, extensions, and other products and services we provide through or for [WordPress.com](https://wordpress.com/), [WooCommcerce.com](https://woocommerce.com/), [WooPay](https://pay.woo.com/), [Jetpack.com](https://jetpack.com/), [Gravatar.com](https://gravatar.com/), [VaultPress.com](https://vaultpress.com/), [Happy.Tools](https://happy.tools/), [Jetpack CRM](https://jetpackcrm.com/), [MailPoet](http://mailpoet.com/), [WPScan.com](https://wpscan.com/), [Studio](https://developer.wordpress.com/studio/), and [WordPress.com Courses](https://wpcourses.com/) (our “Services”). Please note that Woo-related products and services are intended for commercial use and you acknowledge that your use is that of a representative of a business (as defined by applicable law) and not that of a consumer.
+These Terms govern your access to and use of the software, applications, extensions, and other products and services we provide through or for [WordPress.com](https://wordpress.com/), [WooCommcerce.com](https://woocommerce.com/), [WooPay](https://pay.woo.com/), [Jetpack.com](https://jetpack.com/), [Gravatar.com](https://gravatar.com/), [VaultPress.com](https://vaultpress.com/), [Happy.Tools](https://happy.tools/), [Jetpack CRM](https://jetpackcrm.com/), [MailPoet](http://mailpoet.com/), [WPScan.com](https://wpscan.com/), [Studio](https://developer.wordpress.com/studio/), [WordPress.com Courses](https://wpcourses.com/), and [BlazePro.com](https://blazepro.com) (our “Services”). Please note that Woo-related products and services are intended for commercial use and you acknowledge that your use is that of a representative of a business (as defined by applicable law) and not that of a consumer.
 
 These Terms also govern visitors’ access to and use of any websites that use our Services, like the websites that our users create on WordPress.com. Please note though that the operators of those websites may also have their own separate terms of use.
 
@@ -238,9 +238,9 @@ VaultPress is a subscription-based security and backup service for self-hosted W
 
 You also grant us a worldwide, royalty-free, transferable, sub-licensable, and non-exclusive license to use, reproduce, modify, distribute, adapt, and store your VaultPress Content for the purpose of operating and improving our products and Services.
 
-### g. Blaze
+### g. Blaze and Blaze Pro
 
-Blaze enables you to advertise on some of the millions of pages across WordPress.com, Tumblr, and sites enrolled in [WordAds](https://wordads.co/). If you use Blaze (which may be available through our other Services), you must comply with our [advertising policy](https://automattic.com/advertising-policy/).
+Blaze and Blaze Pro enable you to advertise on some of the millions of pages across our Services. For example, Blaze campaigns mayb be shown on WordPress.com, Tumblr, and sites enrolled in [WordAds](https://wordads.co/). If you use Blaze (which may be available through our other Services) or Blaze Pro, you must comply with our [advertising policy](https://automattic.com/advertising-policy/).
 
 ### h. Ecommerce Services
 
