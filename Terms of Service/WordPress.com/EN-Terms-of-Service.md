@@ -1,7 +1,7 @@
 Terms of Service
 ----------------
 
-*Last Updated: June 18, 2024*
+*Last Updated: June 11, 2025*
 
 The Gist
 --------
@@ -18,7 +18,7 @@ We’ve made these Terms available under a [Creative Commons Sharealike license]
 Terms of Service
 ----------------
 
-These Terms govern your access to and use of the software, applications, extensions, and other products and services we provide through or for [WordPress.com](https://wordpress.com/), [WooCommcerce.com](https://woocommerce.com/), [WooPay](https://pay.woo.com/), [Jetpack.com](https://jetpack.com/), [Gravatar.com](https://gravatar.com/), [VaultPress.com](https://vaultpress.com/), [Happy.Tools](https://happy.tools/), [Jetpack CRM](https://jetpackcrm.com/), [MailPoet](http://mailpoet.com/), [WPScan.com](https://wpscan.com/), [Studio](https://developer.wordpress.com/studio/), [WordPress.com Courses](https://wpcourses.com/), and [BlazePro.com](https://blazepro.com) (our “Services”). Please note that Woo-related products and services are intended for commercial use and you acknowledge that your use is that of a representative of a business (as defined by applicable law) and not that of a consumer.
+These Terms govern your access to and use of the software, applications, extensions, and other products and services we provide through or for [WordPress.com](https://wordpress.com/), [WooCommcerce.com](https://woocommerce.com/), [WooPay](https://pay.woo.com/), [Jetpack.com](https://jetpack.com/), [Gravatar.com](https://gravatar.com/), [VaultPress.com](https://vaultpress.com/), [Happy.Tools](https://happy.tools/), [Jetpack CRM](https://jetpackcrm.com/), [MailPoet](http://mailpoet.com/), [WPScan.com](https://wpscan.com/), [Studio](https://developer.wordpress.com/studio/), [WordPress.com Courses](https://wpcourses.com/), [BlazePro.com](https://blazepro.com),[QuickForget.com](https://quickforget.com) and (our “Services”). Please note that Woo-related products and services are intended for commercial use and you acknowledge that your use is that of a representative of a business (as defined by applicable law) and not that of a consumer.
 
 These Terms also govern visitors’ access to and use of any websites that use our Services, like the websites that our users create on WordPress.com. Please note though that the operators of those websites may also have their own separate terms of use.
 
@@ -40,23 +40,23 @@ Please see below to determine which entity your Agreement is with, which depends
 
 **Woo Services**
 
-*Woo services includes WooCommerce, WooPayments, Woo Shipping, Woo Tax, MailPoet, and other products or services available at WooCommerce.com. (Please note that for the use of Third-Party Services — as defined below — additional terms may govern).*
+*Woo services includes WooCommerce, WooPayments, WooCommerce Shipping, WooCommerce Tax, MailPoet, and other products or services available at WooCommerce.com. (Please note that for the use of Third-Party Services — as defined below — additional terms may govern).*
 
 -   If you reside outside of the Designated Countries: WooCommerce, Inc.
 -   If you reside in the Designated Countries: WooCommerce Ireland Ltd.
 
 We refer to Automattic Inc., Aut O’Mattic A8C Ireland Ltd., WooCommerce, Inc., and WooCommerce Ireland Ltd. collectively as “Automattic,” “us,” or “we” throughout these Terms.
 
-2\. Your Account
+2\. Your Use of Our Services and Your Account
 ----------------
 
 When using our Services requires an account, you agree to provide us with complete and accurate information and to keep the information current so that we can communicate with you about your account. We may need to send you emails about notable updates (like changes to our Terms of Service or Privacy Policy), or to let you know about legal inquiries or complaints we receive about the ways you use our Services so you can make informed choices in response.
 
 We may limit your access to our Services until we’re able to verify your account information, like your email address.
 
-When you create a WordPress.com account, we consider that to be an inquiry about our products and services, which means that we may also contact you to share more details about what we have to offer (i.e., marketing). Don’t worry — if you aren’t interested, you can opt out of the marketing communications, whether it’s an email, phone call, or text message.
+When you create an account, we consider that to be an inquiry about our products and services, which means that we may also contact you to share more details about what we have to offer (i.e., marketing). Don’t worry — if you aren’t interested, you can opt out of the marketing communications, whether it’s an email, phone call, or text message.
 
-You’re solely responsible and liable for all activity under your account. You’re also fully responsible for maintaining the security of your account (which includes keeping your password secure). We’re not liable for any acts or omissions by you, including any damages of any kind incurred as a result of your acts or omissions. If you get fired because of a blog post you write about your boss, that’s on you.
+You’re solely responsible and liable for your use of our Services and all activity under your account. You’re also fully responsible for using our Services securely and maintaining the security of your account as well as the security of any physical hardware or connected devices (which, among other things, includes keeping your password secure and your devices and apps up to date).
 
 Don’t share or misuse your access credentials. And notify us immediately of any unauthorized uses of your account, store, or website, or of any other breach of security. If we believe your account has been compromised, we may suspend or disable it.
 
@@ -82,6 +82,8 @@ We haven’t reviewed, and can’t review, all of the content (like text, photo,
 
 Please note that additional third-party terms and conditions may apply to Content you download, copy, purchase, or use.
 
+If you delete Content, we’ll use reasonable efforts to remove it from public view, but you acknowledge that cached versions of the Content or references to the Content may not be immediately unavailable.
+
 5\. Fees, Payment, and Renewal
 ------------------------------
 
@@ -89,7 +91,7 @@ Please note that additional third-party terms and conditions may apply to Conten
 
 **Fees for Paid Services.** Some of our Services are offered for a fee, like certain [WordPress.com plans](https://wordpress.com/pricing/) or Woo themes or extensions (collectively, “Paid Services”). This section applies to any purchases of Paid Services.
 
-By using a Paid Service, you agree to pay the specified fees. Depending on the Paid Service, there may be different kinds of fees, like some that are one-time, recurring, revenue-based, or based on an advertising campaign budget that you set. For recurring fees (AKA subscriptions), your subscription begins on your purchase date, and we’ll bill or charge you in the automatically-renewing interval (such as monthly, annually, or biennially) you select, on a pre-pay basis until you cancel, which you can do at any time by contacting the relevant support team. For revenue-based fees — such as [fees for the Payments feature](https://wordpress.com/support/wordpress-editor/blocks/payments/#related-fees) — you pay us a percentage of the revenue your website generates. Revenue-based fees are ongoing.
+By using a Paid Service, you agree to pay the specified fees. Depending on the Paid Service, there may be different kinds of fees, like some that are one-time, recurring, revenue-based, usage-based, or based on an advertising campaign budget that you set. For recurring fees (AKA subscriptions), your subscription begins on your purchase date, and we’ll bill or charge you in the automatically-renewing interval (such as monthly, annually, or biennially) you select, on a pre-pay basis until you cancel, which you can do at any time by contacting the relevant support team. For revenue-based fees — such as [fees for the Payments feature](https://wordpress.com/support/wordpress-editor/blocks/payments/#related-fees) — you pay us a percentage of the revenue your website generates. Revenue-based fees are ongoing. Where we invoice you for any Paid Services, you will pay all amounts due within the required time frame.
 
 **Taxes.** To the extent permitted by law, or unless explicitly stated otherwise, all fees do not include applicable federal, provincial, state, local or other governmental sales, value-added, goods and services, harmonized or other taxes, fees, or charges (”Taxes”). You’re responsible for paying all applicable Taxes relating to your use of our Services, your payments, or your purchases. If we’re obligated to pay or collect Taxes on the fees you’ve paid or will pay, you’re responsible for those Taxes, and we may collect payment from you.
 
@@ -156,9 +158,7 @@ If you find a WordPress.com website that you believe violates these Terms, pleas
 
 **Your WordPress.com Website’s URL.** If you create a website on WordPress.com, you get free use of an Automattic-owned subdomain, like yourgroovysite.wordpress.com or mollys.food.blog. You must not engage in “domain squatting,” claim an unreasonable number of subdomains (as determined by us), or sell access to any subdomains.
 
-**License.** By uploading or sharing Content, you grant us a worldwide, royalty-free, transferable, sub-licensable, and non-exclusive license to use, reproduce, modify, distribute, adapt, publicly display, and publish the Content solely for the purpose of providing and improving our products and Services and promoting your website. This license also allows us to make any publicly-posted Content available to select third parties (through [Firehose](https://developer.wordpress.com/docs/firehose/), for example) so that these third parties can analyze and distribute (but not publicly display) the Content through their services. You also give other WordPress.com users permission to share your Content on other WordPress.com websites and add their own Content to it (aka to “reblog” your Content), so long as they use only a portion of your post and they give you credit as the original author by linking back to your website, which the [reblogging](https://en.support.wordpress.com/reblogs/) function on WordPress.com does automatically.
-
-**Removing Content.** If you delete Content, we’ll use reasonable efforts to remove it from public view (or in the case of a private website, from view by the authorized visitors) on WordPress.com, but you acknowledge that cached versions of the Content or references to the Content may not be immediately unavailable.
+**License.** You grant us a worldwide, royalty-free, transferable, sub-licensable, and non-exclusive license to use, reproduce, modify, distribute, adapt, publicly display, and publish the Content for the purpose of providing and improving our products and Services and promoting your website Content. This license also allows us to make any publicly-posted Content available to select third parties (through [Firehose](https://developer.wordpress.com/docs/firehose/), for example) so that third parties can analyze and/or distribute (but not publicly display) the Content. See our [Privacy Settings support page](https://wordpress.com/support/privacy-settings/#prevent-third-party-sharing) for more information on the choices you have regarding sharing your Content with certain third parties. You also give other WordPress.com users permission to share your Content on other WordPress.com websites and add their own Content to it (aka to “reblog” your Content), so long as they use only a portion of your post and they give you credit as the original author by linking back to your website, which the [reblogging](https://en.support.wordpress.com/reblogs/) function on WordPress.com does automatically.
 
 **Web Traffic.** We may use a third-party service to measure WordPress.com’s audience and usage. By having your website on WordPress.com, you agree to assign the traffic for your website to Automattic, and you authorize us to sign a Traffic Assignment Letter on your behalf. This means that your website’s traffic may be included under Automattic, your website may not receive credit for traffic in the respective reports, and you must not assign your website’s traffic to any other party. If we require additional documentation to verify ownership of your website or domain name, you agree to make reasonable efforts to provide it.
 
@@ -172,6 +172,10 @@ If you find a WordPress.com website that you believe violates these Terms, pleas
 
 **Professional Email. **Your use of Professional Email is subject to Titan’s (Flock FZLLC) policies, including Titan’s [Customer Terms of Use](https://support.titan.email/hc/en-us/articles/360038024254-Titan-Customer-Terms-of-Use) (for owners of the email subscription), [End User Terms of Use](https://support.titan.email/hc/en-us/articles/900000761843-Titan-End-User-Terms-of-Use-) (for individuals granted access to mailboxes created by the subscription owner), [Acceptable Use Policy](https://support.titan.email/hc/en-us/articles/900000775226-Titan-Acceptable-Use-Policy), and [Privacy Policy](https://support.titan.email/hc/en-us/articles/360038535773-Titan-Privacy-Policy) in addition to these Terms. We make no warranties related to these services and disclaim any obligations or actions of Titan under their policies.
 
+**Website Design Services.** By purchasing our website design services — where our experts may set up or design your website for you — you have read and understand the respective details and policies relating to the service, like [these details](https://wordpress.com/support/website-design-service/) about our Express Website Design Service, including our [content guidelines](https://wordpress.com/support/website-design-service/#content-guidelines) and the fact that the website (including any design, layout, or web development) we produce is provided “as-is.” Although we’re setting up a website for you, you remain solely responsible for the content on your site and any materials, information, or other data on your site. We do not provide approval or validation of your website or its content by providing our services.
+
+If we provide you with a refund for your purchase of our design services, you may not use the website or its layout, web design, content, or other development we have provided to you, and we reserve the right to delete or revert the website to its previous state.
+
 **Domain Names.** We act as a registrar and also work with third-party registrars to provide domain name services. When you register a domain on WordPress.com or transfer an existing domain to WordPress.com, the [policies of the respective registry](https://en.support.wordpress.com/registry-policies/) apply, and you become bound by the relevant registrar’s terms and conditions. Depending on the domain, you may be subject to the terms of the [Automattic Domain Name Registration Agreement](https://wordpress.com/automattic-domain-name-registration-agreement/), [Key-Systems GmbH Registration Agreement](https://www.rrpproxy.net/Legal/Registration_Agreement), [Tucows Domain Inc. Registration Agreement](https://opensrs.com/wp-content/uploads/Tucows_ExhibitA.html), or [this Domain Name Registration Agreement](https://www.secureserver.net/legal-agreement?id=reg_sa&pageid=reg_sa&pl_id=391143), in addition to these Terms. When you register a domain, you’re presented with and must agree to the applicable domain registration agreement. If you didn’t make a note of it, you can look it up at any time. Please see [the Domain Registration Agreements page](http://en.support.wordpress.com/domain-registration-agreements) for instructions on how to determine which domain registration agreements apply to you and your domains. These registrar terms are incorporated by reference into these Terms.
 
 Your domain is also subject to the policies of the Internet Corporation for Assigned Names and Numbers (”ICANN”). You can read about [your rights and responsibilities as a domain name registrant](http://www.icann.org/en/resources/registrars/registrant-rights/benefits) under ICANN’s Registrar Accreditation Agreement and about [domain name registration generally](https://www.icann.org/resources/pages/educational-2012-02-25-en).
@@ -182,11 +186,16 @@ For information about fees associated with domain registrations, renewals, and r
 
 When you register a domain, you’re required to provide complete and accurate registration information, and you must keep this information current. In most cases, the contact information you provide as part of the registration process will be used as your administrative contact, technical contact, and billing contact for the domain. You can [update your domain contact information](https://wordpress.com/support/update-contact-information/) at any time. If the domain contact information differs from your WordPress.com account information, we consider the administrative contact in your [domain contact information](https://wordpress.com/support/update-contact-information/) to be the owner of the domain, with full authority to manage it.
 
-**Built By WordPress.com Express.** By purchasing Built By WordPress.com Express — where our experts set up your website for you — you have read and understand [these details about the service](https://wordpress.com/support/website-design-service/), including our [content guidelines](https://wordpress.com/support/website-design-service/#content-guidelines) and the fact that the website (including any design, layout, or web development) we produce is provided “as-is.” Although we’re setting up a website for you, you remain solely responsible for the content on your site and any materials, information, or other data on your site. We do not provide approval or validation of your website or its content by providing our services.
+### b. Gravatar
 
-If we provide you with a refund for your purchase of Built By WordPress.com Express, you may not use the website or its layout, web design, content, or other development we have provided to you, and we reserve the right to delete or revert the website to its previous state.
+Your [Gravatar](https://gravatar.com/) (Globally Recognized Avatar — get it? :) ), is your free profile for the web that is connected to your WordPress.com account. If you don’t already have a WordPress.com account, you’re creating one when you sign up for Gravatar. 
 
-### b. Woo
+By default, information you include in your Gravatar is public, including your email address, which means that anyone can [look up your Gravatar profile with your email address](https://gravatar.com/site/check/). You can manage your Gravatar profile at WordPress.com [here](https://wordpress.com/me) and at [Gravatar.com](https://gravatar.com/). You can also [make your Gravatar profile private](https://support.gravatar.com/profiles/profile-access/) or [disable your Gravatar account](https://support.gravatar.com/account/disable-account/).
+
+License. You grant us a worldwide, royalty-free, transferable, sub-licensable, and non-exclusive license to use, reproduce, modify, distribute, adapt, publicly display, and publish the Content for the purpose of providing and improving our products and Services and promoting your profile (including via the API).
+Prohibited Uses. Your Content and conduct must not violate the Gravatar User Guidelines.
+
+### c. Woo
 
 Woo is an open source, customizable ecommerce platform. The Services we offer at WooCommerce.com give you the power to sell your products and services in whatever way your business needs.
 
@@ -198,7 +207,7 @@ Your use of certain Services offered via Woo, like those related to tax calculat
 
 Please note that extensions and themes are purchased and handled separately, and may function independently. While many work well in tandem, that may not always be the case.
 
-### c. WooPay
+### d. WooPay
 
 WooPay is a service that facilitates faster checkouts on sites using Woo, by enabling you to save some of your information, such as shipping and payment information, for future purchases.
 
@@ -206,7 +215,7 @@ Sites using WooCommerce may offer you the ability to use WooPay. If you elect to
 
 Even when your saved WooPay information is used for a transaction, the transaction remains only between you and the merchant. Requesting the deletion of your WooPay information will not cancel any transactions you have already made or terminate any subscriptions you have already enrolled in. To cancel a transaction or terminate a subscription, you must contact the merchant directly.
 
-### d. Jetpack
+### e. Jetpack
 
 Jetpack supercharges your site by connecting to our infrastructure, either via a Jetpack connection or via various Jetpack plugins developed by Automattic (like Jetpack, Jetpack Boost, and Jetpack Search). To take advantage of the valuable features of Jetpack, your website is synced with our servers, as described on our [What Data Does Jetpack Sync? support page](https://jetpack.com/support/what-data-does-jetpack-sync/). Any content you publish on a self-hosted website connected to Jetpack (”Jetpack Content”) remains under your ownership and control.
 
@@ -216,11 +225,11 @@ The [Enhanced Distribution](https://jetpack.com/support/enhanced-distribution/) 
 
 **License.** By using Jetpack, you grant us access to your website’s servers for the purpose of backing up, taking measures to protect and scanning your Jetpack Content, and restoring files and database information (which may include access details for multiple servers or accounts for each website that we backup). Jetpack may temporarily install extra software on your website to back up your website and scan it for security vulnerabilities. In order to address security vulnerabilities, we may automatically update your version of Jetpack or access your website to remove malicious code. We may also manually access your site to troubleshoot your support requests, or if there’s an emergency. You agree that we may scan your website and compile aggregated/anonymized statistics for our internal use (such as to optimize Jetpack’s performance).
 
-You grant us a worldwide, royalty-free, transferable, sub-licensable, non-exclusive license to use, reproduce, modify, distribute, adapt, publicly display, publish, copy, and store Jetpack Content for the purpose of providing and improving our products and Services and promoting your websites. This license also allows us to make any publicly-posted Content available to select third parties (through [Firehose](https://developer.wordpress.com/docs/firehose/), for example) so that these third parties can analyze and distribute (but not publicly display) the Content through their services.
+You grant us a worldwide, royalty-free, transferable, sub-licensable, non-exclusive license to use, reproduce, modify, distribute, adapt, publicly display, publish, copy, and store Jetpack Content for the purpose of providing and improving our products and Services and promoting your website Content. This license also allows us to make any publicly-posted Content available to select third parties (through [Firehose](https://developer.wordpress.com/docs/firehose/), for example) so that these third parties can analyze and distribute (but not publicly display) the Content through their services.
 
 **Prohibited Uses.** Your website and Jetpack Content must comply with [Jetpack’s Service Guidelines](https://jetpack.com/service-guidelines/).
 
-### e. Jetpack CRM
+### f. Jetpack CRM
 
 Jetpack CRM is an open source, customizable customer relationship management tool built specifically for WordPress sites. Jetpack CRM core is free to install and you can extend the functionality by purchasing premium extensions.
 
@@ -228,7 +237,7 @@ Jetpack CRM is an open source, customizable customer relationship management too
 
 **Reseller Program.** If you use our white label option or participate in our [Reseller Program](https://jetpackcrm.com/reseller/), which allows you to sell Jetpack CRM as your own product, and optionally under your own branding, these [Terms and Conditions](https://app.jetpackcrm.com/app/rebrandr/terms/) apply. Our Reseller Program is priced based on the number of copies you intend to sell. We don’t provide direct support for end users of any licenses you sell as part of our Reseller Program. Unless you participate in our Reseller Program, you’re not allowed to sell our system or extensions.
 
-### f. VaultPress
+### g. VaultPress
 
 VaultPress is a subscription-based security and backup service for self-hosted WordPress websites. VaultPress will back up your WordPress content (e.g., your WordPress database, plugins, themes, and uploads, as well as some additional files, as described in this [introduction to VaultPress](https://help.vaultpress.com/get-to-know/)) (”VaultPress Content”).
 
@@ -238,11 +247,11 @@ VaultPress is a subscription-based security and backup service for self-hosted W
 
 You also grant us a worldwide, royalty-free, transferable, sub-licensable, and non-exclusive license to use, reproduce, modify, distribute, adapt, and store your VaultPress Content for the purpose of operating and improving our products and Services.
 
-### g. Blaze and Blaze Pro
+### h. Blaze and Blaze Pro
 
-Blaze and Blaze Pro enable you to advertise on some of the millions of pages across our Services. For example, Blaze campaigns mayb be shown on WordPress.com, Tumblr, and sites enrolled in [WordAds](https://wordads.co/). If you use Blaze (which may be available through our other Services) or Blaze Pro, you must comply with our [advertising policy](https://automattic.com/advertising-policy/).
+Blaze and Blaze Pro enable you to advertise on some of the millions of pages across our Services. For example, Blaze campaigns mayb be shown on WordPress.com, Tumblr, and sites enrolled in [WordAds](https://wordads.co/). If you use Blaze (which may be available through our other Services) or Blaze Pro, you must comply with our [advertising policy](https://automattic.com/advertising-policy/). Where we invoice you for your campaigns, you will pay all amounts due within thirty (30) days from your receipt of invoice.
 
-### h. Ecommerce Services
+### i. Ecommerce Services
 
 We offer Services via [Woo](https://woocommerce.com/), [WordPress.com](https://wordpress.com/), and [Jetpack](https://jetpack.com/) that enable you to sell items (goods, content, services, etc.), receive payments on your website, or otherwise earn money, like [WooPayments](https://woocommerce.com/payments/), [WooPay](https://pay.woo.com/), and the [Payments feature](https://wordpress.com/support/wordpress-editor/blocks/payments/) (collectively, “Ecommerce Services”).
 
@@ -251,7 +260,7 @@ If you use Ecommerce Services, the terms in this subsection apply, along with th
 **Your responsibilities.** You have control over your store, and with great power comes great responsibility. We’re not involved in your relationships or transactions with any customer or potential customer, and you’re solely responsible for all of your ecommerce activities. Among other things, this means that you:
 
 -   may only use Ecommerce Services for legitimate transactions with your customers.
--   must comply with all applicable laws (such as those relating to automatic renewal or providing consumer disclosures) and agree not to engage in unfair, deceptive, or abusive acts or practices.
+-   must comply with all applicable laws (such as those relating to automatic renewal, providing consumer disclosures, issuing the appropriate receipts, etc.) and agree not to engage in unfair, deceptive, or abusive acts or practices.
 -   are responsible for all products and services you provide, including delivery, support, refunds, returns, providing any appropriate warnings, and ensuring all information you provide is accurate, complete, and current.
 -   must accurately communicate product and transaction details, set expectations appropriately, and fulfill all commitments you’ve made.
 -   are responsible for payment of all applicable Taxes relating to your ecommerce activities and your use of Ecommerce Services. You must collect, report, and/or pay the correct amounts to the appropriate authorities if applicable, and if needed, tell your customers about any Taxes they may be required to pay and issue appropriate invoices.
@@ -291,11 +300,13 @@ Some of these third party services may be enabled by default, but you can disabl
 
 We may refuse, condition, or suspend any transaction or account (including your use of WooPayments) if we believe you have violated the Agreement or that your activities or transactions expose you, us, or others to unacceptable risks, as determined by us in our sole discretion.
 
+We acknowledge responsibility for the security of cardholder data we store, process, or transmit on behalf of WooPayments users, where that data is within our possession or control, and subject to the applicable requirements of the Payment Card Industry Data Security Standard (PCI DSS).
+
 You authorize us to share data relating to WooPayments with the applicable payment processing third party for their use in accordance with their privacy policy. Please refer to our privacy policy for details on how we otherwise collect, use, and disclose data made available to us as part of WooPayments.
 
 We may also offer you the ability to process certain transactions in-person through an in-person payments feature. As part of this feature, you may purchase or we may provide you with a point-of-sale (POS) terminal. These POS terminals are manufactured by third parties and are provided “as-is” and “with all faults.” Neither we nor the third-party manufacturer offers you any warranty on these products.
 
-If you receive a POS terminal, you agree to: (a) use it for your own lawful commercial purposes only, and not for any personal, family, or household use; (b) the [Stripe Terminal Services Terms](https://stripe.com/terminal/legal) and [Stripe Terminal Purchase Terms](https://stripe.com/terminal-purchase/legal) as applicable; (c) comply with all applicable international and national laws and regulations, including applicable customs or export control laws or regulations; (d) use it only within the country that we shipped it to, except that you may use a terminal that was shipped to the European Economic Area in another country in the European Economic Area, if that country is [supported](https://stripe.com/docs/terminal/readers/placing-orders); and (e) if you obtain equipment, software, or accessories branded by Verifone and shipped to you to an address in the United Kingdom or European Economic Area, you agree to comply with the [Verifone Minimum Terms](https://stripe.com/us/verifone/legal), as applicable.
+If you receive a POS terminal, you agree to: (a) use it for your own lawful commercial purposes only, and not for any personal, family, or household use; (b) the [Stripe Terminal Services Terms](https://stripe.com/terminal/legal) and [Stripe Terminal Purchase Terms](https://stripe.com/terminal-purchase/legal) as applicable; (c) comply with all applicable international and national laws and regulations, including applicable customs or export control laws or regulations; (d) use it only within the country that we shipped it to, except that you may use a terminal that was shipped to the European Economic Area in another country in the European Economic Area, if that country is [supported](https://stripe.com/docs/terminal/readers/placing-orders); (e) ensure the latest operating system is running on the POS terminal, and that all applicable security updates and patches have been installed; (f) maintain a current WooCommerce account to be used in conjunction with the POS terminal; (g) refrain from making any unauthorized modifications or alternations to the POS terminal; and (h) if you obtain equipment, software, or accessories branded by Verifone and shipped to you to an address in the United Kingdom or European Economic Area, you agree to comply with the Verifone Minimum Terms, as applicable.
 
 You’ll be responsible for all shipping and handling charges for the POS terminal specified during the ordering process. We may restrict availability based on your region or limit the quantity of POS terminals that you may order. We may reject any order at any time, in which case, we’ll refund what you paid. Risk of loss for the POS terminal passes to you when the shipping carrier receives the terminal from our drop shipper for delivery, and title will transfer to you upon delivery. Shipping and delivery dates are estimates only and cannot be guaranteed. We are not liable for any delays in shipments.
 
@@ -326,13 +337,13 @@ Refunds for unused shipping labels must be requested ([like so for USPS](https:/
 
 You may not transfer or sell postage and/or shipping labels to a third party.
 
-### i. Artificial Intelligence
+### j. Artificial Intelligence
 
-We may offer features that incorporate artificial intelligence (AI), like blocks or plugins that enable you to use AI to generate content or images for your website or store.
+We may offer features that incorporate artificial intelligence (AI) that enable you to use AI to help set up or operate your website or store.
 
 As between you and Automattic, and to the extent permitted by law, you own or have the rights to any content you input into AI features (”Input”) and any content generated by the AI features (”Output”).
 
-You’re responsible for your Input, the use of any Output, and for complying with any applicable laws. AI may occasionally generate Output that’s inaccurate, irrelevant, offensive, harmful, or similar to others’ content. Please see our [AI Guidelines](https://automattic.com/ai-guidelines) for the policies you must comply with when you use AI features, details about the third-party providers we use to provide AI features, and helpful information about AI generally.
+You’re responsible for your Input, the use of any Output, and for complying with any applicable laws, so you must review all Output before using or publishing it. AI may occasionally generate Output that’s inaccurate, irrelevant, offensive, harmful, or similar to others’ content. Please see our [AI Guidelines](https://automattic.com/ai-guidelines) for the policies you must comply with when you use AI features, details about the third-party providers we use to provide AI features, and helpful information about AI generally.
 
 9\. Copyright Policy
 --------------------
