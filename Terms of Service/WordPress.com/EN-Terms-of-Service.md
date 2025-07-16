@@ -1,7 +1,7 @@
 Terms of Service
 ----------------
 
-*Last Updated: June 11, 2025*
+*Last Updated: July 15, 2025*
 
 The Gist
 --------
@@ -18,7 +18,7 @@ We’ve made these Terms available under a [Creative Commons Sharealike license]
 Terms of Service
 ----------------
 
-These Terms govern your access to and use of the software, applications, extensions, and other products and services we provide through or for [WordPress.com](https://wordpress.com/), [WooCommcerce.com](https://woocommerce.com/), [WooPay](https://pay.woo.com/), [Jetpack.com](https://jetpack.com/), [Gravatar.com](https://gravatar.com/), [VaultPress.com](https://vaultpress.com/), [Happy.Tools](https://happy.tools/), [Jetpack CRM](https://jetpackcrm.com/), [MailPoet](http://mailpoet.com/), [WPScan.com](https://wpscan.com/), [Studio](https://developer.wordpress.com/studio/), [WordPress.com Courses](https://wpcourses.com/), [BlazePro.com](https://blazepro.com),[QuickForget.com](https://quickforget.com) and (our “Services”). Please note that Woo-related products and services are intended for commercial use and you acknowledge that your use is that of a representative of a business (as defined by applicable law) and not that of a consumer.
+These Terms govern your access to and use of the software, applications, extensions, and other products and services we provide through or for [WordPress.com](https://wordpress.com/), [WooCommcerce.com](https://woocommerce.com/), [WooPay](https://pay.woo.com/), [Jetpack.com](https://jetpack.com/), [Gravatar.com](https://gravatar.com/), [VaultPress.com](https://vaultpress.com/), [Happy.Tools](https://happy.tools/), [Jetpack CRM](https://jetpackcrm.com/), [MailPoet](http://mailpoet.com/), [WPScan.com](https://wpscan.com/), [Studio](https://developer.wordpress.com/studio/), [WordPress.com Courses](https://wpcourses.com/), [BlazePro.com](https://blazepro.com), [QuickForget.com](https://quickforget.com), and [Beeper](https://beeper.com) (our “Services”). Please note that Woo-related products and services are intended for commercial use and you acknowledge that your use is that of a representative of a business (as defined by applicable law) and not that of a consumer.
 
 These Terms also govern visitors’ access to and use of any websites that use our Services, like the websites that our users create on WordPress.com. Please note though that the operators of those websites may also have their own separate terms of use.
 
@@ -60,7 +60,7 @@ You’re solely responsible and liable for your use of our Services and all acti
 
 Don’t share or misuse your access credentials. And notify us immediately of any unauthorized uses of your account, store, or website, or of any other breach of security. If we believe your account has been compromised, we may suspend or disable it.
 
-If you’d like to learn about how we handle the data you provide us, please see our [Privacy Policy](https://automattic.com/privacy/).
+If you’d like to learn about how we handle the information you provide us, please refer to our [Privacy Policy](https://automattic.com/privacy/).
 
 3\. Minimum Age Requirements
 ----------------------------
@@ -253,7 +253,11 @@ You also grant us a worldwide, royalty-free, transferable, sub-licensable, and n
 
 Blaze and Blaze Pro enable you to advertise on some of the millions of pages across our Services. For example, Blaze campaigns mayb be shown on WordPress.com, Tumblr, and sites enrolled in [WordAds](https://wordads.co/). If you use Blaze (which may be available through our other Services) or Blaze Pro, you must comply with our [advertising policy](https://automattic.com/advertising-policy/). Where we invoice you for your campaigns, you will pay all amounts due within thirty (30) days from your receipt of invoice.
 
-### i. Ecommerce Services
+### i. Beeper
+
+Beeper is a unified inbox and single app for all major messaging networks. For your use of Beeper, the [Beeper Terms of Use](https://www.beeper.com/terms) also apply. If you’d like to learn about how we handle the information you provide us when you use Beeper, please refer to the [Beeper Privacy Policy](https://www.beeper.com/privacy).
+
+### j. Ecommerce Services
 
 We offer Services via [Woo](https://woocommerce.com/), [WordPress.com](https://wordpress.com/), and [Jetpack](https://jetpack.com/) that enable you to sell items (goods, content, services, etc.), receive payments on your website, or otherwise earn money, like [WooPayments](https://woocommerce.com/payments/), [WooPay](https://pay.woo.com/), and the [Payments feature](https://wordpress.com/support/wordpress-editor/blocks/payments/) (collectively, “Ecommerce Services”).
 
@@ -339,7 +343,7 @@ Refunds for unused shipping labels must be requested ([like so for USPS](https:/
 
 You may not transfer or sell postage and/or shipping labels to a third party.
 
-### j. Artificial Intelligence
+### k. Artificial Intelligence
 
 We may offer features that incorporate artificial intelligence (AI) that enable you to use AI to help set up or operate your website or store.
 
