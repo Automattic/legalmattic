@@ -1,7 +1,5 @@
-# Legalmattic
-## Democratizing WordPress.com legalese since 2014
 
-### What is this?
+### What is that?
 This is the source of several "legal documents" on WordPress.com, including the Terms of Service. We'd like our legal documents to embody our vision of the spirit of the web--open and accessible.
 
 ### What can I do with it?
