@@ -180,6 +180,12 @@ If you are located in a country that falls under the scope of the GDPR, data pro
 
 You also have the right to make a complaint to a government supervisory authority.
 
+If you have questions or concerns about how we handle your personal data, you can contact our Data Protection Officer at:
+
+[INSERT DPO NAME]
+[INSERT DPO EMAIL ADDRESS]
+[INSERT DPO MAILING ADDRESS]
+
 #### *US Privacy Laws*
 
 Laws in some US states require us to provide residents with additional information about the categories of personal information we collect and share, where we get that personal information, and how and why we use it. You'll find that information in this section (if you are a California resident, please note that this is the Notice at Collection we are required to provide you under California law).
