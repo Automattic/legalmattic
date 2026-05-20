@@ -1,0 +1,36 @@
+name: Renew interaction limit
+
+# Refreshes the repository's "collaborators_only" interaction limit
+# before its 6-month expiry runs out. Paired with restrict-contributions.yml:
+# this prevents non-Automattic-org users from opening issues/PRs at all,
+# while restrict-contributions.yml auto-closes anything that slips through
+# (e.g. if this job is ever paused or fails).
+
+on:
+  schedule:
+    # 1st of every month at 00:00 UTC
+    - cron: '0 0 1 * *'
+  workflow_dispatch:
+
+permissions:
+  administration: write
+
+jobs:
+  renew:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/github-script@v7
+        with:
+          script: |
+            await github.request('PUT /repos/{owner}/{repo}/interaction-limits', {
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              limit: 'collaborators_only',
+              expiry: 'six_months',
+            });
+
+            const { data } = await github.request(
+              'GET /repos/{owner}/{repo}/interaction-limits',
+              { owner: context.repo.owner, repo: context.repo.repo }
+            );
+            core.info(`Interaction limit: ${data.limit} (expires ${data.expires_at})`);
