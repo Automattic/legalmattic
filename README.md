@@ -7,10 +7,10 @@ This is the source of several "legal documents" on WordPress.com, including the 
 ### What can I do with it?
 Since these documents are licensed under a Creative Commons license (see below for more information), please feel free to re-use and edit these terms to fit your own use. We do ask for a link back so we can help share the source of this license and spread the word further.
 
-If you notice any typos or would like to suggest any changes, please contribute a pull request.
+This repository doesn't accept external contributions. If you've spotted a typo or have a concern, please [contact Automattic support](https://wordpress.com/help/contact).
 
 ### License
-As noted in our license file, the content here is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International license](http://creativecommons.org/licenses/by-sa/4.0/). Please feel free to make alterations via pull-request.
+As noted in our license file, the content here is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International license](http://creativecommons.org/licenses/by-sa/4.0/). You're welcome to reuse and adapt these documents for your own projects under that license.
 
 ### Other Projects
 
