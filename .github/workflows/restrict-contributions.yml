@@ -13,18 +13,26 @@ permissions:
 jobs:
   close-non-member:
     runs-on: ubuntu-latest
-    if: >-
-      github.event.sender.type != 'Bot' &&
-      !contains(fromJSON('["MEMBER", "OWNER", "COLLABORATOR"]'),
-        github.event.pull_request.author_association || github.event.issue.author_association)
     steps:
       - uses: actions/github-script@v7
         with:
           script: |
             const isPR = !!context.payload.pull_request;
-            const number = isPR
-              ? context.payload.pull_request.number
-              : context.payload.issue.number;
+            const obj = isPR ? context.payload.pull_request : context.payload.issue;
+            const association = obj.author_association;
+            const senderType = context.payload.sender.type;
+
+            const allowed = ['MEMBER', 'OWNER', 'COLLABORATOR'];
+            if (allowed.includes(association)) {
+              core.info(`Skipping: author_association=${association}`);
+              return;
+            }
+            if (senderType === 'Bot') {
+              core.info('Skipping: sender is a bot');
+              return;
+            }
+
+            const number = obj.number;
             const author = context.payload.sender.login;
 
             const body = [
