@@ -2,9 +2,14 @@ name: Renew interaction limit
 
 # Refreshes the repository's "collaborators_only" interaction limit
 # before its 6-month expiry runs out. Paired with restrict-contributions.yml:
-# this prevents non-Automattic-org users from opening issues/PRs at all,
-# while restrict-contributions.yml auto-closes anything that slips through
-# (e.g. if this job is ever paused or fails).
+# the interaction limit prevents non-Automattic-org users from opening
+# issues/PRs in the first place, while restrict-contributions.yml auto-closes
+# anything that slips through.
+#
+# Setup: the interaction-limits API is admin-only and the built-in
+# GITHUB_TOKEN cannot grant repo-admin permissions. This workflow needs
+# a fine-grained PAT with "Administration: read and write" on this
+# repository, stored as a repo secret named INTERACTION_LIMIT_TOKEN.
 
 on:
   schedule:
@@ -13,7 +18,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  administration: write
+  contents: read
 
 jobs:
   renew:
@@ -21,6 +26,7 @@ jobs:
     steps:
       - uses: actions/github-script@v7
         with:
+          github-token: ${{ secrets.INTERACTION_LIMIT_TOKEN }}
           script: |
             await github.request('PUT /repos/{owner}/{repo}/interaction-limits', {
               owner: context.repo.owner,
