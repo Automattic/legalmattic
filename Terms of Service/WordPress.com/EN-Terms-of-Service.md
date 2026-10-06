@@ -1,7 +1,7 @@
 Terms of Service
 ----------------
 
-*Last Updated: April 10, 2026*
+*Last Updated: October 6, 2026*
 
 The Gist
 --------
@@ -366,6 +366,14 @@ You’re responsible for your Input, the use of any Output, and for complying wi
 **Telex.** Any [blocks](https://wordpress.org/blocks/) you create with [Telex](https://telex.automattic.ai/) may be publicly available and associated with your profile, and shall be licensed to the public under the GPL ([GPL version 2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html) or later).
 
 In addition, you grant us a separate, worldwide, royalty-free, transferable, sub-licensable, and non-exclusive license to use, reproduce, modify, distribute, adapt, publicly display, and publish your blocks, username, and profile, for the purpose of of providing our Services and promoting your blocks and Telex. This license does not affect any ownership rights you may have in the Output. 
+
+### l. Beta Services
+
+We may offer services or features identified as beta, preview, early access, or a similar designation (each, a “Beta”).
+
+**Beta Nature.** Betas are provided for testing and feedback and may contain errors, be unavailable, or provide inaccurate, incomplete, or outdated information. We may modify, suspend, or discontinue a Beta or your access to it at any time, with or without notice. You are responsible for evaluating any reports, estimates, projections, recommendations, or other information provided through a Beta and for decisions you make based on them. We don’t guarantee any particular result or outcome. We have no obligation to support or continue a Beta, make it generally available, or commit to any pricing, features, or timeline.
+
+**Confidentiality.** Unless we indicate otherwise, any non-public Beta is confidential. You must keep confidential any non-public information about it, including its existence, features, and performance, and use that information only to participate in the Beta. You may share it only with your personnel and contractors who need it for that purpose and are bound by similar confidentiality obligations. These duties don’t apply to information that becomes public through no breach of these Terms, that you already lawfully knew without restriction, that you independently developed without using the confidential information, or that you lawfully received from another source without restriction. You may disclose information if legally required, with prior notice to us where permitted. These duties continue for three years after your participation in the Beta ends.
 
 9\. Copyright Policy
 --------------------
